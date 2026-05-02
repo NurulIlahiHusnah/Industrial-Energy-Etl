@@ -1,0 +1,104 @@
+[2026-04-28 21:16:10] START INGESTION
+[2026-04-28 21:16:10] Found Tenant.csv
+[2026-04-28 21:16:10] Moved Tenant.csv to staging
+[2026-04-28 21:16:10] Found Utilities.csv
+[2026-04-28 21:16:10] Moved Utilities.csv to staging
+[2026-04-28 21:16:10] Found Transactions.csv
+[2026-04-28 21:16:10] Moved Transactions.csv to staging
+[2026-04-28 21:16:10] END INGESTION
+-----------------------------
+[2026-04-28 21:16:47] START INGESTION
+[2026-04-28 21:16:47] Found Tenant.csv
+[2026-04-28 21:16:47] Moved Tenant.csv to staging
+[2026-04-28 21:16:47] Found Utilities.csv
+[2026-04-28 21:16:47] Moved Utilities.csv to staging
+[2026-04-28 21:16:47] Found Transactions.csv
+[2026-04-28 21:16:47] Moved Transactions.csv to staging
+[2026-04-28 21:16:47] END INGESTION
+-----------------------------
+[2026-04-28 21:27:59] START INGESTION
+[2026-04-28 21:27:59] Found Tenant.csv
+[2026-04-28 21:27:59] Moved Tenant.csv to staging
+[2026-04-28 21:27:59] Found Utilities.csv
+[2026-04-28 21:27:59] Moved Utilities.csv to staging
+[2026-04-28 21:27:59] Found Transactions.csv
+[2026-04-28 21:27:59] Moved Transactions.csv to staging
+[2026-04-28 21:27:59] END INGESTION
+-----------------------------
+[2026-04-28 21:52:53] START INGESTION
+[2026-04-28 21:52:53] Found Tenant.csv
+[2026-04-28 21:52:53] Moved Tenant.csv to staging
+[2026-04-28 21:52:53] Found Utilities.csv
+[2026-04-28 21:52:53] Moved Utilities.csv to staging
+[2026-04-28 21:52:53] Found Transactions.csv
+[2026-04-28 21:52:53] Moved Transactions.csv to staging
+[2026-04-28 21:52:53] END INGESTION
+-----------------------------
+[2026-04-28 21:57:51] START INGESTION
+[2026-04-28 21:57:51] Found Tenant.csv
+[2026-04-28 21:57:51] Moved Tenant.csv to staging
+[2026-04-28 21:57:51] Found Utilities.csv
+[2026-04-28 21:57:51] Moved Utilities.csv to staging
+[2026-04-28 21:57:51] Found Transactions.csv
+[2026-04-28 21:57:51] Moved Transactions.csv to staging
+[2026-04-28 21:57:51] END INGESTION
+-----------------------------
+[2026-04-30 21:00:34] START INGESTION
+[2026-04-30 21:00:34] Copying Tenant.csv to staging...
+[2026-04-30 21:00:34] ✓ Tenant.csv staged successfully
+[2026-04-30 21:00:34] Copying Utilities.csv to staging...
+[2026-04-30 21:00:34] ✓ Utilities.csv staged successfully
+[2026-04-30 21:00:34] Copying Transactions.csv to staging...
+[2026-04-30 21:00:34] ✓ Transactions.csv staged successfully
+[2026-04-30 21:00:34] Running ETL process.py...
+Jumlah data: 1000
+ETL gagal, cek log untuk detail: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+[2026-04-30 21:00:34] ETL completed successfully!
+[2026-04-30 21:00:34] END INGESTION - SUCCESS
+----------------------------------------
+[2026-04-30 22:05:14] START INGESTION
+[2026-04-30 22:05:14] Copying Tenant.csv to staging...
+[2026-04-30 22:05:14] ✓ Tenant.csv staged successfully
+[2026-04-30 22:05:14] Copying Utilities.csv to staging...
+[2026-04-30 22:05:14] ✓ Utilities.csv staged successfully
+[2026-04-30 22:05:14] Copying Transactions.csv to staging...
+[2026-04-30 22:05:14] ✓ Transactions.csv staged successfully
+[2026-04-30 22:05:14] Running ETL process.py...
+Jumlah data: 1000
+ETL gagal, cek log untuk detail: extra data after last expected column
+CONTEXT:  COPY fact_energy_usage, line 1: "T000,2024-01-01,952,96,2057,,,,,,Fernandez-Hunter,chelsea14@example.org,804.985.4359,"409 Brandi Lan..."
+
+[2026-04-30 22:05:14] ETL completed successfully!
+[2026-04-30 22:05:14] END INGESTION - SUCCESS
+----------------------------------------
+[2026-04-30 22:13:18] START INGESTION
+[2026-04-30 22:13:18] Copying Tenant.csv to staging...
+[2026-04-30 22:13:18] ✓ Tenant.csv staged successfully
+[2026-04-30 22:13:18] Copying Utilities.csv to staging...
+[2026-04-30 22:13:18] ✓ Utilities.csv staged successfully
+[2026-04-30 22:13:18] Copying Transactions.csv to staging...
+[2026-04-30 22:13:18] ✓ Transactions.csv staged successfully
+[2026-04-30 22:13:18] Running ETL process.py...
+Jumlah data: 1000
+ETL gagal, cek log untuk detail: extra data after last expected column
+CONTEXT:  COPY fact_energy_usage, line 1: "T000,2024-01-01,952,96,2057,,,,,,Fernandez-Hunter,chelsea14@example.org,804.985.4359,"409 Brandi Lan..."
+
+[2026-04-30 22:13:18] ETL completed successfully!
+[2026-04-30 22:13:18] END INGESTION - SUCCESS
+----------------------------------------
+[2026-05-01 20:58:41] START INGESTION
+[2026-05-01 20:58:41] Copying Tenant.csv to staging...
+[2026-05-01 20:58:41] ✓ Tenant.csv staged successfully
+[2026-05-01 20:58:41] Copying Utilities.csv to staging...
+[2026-05-01 20:58:41] ✓ Utilities.csv staged successfully
+[2026-05-01 20:58:41] Copying Transactions.csv to staging...
+[2026-05-01 20:58:41] ✓ Transactions.csv staged successfully
+[2026-05-01 20:58:41] Running ETL process.py...
+Jumlah data: 1000
+Kolom yang akan diinsert: tenant_id, date, gas_m3, water_m3, electricity_kwh, transaction_id, amount, tenor, addres, status, tenant_name, tenant_email, tenant_phone, tenant_address, industry, location, efficiency dan jumlah data: 1000 rows 
+ETL selesai dengan sukses + data masuk ke database
+[2026-05-01 20:58:41] ETL completed successfully!
+[2026-05-01 20:58:41] END INGESTION - SUCCESS
+----------------------------------------
