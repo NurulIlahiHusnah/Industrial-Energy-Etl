@@ -1,0 +1,2001 @@
+tenant_id,date,gas_m3,water_m3,electricity_kwh,transaction_id,amount,tenor,addres,status,tenant_name,tenant_email,tenant_phone,tenant_address,industry,location,efficiency
+T000,2024-01-01,952,96,2057,,,,,,Fernandez-Hunter,chelsea14@example.org,804.985.4359,"409 Brandi Land
+East Joseph, UT 40228",Utilities,Bogor,
+T000,2024-01-02,947,53,2850,,,,,,Fernandez-Hunter,chelsea14@example.org,804.985.4359,"409 Brandi Land
+East Joseph, UT 40228",Utilities,Bogor,
+T000,2024-01-03,181,52,4371,,,,,,Fernandez-Hunter,chelsea14@example.org,804.985.4359,"409 Brandi Land
+East Joseph, UT 40228",Utilities,Bogor,
+T000,2024-01-04,744,94,3724,,,,,,Fernandez-Hunter,chelsea14@example.org,804.985.4359,"409 Brandi Land
+East Joseph, UT 40228",Utilities,Bogor,
+T000,2024-01-05,778,30,2232,TRX05,209251.0,12.0,Cikarang,Default,Fernandez-Hunter,chelsea14@example.org,804.985.4359,"409 Brandi Land
+East Joseph, UT 40228",Utilities,Bogor,93.75044802867383
+T001,2024-01-01,875,76,537,,,,,,"Arnold, Carlson and Lewis",victor70@example.net,383.974.6097x61721,"6592 Emily Mall Apt. 969
+West Theresa, WA 01135",Tech,Cikarang,
+T001,2024-01-02,812,31,4891,,,,,,"Arnold, Carlson and Lewis",victor70@example.net,383.974.6097x61721,"6592 Emily Mall Apt. 969
+West Theresa, WA 01135",Tech,Cikarang,
+T001,2024-01-03,632,51,1662,,,,,,"Arnold, Carlson and Lewis",victor70@example.net,383.974.6097x61721,"6592 Emily Mall Apt. 969
+West Theresa, WA 01135",Tech,Cikarang,
+T001,2024-01-04,554,73,1058,,,,,,"Arnold, Carlson and Lewis",victor70@example.net,383.974.6097x61721,"6592 Emily Mall Apt. 969
+West Theresa, WA 01135",Tech,Cikarang,
+T001,2024-01-05,281,41,2204,TRX15,142739.0,6.0,Jakarta,No-Default,"Arnold, Carlson and Lewis",victor70@example.net,383.974.6097x61721,"6592 Emily Mall Apt. 969
+West Theresa, WA 01135",Tech,Cikarang,64.76361161524501
+T002,2024-01-01,777,71,4138,,,,,,Payne Inc,ysmith@example.org,656.383.5087,"3454 Emily Ridge Suite 825
+Washingtonchester, SD 17261",Tech,Cikarang,
+T002,2024-01-02,524,93,4136,,,,,,Payne Inc,ysmith@example.org,656.383.5087,"3454 Emily Ridge Suite 825
+Washingtonchester, SD 17261",Tech,Cikarang,
+T002,2024-01-03,586,37,4971,,,,,,Payne Inc,ysmith@example.org,656.383.5087,"3454 Emily Ridge Suite 825
+Washingtonchester, SD 17261",Tech,Cikarang,
+T002,2024-01-04,819,58,2323,,,,,,Payne Inc,ysmith@example.org,656.383.5087,"3454 Emily Ridge Suite 825
+Washingtonchester, SD 17261",Tech,Cikarang,
+T002,2024-01-05,823,23,3612,TRX25,427043.0,6.0,Jakarta,Default,Payne Inc,ysmith@example.org,656.383.5087,"3454 Emily Ridge Suite 825
+Washingtonchester, SD 17261",Tech,Cikarang,118.22895902547066
+T003,2024-01-01,196,76,4021,,,,,,Miller-Cole,wellsstephanie@example.com,542-329-6156,"1744 Hale Curve Apt. 965
+Medinabury, VI 66477",Manufacturing,Bandung,
+T003,2024-01-02,803,41,2054,,,,,,Miller-Cole,wellsstephanie@example.com,542-329-6156,"1744 Hale Curve Apt. 965
+Medinabury, VI 66477",Manufacturing,Bandung,
+T003,2024-01-03,838,69,2250,,,,,,Miller-Cole,wellsstephanie@example.com,542-329-6156,"1744 Hale Curve Apt. 965
+Medinabury, VI 66477",Manufacturing,Bandung,
+T003,2024-01-04,555,76,1688,,,,,,Miller-Cole,wellsstephanie@example.com,542-329-6156,"1744 Hale Curve Apt. 965
+Medinabury, VI 66477",Manufacturing,Bandung,
+T003,2024-01-05,726,77,3852,TRX35,404344.0,12.0,Surabaya,Default,Miller-Cole,wellsstephanie@example.com,542-329-6156,"1744 Hale Curve Apt. 965
+Medinabury, VI 66477",Manufacturing,Bandung,104.96988577362409
+T004,2024-01-01,659,28,4623,,,,,,Smith-Sampson,mcgeelaura@example.net,480-228-5299x1504,"0309 Carlos Ford
+Davidmouth, MA 43466",Utilities,Surabaya,
+T004,2024-01-02,420,23,2802,,,,,,Smith-Sampson,mcgeelaura@example.net,480-228-5299x1504,"0309 Carlos Ford
+Davidmouth, MA 43466",Utilities,Surabaya,
+T004,2024-01-03,409,64,1764,,,,,,Smith-Sampson,mcgeelaura@example.net,480-228-5299x1504,"0309 Carlos Ford
+Davidmouth, MA 43466",Utilities,Surabaya,
+T004,2024-01-04,407,95,3596,,,,,,Smith-Sampson,mcgeelaura@example.net,480-228-5299x1504,"0309 Carlos Ford
+Davidmouth, MA 43466",Utilities,Surabaya,
+T004,2024-01-05,710,21,4671,TRX45,160776.0,6.0,Jakarta,Default,Smith-Sampson,mcgeelaura@example.net,480-228-5299x1504,"0309 Carlos Ford
+Davidmouth, MA 43466",Utilities,Surabaya,34.420038535645475
+T005,2024-01-01,172,26,2740,,,,,,Ramos and Sons,shari64@example.net,001-384-873-3875x342,"66114 Peterson Passage
+West Anthony, OR 46481",Utilities,Cikarang,
+T005,2024-01-02,555,100,4371,,,,,,Ramos and Sons,shari64@example.net,001-384-873-3875x342,"66114 Peterson Passage
+West Anthony, OR 46481",Utilities,Cikarang,
+T005,2024-01-03,806,74,2002,,,,,,Ramos and Sons,shari64@example.net,001-384-873-3875x342,"66114 Peterson Passage
+West Anthony, OR 46481",Utilities,Cikarang,
+T005,2024-01-04,563,35,4968,,,,,,Ramos and Sons,shari64@example.net,001-384-873-3875x342,"66114 Peterson Passage
+West Anthony, OR 46481",Utilities,Cikarang,
+T005,2024-01-05,117,43,4445,TRX55,286871.0,3.0,Bandung,Default,Ramos and Sons,shari64@example.net,001-384-873-3875x342,"66114 Peterson Passage
+West Anthony, OR 46481",Utilities,Cikarang,64.53790776152981
+T006,2024-01-01,705,75,1253,,,,,,Gregory-Faulkner,daniel85@example.net,(959)687-7776x711,"384 Baker Junctions Apt. 255
+West Amandaburgh, OH 84189",Manufacturing,Bandung,
+T006,2024-01-02,535,13,1366,,,,,,Gregory-Faulkner,daniel85@example.net,(959)687-7776x711,"384 Baker Junctions Apt. 255
+West Amandaburgh, OH 84189",Manufacturing,Bandung,
+T006,2024-01-03,129,72,3510,,,,,,Gregory-Faulkner,daniel85@example.net,(959)687-7776x711,"384 Baker Junctions Apt. 255
+West Amandaburgh, OH 84189",Manufacturing,Bandung,
+T006,2024-01-04,452,28,1032,,,,,,Gregory-Faulkner,daniel85@example.net,(959)687-7776x711,"384 Baker Junctions Apt. 255
+West Amandaburgh, OH 84189",Manufacturing,Bandung,
+T006,2024-01-05,100,37,1525,TRX65,396025.0,12.0,Bandung,Default,Gregory-Faulkner,daniel85@example.net,(959)687-7776x711,"384 Baker Junctions Apt. 255
+West Amandaburgh, OH 84189",Manufacturing,Bandung,259.6885245901639
+T007,2024-01-01,985,81,4928,,,,,,"Burke, Griffin and Clay",gpeterson@example.org,843.412.6925,"0281 Jones Turnpike Apt. 672
+Lake Wanda, SC 29013",Tech,Bogor,
+T007,2024-01-02,135,62,2270,,,,,,"Burke, Griffin and Clay",gpeterson@example.org,843.412.6925,"0281 Jones Turnpike Apt. 672
+Lake Wanda, SC 29013",Tech,Bogor,
+T007,2024-01-03,93,25,1011,,,,,,"Burke, Griffin and Clay",gpeterson@example.org,843.412.6925,"0281 Jones Turnpike Apt. 672
+Lake Wanda, SC 29013",Tech,Bogor,
+T007,2024-01-04,629,38,1497,,,,,,"Burke, Griffin and Clay",gpeterson@example.org,843.412.6925,"0281 Jones Turnpike Apt. 672
+Lake Wanda, SC 29013",Tech,Bogor,
+T007,2024-01-05,513,21,3435,TRX75,449375.0,6.0,Cikarang,No-Default,"Burke, Griffin and Clay",gpeterson@example.org,843.412.6925,"0281 Jones Turnpike Apt. 672
+Lake Wanda, SC 29013",Tech,Bogor,130.82241630276565
+T008,2024-01-01,879,76,3183,,,,,,Maldonado Group,comptonmatthew@example.net,8057284454,"56916 Harmon Shoals
+East Gregory, SD 71834",Manufacturing,Bogor,
+T008,2024-01-02,591,98,2980,,,,,,Maldonado Group,comptonmatthew@example.net,8057284454,"56916 Harmon Shoals
+East Gregory, SD 71834",Manufacturing,Bogor,
+T008,2024-01-03,530,35,4030,,,,,,Maldonado Group,comptonmatthew@example.net,8057284454,"56916 Harmon Shoals
+East Gregory, SD 71834",Manufacturing,Bogor,
+T008,2024-01-04,590,63,2944,,,,,,Maldonado Group,comptonmatthew@example.net,8057284454,"56916 Harmon Shoals
+East Gregory, SD 71834",Manufacturing,Bogor,
+T008,2024-01-05,359,32,2759,TRX85,65856.0,12.0,Bandung,No-Default,Maldonado Group,comptonmatthew@example.net,8057284454,"56916 Harmon Shoals
+East Gregory, SD 71834",Manufacturing,Bogor,23.869517941283075
+T009,2024-01-01,615,41,2893,,,,,,Stone-Reed,jonesjill@example.org,(819)228-5286,"79538 Jaclyn Inlet Apt. 851
+West Michellebury, CO 48146",Tech,Bogor,
+T009,2024-01-02,110,88,4915,,,,,,Stone-Reed,jonesjill@example.org,(819)228-5286,"79538 Jaclyn Inlet Apt. 851
+West Michellebury, CO 48146",Tech,Bogor,
+T009,2024-01-03,861,64,3785,,,,,,Stone-Reed,jonesjill@example.org,(819)228-5286,"79538 Jaclyn Inlet Apt. 851
+West Michellebury, CO 48146",Tech,Bogor,
+T009,2024-01-04,511,76,4344,,,,,,Stone-Reed,jonesjill@example.org,(819)228-5286,"79538 Jaclyn Inlet Apt. 851
+West Michellebury, CO 48146",Tech,Bogor,
+T009,2024-01-05,845,30,1203,TRX95,396108.0,3.0,Cikarang,Default,Stone-Reed,jonesjill@example.org,(819)228-5286,"79538 Jaclyn Inlet Apt. 851
+West Michellebury, CO 48146",Tech,Bogor,329.26683291770576
+T010,2024-01-01,52,91,3359,,,,,,Kim Group,amber68@example.org,001-627-772-4406x80198,"122 Joyce Drive
+East Kyle, PR 03960",FMCG,Surabaya,
+T010,2024-01-02,564,70,4693,,,,,,Kim Group,amber68@example.org,001-627-772-4406x80198,"122 Joyce Drive
+East Kyle, PR 03960",FMCG,Surabaya,
+T010,2024-01-03,985,47,3677,,,,,,Kim Group,amber68@example.org,001-627-772-4406x80198,"122 Joyce Drive
+East Kyle, PR 03960",FMCG,Surabaya,
+T010,2024-01-04,695,38,1917,,,,,,Kim Group,amber68@example.org,001-627-772-4406x80198,"122 Joyce Drive
+East Kyle, PR 03960",FMCG,Surabaya,
+T010,2024-01-05,675,72,4255,TRX105,463656.0,6.0,Cikarang,No-Default,Kim Group,amber68@example.org,001-627-772-4406x80198,"122 Joyce Drive
+East Kyle, PR 03960",FMCG,Surabaya,108.96733254994125
+T011,2024-01-01,953,24,2604,,,,,,Freeman LLC,staylor@example.org,(836)505-8200x170,"117 White Oval Apt. 262
+Powersshire, LA 38804",Utilities,Cikarang,
+T011,2024-01-02,513,54,511,,,,,,Freeman LLC,staylor@example.org,(836)505-8200x170,"117 White Oval Apt. 262
+Powersshire, LA 38804",Utilities,Cikarang,
+T011,2024-01-03,882,88,1599,,,,,,Freeman LLC,staylor@example.org,(836)505-8200x170,"117 White Oval Apt. 262
+Powersshire, LA 38804",Utilities,Cikarang,
+T011,2024-01-04,914,16,3857,,,,,,Freeman LLC,staylor@example.org,(836)505-8200x170,"117 White Oval Apt. 262
+Powersshire, LA 38804",Utilities,Cikarang,
+T011,2024-01-05,591,96,3843,TRX115,253782.0,3.0,Bogor,No-Default,Freeman LLC,staylor@example.org,(836)505-8200x170,"117 White Oval Apt. 262
+Powersshire, LA 38804",Utilities,Cikarang,66.03747072599532
+T012,2024-01-01,960,80,1784,,,,,,Russell-Williamson,jeremysims@example.com,(458)646-0106,"08572 Kelly Loaf
+Victoriaburgh, MS 93131",Energy,Bogor,
+T012,2024-01-02,459,93,1217,,,,,,Russell-Williamson,jeremysims@example.com,(458)646-0106,"08572 Kelly Loaf
+Victoriaburgh, MS 93131",Energy,Bogor,
+T012,2024-01-03,697,41,501,,,,,,Russell-Williamson,jeremysims@example.com,(458)646-0106,"08572 Kelly Loaf
+Victoriaburgh, MS 93131",Energy,Bogor,
+T012,2024-01-04,853,12,4041,,,,,,Russell-Williamson,jeremysims@example.com,(458)646-0106,"08572 Kelly Loaf
+Victoriaburgh, MS 93131",Energy,Bogor,
+T012,2024-01-05,760,83,3017,TRX125,110712.0,6.0,Jakarta,No-Default,Russell-Williamson,jeremysims@example.com,(458)646-0106,"08572 Kelly Loaf
+Victoriaburgh, MS 93131",Energy,Bogor,36.696055684454755
+T013,2024-01-01,995,59,520,,,,,,Hall PLC,davidbaker@example.org,6572583831,"02006 Ryan Mews
+Torresfurt, UT 41441",Manufacturing,Jakarta,
+T013,2024-01-02,651,19,2777,,,,,,Hall PLC,davidbaker@example.org,6572583831,"02006 Ryan Mews
+Torresfurt, UT 41441",Manufacturing,Jakarta,
+T013,2024-01-03,476,44,2791,,,,,,Hall PLC,davidbaker@example.org,6572583831,"02006 Ryan Mews
+Torresfurt, UT 41441",Manufacturing,Jakarta,
+T013,2024-01-04,54,32,511,,,,,,Hall PLC,davidbaker@example.org,6572583831,"02006 Ryan Mews
+Torresfurt, UT 41441",Manufacturing,Jakarta,
+T013,2024-01-05,493,81,4579,TRX135,116015.0,12.0,Jakarta,No-Default,Hall PLC,davidbaker@example.org,6572583831,"02006 Ryan Mews
+Torresfurt, UT 41441",Manufacturing,Jakarta,25.33631797335663
+T014,2024-01-01,219,56,3636,,,,,,Jackson and Sons,jhensley@example.com,8476984334,"582 Jeffrey Vista Suite 920
+Dylanport, ID 41376",Utilities,Jakarta,
+T014,2024-01-02,758,73,4160,,,,,,Jackson and Sons,jhensley@example.com,8476984334,"582 Jeffrey Vista Suite 920
+Dylanport, ID 41376",Utilities,Jakarta,
+T014,2024-01-03,24,86,3231,,,,,,Jackson and Sons,jhensley@example.com,8476984334,"582 Jeffrey Vista Suite 920
+Dylanport, ID 41376",Utilities,Jakarta,
+T014,2024-01-04,801,15,1614,,,,,,Jackson and Sons,jhensley@example.com,8476984334,"582 Jeffrey Vista Suite 920
+Dylanport, ID 41376",Utilities,Jakarta,
+T014,2024-01-05,33,93,1436,TRX145,499043.0,3.0,Surabaya,Default,Jackson and Sons,jhensley@example.com,8476984334,"582 Jeffrey Vista Suite 920
+Dylanport, ID 41376",Utilities,Jakarta,347.52298050139274
+T015,2024-01-01,581,39,2752,,,,,,"Frazier, Moore and Shields",caleb15@example.org,(686)910-0305x517,"43094 Gonzalez Port
+East Theresa, PR 26475",Manufacturing,Cikarang,
+T015,2024-01-02,504,37,4299,,,,,,"Frazier, Moore and Shields",caleb15@example.org,(686)910-0305x517,"43094 Gonzalez Port
+East Theresa, PR 26475",Manufacturing,Cikarang,
+T015,2024-01-03,764,11,3612,,,,,,"Frazier, Moore and Shields",caleb15@example.org,(686)910-0305x517,"43094 Gonzalez Port
+East Theresa, PR 26475",Manufacturing,Cikarang,
+T015,2024-01-04,556,71,578,,,,,,"Frazier, Moore and Shields",caleb15@example.org,(686)910-0305x517,"43094 Gonzalez Port
+East Theresa, PR 26475",Manufacturing,Cikarang,
+T015,2024-01-05,621,87,1153,TRX155,131731.0,6.0,Surabaya,No-Default,"Frazier, Moore and Shields",caleb15@example.org,(686)910-0305x517,"43094 Gonzalez Port
+East Theresa, PR 26475",Manufacturing,Cikarang,114.25065047701648
+T016,2024-01-01,408,36,4281,,,,,,Kim-Flores,harveydavid@example.com,280.756.8668x457,"995 Chris Isle
+Briggston, NV 94165",Utilities,Surabaya,
+T016,2024-01-02,990,81,4707,,,,,,Kim-Flores,harveydavid@example.com,280.756.8668x457,"995 Chris Isle
+Briggston, NV 94165",Utilities,Surabaya,
+T016,2024-01-03,549,44,1088,,,,,,Kim-Flores,harveydavid@example.com,280.756.8668x457,"995 Chris Isle
+Briggston, NV 94165",Utilities,Surabaya,
+T016,2024-01-04,472,81,2874,,,,,,Kim-Flores,harveydavid@example.com,280.756.8668x457,"995 Chris Isle
+Briggston, NV 94165",Utilities,Surabaya,
+T016,2024-01-05,170,46,615,TRX165,64472.0,3.0,Bogor,Default,Kim-Flores,harveydavid@example.com,280.756.8668x457,"995 Chris Isle
+Briggston, NV 94165",Utilities,Surabaya,104.83252032520325
+T017,2024-01-01,649,65,3881,,,,,,Taylor PLC,elizabethrodriguez@example.org,930-843-9008,"Unit 4203 Box 8597
+DPO AP 41062",Manufacturing,Surabaya,
+T017,2024-01-02,887,98,1398,,,,,,Taylor PLC,elizabethrodriguez@example.org,930-843-9008,"Unit 4203 Box 8597
+DPO AP 41062",Manufacturing,Surabaya,
+T017,2024-01-03,802,87,2148,,,,,,Taylor PLC,elizabethrodriguez@example.org,930-843-9008,"Unit 4203 Box 8597
+DPO AP 41062",Manufacturing,Surabaya,
+T017,2024-01-04,272,26,1648,,,,,,Taylor PLC,elizabethrodriguez@example.org,930-843-9008,"Unit 4203 Box 8597
+DPO AP 41062",Manufacturing,Surabaya,
+T017,2024-01-05,646,67,3493,TRX175,333857.0,6.0,Cikarang,Default,Taylor PLC,elizabethrodriguez@example.org,930-843-9008,"Unit 4203 Box 8597
+DPO AP 41062",Manufacturing,Surabaya,95.57887202977383
+T018,2024-01-01,852,94,3730,,,,,,Chandler-Perez,sueharmon@example.com,429.245.5719x085,"415 Gary Mountain
+Lake Heather, WI 40605",FMCG,Bogor,
+T018,2024-01-02,36,12,4727,,,,,,Chandler-Perez,sueharmon@example.com,429.245.5719x085,"415 Gary Mountain
+Lake Heather, WI 40605",FMCG,Bogor,
+T018,2024-01-03,292,58,500,,,,,,Chandler-Perez,sueharmon@example.com,429.245.5719x085,"415 Gary Mountain
+Lake Heather, WI 40605",FMCG,Bogor,
+T018,2024-01-04,319,33,1910,,,,,,Chandler-Perez,sueharmon@example.com,429.245.5719x085,"415 Gary Mountain
+Lake Heather, WI 40605",FMCG,Bogor,
+T018,2024-01-05,441,93,2657,TRX185,259686.0,6.0,Bogor,No-Default,Chandler-Perez,sueharmon@example.com,429.245.5719x085,"415 Gary Mountain
+Lake Heather, WI 40605",FMCG,Bogor,97.73654497553632
+T019,2024-01-01,995,57,1473,,,,,,Edwards-Johnson,emays@example.net,(384)786-1936,"0675 Johnathan Ranch Suite 406
+Michaeltown, IA 63444",Utilities,Surabaya,
+T019,2024-01-02,574,90,4646,,,,,,Edwards-Johnson,emays@example.net,(384)786-1936,"0675 Johnathan Ranch Suite 406
+Michaeltown, IA 63444",Utilities,Surabaya,
+T019,2024-01-03,225,69,2102,,,,,,Edwards-Johnson,emays@example.net,(384)786-1936,"0675 Johnathan Ranch Suite 406
+Michaeltown, IA 63444",Utilities,Surabaya,
+T019,2024-01-04,261,45,1709,,,,,,Edwards-Johnson,emays@example.net,(384)786-1936,"0675 Johnathan Ranch Suite 406
+Michaeltown, IA 63444",Utilities,Surabaya,
+T019,2024-01-05,456,15,4292,TRX195,387755.0,3.0,Jakarta,Default,Edwards-Johnson,emays@example.net,(384)786-1936,"0675 Johnathan Ranch Suite 406
+Michaeltown, IA 63444",Utilities,Surabaya,90.34366262814538
+T020,2024-01-01,484,37,3510,,,,,,"Lee, Craig and Armstrong",usharp@example.net,693.637.4236x055,"421 Matthew Ranch Apt. 960
+Grahamville, WA 58850",Utilities,Bandung,
+T020,2024-01-02,179,42,1192,,,,,,"Lee, Craig and Armstrong",usharp@example.net,693.637.4236x055,"421 Matthew Ranch Apt. 960
+Grahamville, WA 58850",Utilities,Bandung,
+T020,2024-01-03,537,86,4225,,,,,,"Lee, Craig and Armstrong",usharp@example.net,693.637.4236x055,"421 Matthew Ranch Apt. 960
+Grahamville, WA 58850",Utilities,Bandung,
+T020,2024-01-04,309,54,2456,,,,,,"Lee, Craig and Armstrong",usharp@example.net,693.637.4236x055,"421 Matthew Ranch Apt. 960
+Grahamville, WA 58850",Utilities,Bandung,
+T020,2024-01-05,119,88,1387,TRX205,398064.0,6.0,Surabaya,No-Default,"Lee, Craig and Armstrong",usharp@example.net,693.637.4236x055,"421 Matthew Ranch Apt. 960
+Grahamville, WA 58850",Utilities,Bandung,286.99639509733237
+T021,2024-01-01,903,46,2472,,,,,,Mcdaniel-Taylor,ifisher@example.org,+1-857-526-3479,"USNV Underwood
+FPO AA 08624",Energy,Cikarang,
+T021,2024-01-02,727,71,1892,,,,,,Mcdaniel-Taylor,ifisher@example.org,+1-857-526-3479,"USNV Underwood
+FPO AA 08624",Energy,Cikarang,
+T021,2024-01-03,127,58,807,,,,,,Mcdaniel-Taylor,ifisher@example.org,+1-857-526-3479,"USNV Underwood
+FPO AA 08624",Energy,Cikarang,
+T021,2024-01-04,866,30,4719,,,,,,Mcdaniel-Taylor,ifisher@example.org,+1-857-526-3479,"USNV Underwood
+FPO AA 08624",Energy,Cikarang,
+T021,2024-01-05,835,31,3691,TRX215,475811.0,3.0,Cikarang,No-Default,Mcdaniel-Taylor,ifisher@example.org,+1-857-526-3479,"USNV Underwood
+FPO AA 08624",Energy,Cikarang,128.91113519371444
+T022,2024-01-01,437,74,2000,,,,,,Mora and Sons,jeffreymoreno@example.org,+1-614-595-9827x69550,"933 Grant Corners
+Port Christine, AS 72671",Energy,Jakarta,
+T022,2024-01-02,63,19,4816,,,,,,Mora and Sons,jeffreymoreno@example.org,+1-614-595-9827x69550,"933 Grant Corners
+Port Christine, AS 72671",Energy,Jakarta,
+T022,2024-01-03,343,39,2139,,,,,,Mora and Sons,jeffreymoreno@example.org,+1-614-595-9827x69550,"933 Grant Corners
+Port Christine, AS 72671",Energy,Jakarta,
+T022,2024-01-04,273,80,927,,,,,,Mora and Sons,jeffreymoreno@example.org,+1-614-595-9827x69550,"933 Grant Corners
+Port Christine, AS 72671",Energy,Jakarta,
+T022,2024-01-05,490,60,2535,TRX225,356040.0,6.0,Bandung,No-Default,Mora and Sons,jeffreymoreno@example.org,+1-614-595-9827x69550,"933 Grant Corners
+Port Christine, AS 72671",Energy,Jakarta,140.44970414201183
+T023,2024-01-01,127,40,1811,,,,,,Duke-Walters,matthewhernandez@example.org,467.740.9907x35819,"1505 Schroeder Lights
+Brittneyport, CT 47183",FMCG,Surabaya,
+T023,2024-01-02,499,65,3436,,,,,,Duke-Walters,matthewhernandez@example.org,467.740.9907x35819,"1505 Schroeder Lights
+Brittneyport, CT 47183",FMCG,Surabaya,
+T023,2024-01-03,526,90,3512,,,,,,Duke-Walters,matthewhernandez@example.org,467.740.9907x35819,"1505 Schroeder Lights
+Brittneyport, CT 47183",FMCG,Surabaya,
+T023,2024-01-04,323,49,2633,,,,,,Duke-Walters,matthewhernandez@example.org,467.740.9907x35819,"1505 Schroeder Lights
+Brittneyport, CT 47183",FMCG,Surabaya,
+T023,2024-01-05,126,20,925,TRX235,472999.0,6.0,Bogor,No-Default,Duke-Walters,matthewhernandez@example.org,467.740.9907x35819,"1505 Schroeder Lights
+Brittneyport, CT 47183",FMCG,Surabaya,511.35027027027024
+T024,2024-01-01,619,38,2387,,,,,,Davis Ltd,mark69@example.net,547-418-7578,"028 Anderson Isle
+North Marymouth, MI 58149",Utilities,Cikarang,
+T024,2024-01-02,283,93,1298,,,,,,Davis Ltd,mark69@example.net,547-418-7578,"028 Anderson Isle
+North Marymouth, MI 58149",Utilities,Cikarang,
+T024,2024-01-03,522,73,1273,,,,,,Davis Ltd,mark69@example.net,547-418-7578,"028 Anderson Isle
+North Marymouth, MI 58149",Utilities,Cikarang,
+T024,2024-01-04,535,56,4851,,,,,,Davis Ltd,mark69@example.net,547-418-7578,"028 Anderson Isle
+North Marymouth, MI 58149",Utilities,Cikarang,
+T024,2024-01-05,565,54,3271,TRX245,414783.0,12.0,Surabaya,No-Default,Davis Ltd,mark69@example.net,547-418-7578,"028 Anderson Isle
+North Marymouth, MI 58149",Utilities,Cikarang,126.80617548150413
+T025,2024-01-01,292,87,3970,,,,,,Hood PLC,riverawhitney@example.net,+1-641-205-9460x92335,"255 Hill Route
+North Kelseyhaven, MT 36254",FMCG,Bandung,
+T025,2024-01-02,316,30,2739,,,,,,Hood PLC,riverawhitney@example.net,+1-641-205-9460x92335,"255 Hill Route
+North Kelseyhaven, MT 36254",FMCG,Bandung,
+T025,2024-01-03,410,60,3650,,,,,,Hood PLC,riverawhitney@example.net,+1-641-205-9460x92335,"255 Hill Route
+North Kelseyhaven, MT 36254",FMCG,Bandung,
+T025,2024-01-04,716,29,2755,,,,,,Hood PLC,riverawhitney@example.net,+1-641-205-9460x92335,"255 Hill Route
+North Kelseyhaven, MT 36254",FMCG,Bandung,
+T025,2024-01-05,237,57,882,TRX255,18114.0,3.0,Cikarang,No-Default,Hood PLC,riverawhitney@example.net,+1-641-205-9460x92335,"255 Hill Route
+North Kelseyhaven, MT 36254",FMCG,Bandung,20.537414965986393
+T026,2024-01-01,445,83,2382,,,,,,"Adams, Diaz and Long",jmoore@example.com,(321)276-2580,"531 Madeline Forest Apt. 645
+Lake Christopher, AK 11027",Utilities,Bandung,
+T026,2024-01-02,789,94,4635,,,,,,"Adams, Diaz and Long",jmoore@example.com,(321)276-2580,"531 Madeline Forest Apt. 645
+Lake Christopher, AK 11027",Utilities,Bandung,
+T026,2024-01-03,848,67,4722,,,,,,"Adams, Diaz and Long",jmoore@example.com,(321)276-2580,"531 Madeline Forest Apt. 645
+Lake Christopher, AK 11027",Utilities,Bandung,
+T026,2024-01-04,955,72,1482,,,,,,"Adams, Diaz and Long",jmoore@example.com,(321)276-2580,"531 Madeline Forest Apt. 645
+Lake Christopher, AK 11027",Utilities,Bandung,
+T026,2024-01-05,34,38,3863,TRX265,466118.0,12.0,Cikarang,No-Default,"Adams, Diaz and Long",jmoore@example.com,(321)276-2580,"531 Madeline Forest Apt. 645
+Lake Christopher, AK 11027",Utilities,Bandung,120.66217965311934
+T027,2024-01-01,498,68,3072,,,,,,Ruiz PLC,jacksonmatthew@example.com,282.397.2827x0000,"766 Soto Mission
+Matthewberg, OR 32635",Utilities,Bogor,
+T027,2024-01-02,22,78,958,,,,,,Ruiz PLC,jacksonmatthew@example.com,282.397.2827x0000,"766 Soto Mission
+Matthewberg, OR 32635",Utilities,Bogor,
+T027,2024-01-03,487,49,4045,,,,,,Ruiz PLC,jacksonmatthew@example.com,282.397.2827x0000,"766 Soto Mission
+Matthewberg, OR 32635",Utilities,Bogor,
+T027,2024-01-04,481,69,3749,,,,,,Ruiz PLC,jacksonmatthew@example.com,282.397.2827x0000,"766 Soto Mission
+Matthewberg, OR 32635",Utilities,Bogor,
+T027,2024-01-05,80,14,4400,TRX275,331644.0,3.0,Surabaya,No-Default,Ruiz PLC,jacksonmatthew@example.com,282.397.2827x0000,"766 Soto Mission
+Matthewberg, OR 32635",Utilities,Bogor,75.37363636363636
+T028,2024-01-01,967,33,4033,,,,,,Caldwell Ltd,kristophershields@example.com,001-564-833-6806x71669,"818 Dixon Lane Apt. 021
+Schneiderton, KS 70392",Energy,Surabaya,
+T028,2024-01-02,979,88,798,,,,,,Caldwell Ltd,kristophershields@example.com,001-564-833-6806x71669,"818 Dixon Lane Apt. 021
+Schneiderton, KS 70392",Energy,Surabaya,
+T028,2024-01-03,385,69,2564,,,,,,Caldwell Ltd,kristophershields@example.com,001-564-833-6806x71669,"818 Dixon Lane Apt. 021
+Schneiderton, KS 70392",Energy,Surabaya,
+T028,2024-01-04,828,43,1370,,,,,,Caldwell Ltd,kristophershields@example.com,001-564-833-6806x71669,"818 Dixon Lane Apt. 021
+Schneiderton, KS 70392",Energy,Surabaya,
+T028,2024-01-05,313,50,2660,TRX285,220730.0,12.0,Bandung,No-Default,Caldwell Ltd,kristophershields@example.com,001-564-833-6806x71669,"818 Dixon Lane Apt. 021
+Schneiderton, KS 70392",Energy,Surabaya,82.9812030075188
+T029,2024-01-01,866,90,4067,,,,,,Rodriguez-Sanders,heatherbird@example.com,(554)417-6547x8813,"29095 Yolanda Parkway
+East Alanhaven, FM 63867",Energy,Cikarang,
+T029,2024-01-02,895,53,2525,,,,,,Rodriguez-Sanders,heatherbird@example.com,(554)417-6547x8813,"29095 Yolanda Parkway
+East Alanhaven, FM 63867",Energy,Cikarang,
+T029,2024-01-03,96,67,2220,,,,,,Rodriguez-Sanders,heatherbird@example.com,(554)417-6547x8813,"29095 Yolanda Parkway
+East Alanhaven, FM 63867",Energy,Cikarang,
+T029,2024-01-04,164,99,3422,,,,,,Rodriguez-Sanders,heatherbird@example.com,(554)417-6547x8813,"29095 Yolanda Parkway
+East Alanhaven, FM 63867",Energy,Cikarang,
+T029,2024-01-05,571,46,2156,TRX295,54447.0,3.0,Jakarta,Default,Rodriguez-Sanders,heatherbird@example.com,(554)417-6547x8813,"29095 Yolanda Parkway
+East Alanhaven, FM 63867",Energy,Cikarang,25.253710575139145
+T030,2024-01-01,577,53,3613,,,,,,"Singleton, Sullivan and Valdez",laura45@example.org,001-451-666-7785x8788,"88553 Mary Path Apt. 037
+Youngport, IL 04240",FMCG,Cikarang,
+T030,2024-01-02,280,19,3297,,,,,,"Singleton, Sullivan and Valdez",laura45@example.org,001-451-666-7785x8788,"88553 Mary Path Apt. 037
+Youngport, IL 04240",FMCG,Cikarang,
+T030,2024-01-03,692,75,2537,,,,,,"Singleton, Sullivan and Valdez",laura45@example.org,001-451-666-7785x8788,"88553 Mary Path Apt. 037
+Youngport, IL 04240",FMCG,Cikarang,
+T030,2024-01-04,746,28,1111,,,,,,"Singleton, Sullivan and Valdez",laura45@example.org,001-451-666-7785x8788,"88553 Mary Path Apt. 037
+Youngport, IL 04240",FMCG,Cikarang,
+T030,2024-01-05,874,55,3613,TRX305,60684.0,3.0,Cikarang,No-Default,"Singleton, Sullivan and Valdez",laura45@example.org,001-451-666-7785x8788,"88553 Mary Path Apt. 037
+Youngport, IL 04240",FMCG,Cikarang,16.79601439247163
+T031,2024-01-01,456,98,2878,,,,,,Cox-Schneider,ysanchez@example.org,376-234-0033x90664,"2935 Butler Trace
+New Jennifertown, HI 56536",Manufacturing,Bogor,
+T031,2024-01-02,692,79,598,,,,,,Cox-Schneider,ysanchez@example.org,376-234-0033x90664,"2935 Butler Trace
+New Jennifertown, HI 56536",Manufacturing,Bogor,
+T031,2024-01-03,933,94,4135,,,,,,Cox-Schneider,ysanchez@example.org,376-234-0033x90664,"2935 Butler Trace
+New Jennifertown, HI 56536",Manufacturing,Bogor,
+T031,2024-01-04,916,31,841,,,,,,Cox-Schneider,ysanchez@example.org,376-234-0033x90664,"2935 Butler Trace
+New Jennifertown, HI 56536",Manufacturing,Bogor,
+T031,2024-01-05,871,79,3989,TRX315,246347.0,3.0,Bandung,Default,Cox-Schneider,ysanchez@example.org,376-234-0033x90664,"2935 Butler Trace
+New Jennifertown, HI 56536",Manufacturing,Bogor,61.75658059664076
+T032,2024-01-01,172,82,3405,,,,,,Pineda Inc,ashley07@example.net,700-746-7536x293,"251 Ray Green
+Caldwellhaven, WV 84327",Manufacturing,Cikarang,
+T032,2024-01-02,468,70,4580,,,,,,Pineda Inc,ashley07@example.net,700-746-7536x293,"251 Ray Green
+Caldwellhaven, WV 84327",Manufacturing,Cikarang,
+T032,2024-01-03,721,12,1673,,,,,,Pineda Inc,ashley07@example.net,700-746-7536x293,"251 Ray Green
+Caldwellhaven, WV 84327",Manufacturing,Cikarang,
+T032,2024-01-04,457,62,3194,,,,,,Pineda Inc,ashley07@example.net,700-746-7536x293,"251 Ray Green
+Caldwellhaven, WV 84327",Manufacturing,Cikarang,
+T032,2024-01-05,139,23,1417,TRX325,449999.0,3.0,Bogor,No-Default,Pineda Inc,ashley07@example.net,700-746-7536x293,"251 Ray Green
+Caldwellhaven, WV 84327",Manufacturing,Cikarang,317.5716302046577
+T033,2024-01-01,310,12,1996,,,,,,"Macdonald, Wilson and Robertson",scottthompson@example.net,375-456-1078x076,"2663 Richard Park
+Julieburgh, FM 78853",Tech,Cikarang,
+T033,2024-01-02,431,29,4966,,,,,,"Macdonald, Wilson and Robertson",scottthompson@example.net,375-456-1078x076,"2663 Richard Park
+Julieburgh, FM 78853",Tech,Cikarang,
+T033,2024-01-03,397,83,1363,,,,,,"Macdonald, Wilson and Robertson",scottthompson@example.net,375-456-1078x076,"2663 Richard Park
+Julieburgh, FM 78853",Tech,Cikarang,
+T033,2024-01-04,887,41,3535,,,,,,"Macdonald, Wilson and Robertson",scottthompson@example.net,375-456-1078x076,"2663 Richard Park
+Julieburgh, FM 78853",Tech,Cikarang,
+T033,2024-01-05,153,29,4138,TRX335,72870.0,3.0,Cikarang,No-Default,"Macdonald, Wilson and Robertson",scottthompson@example.net,375-456-1078x076,"2663 Richard Park
+Julieburgh, FM 78853",Tech,Cikarang,17.609956500724987
+T034,2024-01-01,198,29,2714,,,,,,"Donovan, Gonzalez and Sanchez",kathy56@example.com,996-430-4867x6822,"Unit 9332 Box 7053
+DPO AE 52984",Energy,Cikarang,
+T034,2024-01-02,982,86,2391,,,,,,"Donovan, Gonzalez and Sanchez",kathy56@example.com,996-430-4867x6822,"Unit 9332 Box 7053
+DPO AE 52984",Energy,Cikarang,
+T034,2024-01-03,53,68,1470,,,,,,"Donovan, Gonzalez and Sanchez",kathy56@example.com,996-430-4867x6822,"Unit 9332 Box 7053
+DPO AE 52984",Energy,Cikarang,
+T034,2024-01-04,921,56,1984,,,,,,"Donovan, Gonzalez and Sanchez",kathy56@example.com,996-430-4867x6822,"Unit 9332 Box 7053
+DPO AE 52984",Energy,Cikarang,
+T034,2024-01-05,942,24,3049,TRX345,360551.0,12.0,Jakarta,Default,"Donovan, Gonzalez and Sanchez",kathy56@example.com,996-430-4867x6822,"Unit 9332 Box 7053
+DPO AE 52984",Energy,Cikarang,118.25221384060347
+T035,2024-01-01,831,66,4715,,,,,,Garner PLC,dmullins@example.com,6714209416,"113 Maria Village Apt. 895
+Port Alyssa, LA 06143",Energy,Bogor,
+T035,2024-01-02,757,48,955,,,,,,Garner PLC,dmullins@example.com,6714209416,"113 Maria Village Apt. 895
+Port Alyssa, LA 06143",Energy,Bogor,
+T035,2024-01-03,951,80,1695,,,,,,Garner PLC,dmullins@example.com,6714209416,"113 Maria Village Apt. 895
+Port Alyssa, LA 06143",Energy,Bogor,
+T035,2024-01-04,927,89,3293,,,,,,Garner PLC,dmullins@example.com,6714209416,"113 Maria Village Apt. 895
+Port Alyssa, LA 06143",Energy,Bogor,
+T035,2024-01-05,340,53,4782,TRX355,196777.0,3.0,Bogor,Default,Garner PLC,dmullins@example.com,6714209416,"113 Maria Village Apt. 895
+Port Alyssa, LA 06143",Energy,Bogor,41.14951902969469
+T036,2024-01-01,94,30,3985,,,,,,Morales Ltd,catherinematthews@example.net,5413362561,"66006 Barajas Trace
+South Gregory, AK 60665",Manufacturing,Surabaya,
+T036,2024-01-02,96,38,1981,,,,,,Morales Ltd,catherinematthews@example.net,5413362561,"66006 Barajas Trace
+South Gregory, AK 60665",Manufacturing,Surabaya,
+T036,2024-01-03,826,43,4039,,,,,,Morales Ltd,catherinematthews@example.net,5413362561,"66006 Barajas Trace
+South Gregory, AK 60665",Manufacturing,Surabaya,
+T036,2024-01-04,852,66,1198,,,,,,Morales Ltd,catherinematthews@example.net,5413362561,"66006 Barajas Trace
+South Gregory, AK 60665",Manufacturing,Surabaya,
+T036,2024-01-05,293,63,1818,TRX365,42781.0,12.0,Jakarta,Default,Morales Ltd,catherinematthews@example.net,5413362561,"66006 Barajas Trace
+South Gregory, AK 60665",Manufacturing,Surabaya,23.53190319031903
+T037,2024-01-01,228,15,3690,,,,,,Nelson Ltd,kendrawilson@example.com,+1-694-337-0289x76551,"32082 Fry Shoals Apt. 407
+North Anna, PA 47617",Utilities,Bandung,
+T037,2024-01-02,366,30,2486,,,,,,Nelson Ltd,kendrawilson@example.com,+1-694-337-0289x76551,"32082 Fry Shoals Apt. 407
+North Anna, PA 47617",Utilities,Bandung,
+T037,2024-01-03,305,61,560,,,,,,Nelson Ltd,kendrawilson@example.com,+1-694-337-0289x76551,"32082 Fry Shoals Apt. 407
+North Anna, PA 47617",Utilities,Bandung,
+T037,2024-01-04,12,21,2904,,,,,,Nelson Ltd,kendrawilson@example.com,+1-694-337-0289x76551,"32082 Fry Shoals Apt. 407
+North Anna, PA 47617",Utilities,Bandung,
+T037,2024-01-05,874,60,2529,TRX375,106355.0,3.0,Jakarta,Default,Nelson Ltd,kendrawilson@example.com,+1-694-337-0289x76551,"32082 Fry Shoals Apt. 407
+North Anna, PA 47617",Utilities,Bandung,42.05417160933175
+T038,2024-01-01,615,60,2488,,,,,,"Browning, Robinson and Douglas",lintonya@example.org,361-709-5196x2890,"5553 Shawn Valley Apt. 567
+Lake Amyberg, FL 96370",Utilities,Cikarang,
+T038,2024-01-02,144,20,1483,,,,,,"Browning, Robinson and Douglas",lintonya@example.org,361-709-5196x2890,"5553 Shawn Valley Apt. 567
+Lake Amyberg, FL 96370",Utilities,Cikarang,
+T038,2024-01-03,158,94,3007,,,,,,"Browning, Robinson and Douglas",lintonya@example.org,361-709-5196x2890,"5553 Shawn Valley Apt. 567
+Lake Amyberg, FL 96370",Utilities,Cikarang,
+T038,2024-01-04,613,100,3189,,,,,,"Browning, Robinson and Douglas",lintonya@example.org,361-709-5196x2890,"5553 Shawn Valley Apt. 567
+Lake Amyberg, FL 96370",Utilities,Cikarang,
+T038,2024-01-05,912,57,2963,TRX385,64718.0,3.0,Cikarang,No-Default,"Browning, Robinson and Douglas",lintonya@example.org,361-709-5196x2890,"5553 Shawn Valley Apt. 567
+Lake Amyberg, FL 96370",Utilities,Cikarang,21.84205197435032
+T039,2024-01-01,53,25,3819,,,,,,Sanchez Group,lopezjanet@example.net,867-961-2615x604,"96569 Mary Meadows Apt. 379
+South Kaitlyn, MS 14956",Energy,Surabaya,
+T039,2024-01-02,771,90,3110,,,,,,Sanchez Group,lopezjanet@example.net,867-961-2615x604,"96569 Mary Meadows Apt. 379
+South Kaitlyn, MS 14956",Energy,Surabaya,
+T039,2024-01-03,520,42,2930,,,,,,Sanchez Group,lopezjanet@example.net,867-961-2615x604,"96569 Mary Meadows Apt. 379
+South Kaitlyn, MS 14956",Energy,Surabaya,
+T039,2024-01-04,454,33,4405,,,,,,Sanchez Group,lopezjanet@example.net,867-961-2615x604,"96569 Mary Meadows Apt. 379
+South Kaitlyn, MS 14956",Energy,Surabaya,
+T039,2024-01-05,263,74,4569,TRX395,440368.0,12.0,Bogor,No-Default,Sanchez Group,lopezjanet@example.net,867-961-2615x604,"96569 Mary Meadows Apt. 379
+South Kaitlyn, MS 14956",Energy,Surabaya,96.38170277960167
+T040,2024-01-01,180,10,4830,,,,,,"Lee, Parker and Moore",zromero@example.org,+1-320-419-2240x38451,"626 Brian Ports
+East John, PR 64914",Manufacturing,Surabaya,
+T040,2024-01-02,613,77,4497,,,,,,"Lee, Parker and Moore",zromero@example.org,+1-320-419-2240x38451,"626 Brian Ports
+East John, PR 64914",Manufacturing,Surabaya,
+T040,2024-01-03,11,14,4196,,,,,,"Lee, Parker and Moore",zromero@example.org,+1-320-419-2240x38451,"626 Brian Ports
+East John, PR 64914",Manufacturing,Surabaya,
+T040,2024-01-04,180,87,1470,,,,,,"Lee, Parker and Moore",zromero@example.org,+1-320-419-2240x38451,"626 Brian Ports
+East John, PR 64914",Manufacturing,Surabaya,
+T040,2024-01-05,640,44,4243,TRX405,27929.0,3.0,Jakarta,No-Default,"Lee, Parker and Moore",zromero@example.org,+1-320-419-2240x38451,"626 Brian Ports
+East John, PR 64914",Manufacturing,Surabaya,6.582370963940608
+T041,2024-01-01,91,93,4820,,,,,,"Stewart, Sanchez and Williams",newtonrobyn@example.org,(889)394-1179x79594,"7353 Angela Stravenue
+East Misty, WY 83605",Utilities,Bandung,
+T041,2024-01-02,418,77,3193,,,,,,"Stewart, Sanchez and Williams",newtonrobyn@example.org,(889)394-1179x79594,"7353 Angela Stravenue
+East Misty, WY 83605",Utilities,Bandung,
+T041,2024-01-03,810,89,4253,,,,,,"Stewart, Sanchez and Williams",newtonrobyn@example.org,(889)394-1179x79594,"7353 Angela Stravenue
+East Misty, WY 83605",Utilities,Bandung,
+T041,2024-01-04,852,29,2669,,,,,,"Stewart, Sanchez and Williams",newtonrobyn@example.org,(889)394-1179x79594,"7353 Angela Stravenue
+East Misty, WY 83605",Utilities,Bandung,
+T041,2024-01-05,154,82,3144,TRX415,32060.0,6.0,Surabaya,Default,"Stewart, Sanchez and Williams",newtonrobyn@example.org,(889)394-1179x79594,"7353 Angela Stravenue
+East Misty, WY 83605",Utilities,Bandung,10.197201017811706
+T042,2024-01-01,44,68,2998,,,,,,Anthony and Sons,clayton43@example.org,8102179380,"00727 Erin Creek Apt. 517
+Lake Heather, NY 62483",Energy,Bandung,
+T042,2024-01-02,102,31,2998,,,,,,Anthony and Sons,clayton43@example.org,8102179380,"00727 Erin Creek Apt. 517
+Lake Heather, NY 62483",Energy,Bandung,
+T042,2024-01-03,652,13,3111,,,,,,Anthony and Sons,clayton43@example.org,8102179380,"00727 Erin Creek Apt. 517
+Lake Heather, NY 62483",Energy,Bandung,
+T042,2024-01-04,440,40,1041,,,,,,Anthony and Sons,clayton43@example.org,8102179380,"00727 Erin Creek Apt. 517
+Lake Heather, NY 62483",Energy,Bandung,
+T042,2024-01-05,654,47,1541,TRX425,203940.0,6.0,Cikarang,No-Default,Anthony and Sons,clayton43@example.org,8102179380,"00727 Erin Creek Apt. 517
+Lake Heather, NY 62483",Energy,Bandung,132.34263465282285
+T043,2024-01-01,380,16,1692,,,,,,Larsen-Pena,matthewnguyen@example.org,+1-231-524-8423x961,"15762 Dale Mountain
+New Brian, AK 81189",FMCG,Bandung,
+T043,2024-01-02,818,23,3016,,,,,,Larsen-Pena,matthewnguyen@example.org,+1-231-524-8423x961,"15762 Dale Mountain
+New Brian, AK 81189",FMCG,Bandung,
+T043,2024-01-03,460,26,1203,,,,,,Larsen-Pena,matthewnguyen@example.org,+1-231-524-8423x961,"15762 Dale Mountain
+New Brian, AK 81189",FMCG,Bandung,
+T043,2024-01-04,949,70,2630,,,,,,Larsen-Pena,matthewnguyen@example.org,+1-231-524-8423x961,"15762 Dale Mountain
+New Brian, AK 81189",FMCG,Bandung,
+T043,2024-01-05,572,82,1474,TRX435,55592.0,12.0,Cikarang,No-Default,Larsen-Pena,matthewnguyen@example.org,+1-231-524-8423x961,"15762 Dale Mountain
+New Brian, AK 81189",FMCG,Bandung,37.71506105834464
+T044,2024-01-01,462,78,3772,,,,,,"Gomez, Jones and Hawkins",mcleandavid@example.org,+1-823-462-3565x3042,"91680 Teresa Lake
+Port Diana, LA 95634",Manufacturing,Bogor,
+T044,2024-01-02,413,92,1086,,,,,,"Gomez, Jones and Hawkins",mcleandavid@example.org,+1-823-462-3565x3042,"91680 Teresa Lake
+Port Diana, LA 95634",Manufacturing,Bogor,
+T044,2024-01-03,273,49,3131,,,,,,"Gomez, Jones and Hawkins",mcleandavid@example.org,+1-823-462-3565x3042,"91680 Teresa Lake
+Port Diana, LA 95634",Manufacturing,Bogor,
+T044,2024-01-04,465,18,3441,,,,,,"Gomez, Jones and Hawkins",mcleandavid@example.org,+1-823-462-3565x3042,"91680 Teresa Lake
+Port Diana, LA 95634",Manufacturing,Bogor,
+T044,2024-01-05,224,61,896,TRX445,164157.0,12.0,Cikarang,Default,"Gomez, Jones and Hawkins",mcleandavid@example.org,+1-823-462-3565x3042,"91680 Teresa Lake
+Port Diana, LA 95634",Manufacturing,Bogor,183.2109375
+T045,2024-01-01,365,77,3185,,,,,,"Serrano, Collins and Swanson",lauradunn@example.net,(511)445-8778x625,"9978 Hunter Orchard Suite 486
+West Karen, MS 37845",Tech,Jakarta,
+T045,2024-01-02,436,49,3216,,,,,,"Serrano, Collins and Swanson",lauradunn@example.net,(511)445-8778x625,"9978 Hunter Orchard Suite 486
+West Karen, MS 37845",Tech,Jakarta,
+T045,2024-01-03,153,28,1678,,,,,,"Serrano, Collins and Swanson",lauradunn@example.net,(511)445-8778x625,"9978 Hunter Orchard Suite 486
+West Karen, MS 37845",Tech,Jakarta,
+T045,2024-01-04,905,14,2657,,,,,,"Serrano, Collins and Swanson",lauradunn@example.net,(511)445-8778x625,"9978 Hunter Orchard Suite 486
+West Karen, MS 37845",Tech,Jakarta,
+T045,2024-01-05,170,65,1727,TRX455,283219.0,12.0,Surabaya,Default,"Serrano, Collins and Swanson",lauradunn@example.net,(511)445-8778x625,"9978 Hunter Orchard Suite 486
+West Karen, MS 37845",Tech,Jakarta,163.9947886508396
+T046,2024-01-01,946,17,2713,,,,,,"Smith, Johnson and Garza",peterskaren@example.com,+1-594-763-6596x69181,"56158 Cory Square Apt. 209
+Port Diana, IL 85758",Energy,Bogor,
+T046,2024-01-02,923,84,2320,,,,,,"Smith, Johnson and Garza",peterskaren@example.com,+1-594-763-6596x69181,"56158 Cory Square Apt. 209
+Port Diana, IL 85758",Energy,Bogor,
+T046,2024-01-03,662,71,1930,,,,,,"Smith, Johnson and Garza",peterskaren@example.com,+1-594-763-6596x69181,"56158 Cory Square Apt. 209
+Port Diana, IL 85758",Energy,Bogor,
+T046,2024-01-04,183,60,941,,,,,,"Smith, Johnson and Garza",peterskaren@example.com,+1-594-763-6596x69181,"56158 Cory Square Apt. 209
+Port Diana, IL 85758",Energy,Bogor,
+T046,2024-01-05,680,47,3648,TRX465,320477.0,12.0,Cikarang,No-Default,"Smith, Johnson and Garza",peterskaren@example.com,+1-594-763-6596x69181,"56158 Cory Square Apt. 209
+Port Diana, IL 85758",Energy,Bogor,87.8500548245614
+T047,2024-01-01,953,61,2037,,,,,,Perez and Sons,kfoster@example.com,615.453.5422,"159 Robert Crossing
+Cookhaven, PR 24033",Manufacturing,Surabaya,
+T047,2024-01-02,79,57,3409,,,,,,Perez and Sons,kfoster@example.com,615.453.5422,"159 Robert Crossing
+Cookhaven, PR 24033",Manufacturing,Surabaya,
+T047,2024-01-03,408,63,3615,,,,,,Perez and Sons,kfoster@example.com,615.453.5422,"159 Robert Crossing
+Cookhaven, PR 24033",Manufacturing,Surabaya,
+T047,2024-01-04,45,10,2760,,,,,,Perez and Sons,kfoster@example.com,615.453.5422,"159 Robert Crossing
+Cookhaven, PR 24033",Manufacturing,Surabaya,
+T047,2024-01-05,70,65,1604,TRX475,135528.0,6.0,Cikarang,Default,Perez and Sons,kfoster@example.com,615.453.5422,"159 Robert Crossing
+Cookhaven, PR 24033",Manufacturing,Surabaya,84.49376558603491
+T048,2024-01-01,532,55,4164,,,,,,Vargas-Stephens,katherinehooper@example.net,4375766257,"145 Kenneth Square Apt. 825
+North Debramouth, AZ 43300",Energy,Surabaya,
+T048,2024-01-02,99,29,4559,,,,,,Vargas-Stephens,katherinehooper@example.net,4375766257,"145 Kenneth Square Apt. 825
+North Debramouth, AZ 43300",Energy,Surabaya,
+T048,2024-01-03,904,97,1351,,,,,,Vargas-Stephens,katherinehooper@example.net,4375766257,"145 Kenneth Square Apt. 825
+North Debramouth, AZ 43300",Energy,Surabaya,
+T048,2024-01-04,933,38,1472,,,,,,Vargas-Stephens,katherinehooper@example.net,4375766257,"145 Kenneth Square Apt. 825
+North Debramouth, AZ 43300",Energy,Surabaya,
+T048,2024-01-05,587,18,3826,TRX485,190570.0,12.0,Cikarang,No-Default,Vargas-Stephens,katherinehooper@example.net,4375766257,"145 Kenneth Square Apt. 825
+North Debramouth, AZ 43300",Energy,Surabaya,49.809200209095664
+T049,2024-01-01,104,44,4014,,,,,,"Mendez, Brooks and Garcia",xholland@example.net,001-792-442-7472x7429,"3979 Gomez Plaza
+Briantown, NY 90715",FMCG,Bogor,
+T049,2024-01-02,338,71,3588,,,,,,"Mendez, Brooks and Garcia",xholland@example.net,001-792-442-7472x7429,"3979 Gomez Plaza
+Briantown, NY 90715",FMCG,Bogor,
+T049,2024-01-03,553,51,3238,,,,,,"Mendez, Brooks and Garcia",xholland@example.net,001-792-442-7472x7429,"3979 Gomez Plaza
+Briantown, NY 90715",FMCG,Bogor,
+T049,2024-01-04,838,54,4907,,,,,,"Mendez, Brooks and Garcia",xholland@example.net,001-792-442-7472x7429,"3979 Gomez Plaza
+Briantown, NY 90715",FMCG,Bogor,
+T049,2024-01-05,105,41,709,TRX495,377634.0,6.0,Jakarta,No-Default,"Mendez, Brooks and Garcia",xholland@example.net,001-792-442-7472x7429,"3979 Gomez Plaza
+Briantown, NY 90715",FMCG,Bogor,532.6290550070522
+T050,2024-01-01,460,87,4006,,,,,,Bright-Barker,jesusharper@example.com,332-696-9184x5160,"434 Morales Via Apt. 513
+North Jacob, PW 59362",Manufacturing,Bogor,
+T050,2024-01-02,778,95,3205,,,,,,Bright-Barker,jesusharper@example.com,332-696-9184x5160,"434 Morales Via Apt. 513
+North Jacob, PW 59362",Manufacturing,Bogor,
+T050,2024-01-03,718,57,1697,,,,,,Bright-Barker,jesusharper@example.com,332-696-9184x5160,"434 Morales Via Apt. 513
+North Jacob, PW 59362",Manufacturing,Bogor,
+T050,2024-01-04,906,15,2162,,,,,,Bright-Barker,jesusharper@example.com,332-696-9184x5160,"434 Morales Via Apt. 513
+North Jacob, PW 59362",Manufacturing,Bogor,
+T050,2024-01-05,148,12,2077,TRX505,26779.0,6.0,Bogor,No-Default,Bright-Barker,jesusharper@example.com,332-696-9184x5160,"434 Morales Via Apt. 513
+North Jacob, PW 59362",Manufacturing,Bogor,12.893115069812229
+T051,2024-01-01,860,10,4767,,,,,,Harrison LLC,kaitlyn25@example.net,672-507-3607x9796,"Unit 7422 Box 2666
+DPO AA 91844",FMCG,Cikarang,
+T051,2024-01-02,112,100,716,,,,,,Harrison LLC,kaitlyn25@example.net,672-507-3607x9796,"Unit 7422 Box 2666
+DPO AA 91844",FMCG,Cikarang,
+T051,2024-01-03,507,36,1804,,,,,,Harrison LLC,kaitlyn25@example.net,672-507-3607x9796,"Unit 7422 Box 2666
+DPO AA 91844",FMCG,Cikarang,
+T051,2024-01-04,959,93,2089,,,,,,Harrison LLC,kaitlyn25@example.net,672-507-3607x9796,"Unit 7422 Box 2666
+DPO AA 91844",FMCG,Cikarang,
+T051,2024-01-05,200,82,1385,TRX515,376351.0,6.0,Jakarta,No-Default,Harrison LLC,kaitlyn25@example.net,672-507-3607x9796,"Unit 7422 Box 2666
+DPO AA 91844",FMCG,Cikarang,271.7335740072202
+T052,2024-01-01,86,53,1050,,,,,,"Patton, Walker and Ortiz",georgeian@example.org,001-791-413-9135x7652,"15196 Phillips Ranch
+Melissamouth, MH 89083",FMCG,Surabaya,
+T052,2024-01-02,406,41,2975,,,,,,"Patton, Walker and Ortiz",georgeian@example.org,001-791-413-9135x7652,"15196 Phillips Ranch
+Melissamouth, MH 89083",FMCG,Surabaya,
+T052,2024-01-03,315,67,1946,,,,,,"Patton, Walker and Ortiz",georgeian@example.org,001-791-413-9135x7652,"15196 Phillips Ranch
+Melissamouth, MH 89083",FMCG,Surabaya,
+T052,2024-01-04,167,92,3378,,,,,,"Patton, Walker and Ortiz",georgeian@example.org,001-791-413-9135x7652,"15196 Phillips Ranch
+Melissamouth, MH 89083",FMCG,Surabaya,
+T052,2024-01-05,727,38,4778,TRX525,151516.0,12.0,Bandung,No-Default,"Patton, Walker and Ortiz",georgeian@example.org,001-791-413-9135x7652,"15196 Phillips Ranch
+Melissamouth, MH 89083",FMCG,Surabaya,31.711176224361658
+T053,2024-01-01,460,87,1497,,,,,,Thomas-Odom,cwallace@example.net,+1-699-874-0176x7233,"04356 Joan Station Apt. 634
+South Mollyton, PW 76617",Tech,Cikarang,
+T053,2024-01-02,186,67,1406,,,,,,Thomas-Odom,cwallace@example.net,+1-699-874-0176x7233,"04356 Joan Station Apt. 634
+South Mollyton, PW 76617",Tech,Cikarang,
+T053,2024-01-03,177,11,2080,,,,,,Thomas-Odom,cwallace@example.net,+1-699-874-0176x7233,"04356 Joan Station Apt. 634
+South Mollyton, PW 76617",Tech,Cikarang,
+T053,2024-01-04,916,64,3008,,,,,,Thomas-Odom,cwallace@example.net,+1-699-874-0176x7233,"04356 Joan Station Apt. 634
+South Mollyton, PW 76617",Tech,Cikarang,
+T053,2024-01-05,311,63,721,TRX535,181309.0,6.0,Jakarta,No-Default,Thomas-Odom,cwallace@example.net,+1-699-874-0176x7233,"04356 Joan Station Apt. 634
+South Mollyton, PW 76617",Tech,Cikarang,251.46879334257974
+T054,2024-01-01,455,57,2048,,,,,,Navarro PLC,chris72@example.net,377.608.5334x7082,"987 Pham Vista
+Vargasville, NE 35107",Utilities,Cikarang,
+T054,2024-01-02,71,62,2408,,,,,,Navarro PLC,chris72@example.net,377.608.5334x7082,"987 Pham Vista
+Vargasville, NE 35107",Utilities,Cikarang,
+T054,2024-01-03,54,70,2088,,,,,,Navarro PLC,chris72@example.net,377.608.5334x7082,"987 Pham Vista
+Vargasville, NE 35107",Utilities,Cikarang,
+T054,2024-01-04,170,39,789,,,,,,Navarro PLC,chris72@example.net,377.608.5334x7082,"987 Pham Vista
+Vargasville, NE 35107",Utilities,Cikarang,
+T054,2024-01-05,568,85,2018,TRX545,282225.0,3.0,Jakarta,No-Default,Navarro PLC,chris72@example.net,377.608.5334x7082,"987 Pham Vista
+Vargasville, NE 35107",Utilities,Cikarang,139.85381565906837
+T055,2024-01-01,951,25,2001,,,,,,Graves-Bates,valenciadominique@example.net,001-662-684-6524x3857,"878 Barrett Turnpike Suite 468
+Powellfort, MS 80984",Manufacturing,Bandung,
+T055,2024-01-02,756,62,3035,,,,,,Graves-Bates,valenciadominique@example.net,001-662-684-6524x3857,"878 Barrett Turnpike Suite 468
+Powellfort, MS 80984",Manufacturing,Bandung,
+T055,2024-01-03,439,10,1840,,,,,,Graves-Bates,valenciadominique@example.net,001-662-684-6524x3857,"878 Barrett Turnpike Suite 468
+Powellfort, MS 80984",Manufacturing,Bandung,
+T055,2024-01-04,847,39,4620,,,,,,Graves-Bates,valenciadominique@example.net,001-662-684-6524x3857,"878 Barrett Turnpike Suite 468
+Powellfort, MS 80984",Manufacturing,Bandung,
+T055,2024-01-05,889,17,1037,TRX555,268720.0,6.0,Surabaya,No-Default,Graves-Bates,valenciadominique@example.net,001-662-684-6524x3857,"878 Barrett Turnpike Suite 468
+Powellfort, MS 80984",Manufacturing,Bandung,259.1321118611379
+T056,2024-01-01,201,63,3191,,,,,,Lane-Whitehead,martincarla@example.net,581-667-7956,"19795 Davis Ramp Apt. 120
+East Michael, OK 67595",Manufacturing,Jakarta,
+T056,2024-01-02,836,41,1646,,,,,,Lane-Whitehead,martincarla@example.net,581-667-7956,"19795 Davis Ramp Apt. 120
+East Michael, OK 67595",Manufacturing,Jakarta,
+T056,2024-01-03,931,42,1826,,,,,,Lane-Whitehead,martincarla@example.net,581-667-7956,"19795 Davis Ramp Apt. 120
+East Michael, OK 67595",Manufacturing,Jakarta,
+T056,2024-01-04,263,89,2551,,,,,,Lane-Whitehead,martincarla@example.net,581-667-7956,"19795 Davis Ramp Apt. 120
+East Michael, OK 67595",Manufacturing,Jakarta,
+T056,2024-01-05,142,91,3357,TRX565,444724.0,12.0,Jakarta,No-Default,Lane-Whitehead,martincarla@example.net,581-667-7956,"19795 Davis Ramp Apt. 120
+East Michael, OK 67595",Manufacturing,Jakarta,132.4766160262139
+T057,2024-01-01,595,56,4726,,,,,,Potts-Martinez,jessicajohnson@example.org,580.249.2938,"89763 Odonnell Row Suite 752
+Bullockfurt, CO 31475",FMCG,Surabaya,
+T057,2024-01-02,699,13,669,,,,,,Potts-Martinez,jessicajohnson@example.org,580.249.2938,"89763 Odonnell Row Suite 752
+Bullockfurt, CO 31475",FMCG,Surabaya,
+T057,2024-01-03,675,67,1615,,,,,,Potts-Martinez,jessicajohnson@example.org,580.249.2938,"89763 Odonnell Row Suite 752
+Bullockfurt, CO 31475",FMCG,Surabaya,
+T057,2024-01-04,222,99,2034,,,,,,Potts-Martinez,jessicajohnson@example.org,580.249.2938,"89763 Odonnell Row Suite 752
+Bullockfurt, CO 31475",FMCG,Surabaya,
+T057,2024-01-05,536,69,2020,TRX575,117184.0,12.0,Cikarang,Default,Potts-Martinez,jessicajohnson@example.org,580.249.2938,"89763 Odonnell Row Suite 752
+Bullockfurt, CO 31475",FMCG,Surabaya,58.011881188118814
+T058,2024-01-01,97,92,3970,,,,,,Taylor-James,matthew71@example.org,665-338-2005,"Unit 4166 Box 7346
+DPO AA 20787",Tech,Surabaya,
+T058,2024-01-02,986,23,2543,,,,,,Taylor-James,matthew71@example.org,665-338-2005,"Unit 4166 Box 7346
+DPO AA 20787",Tech,Surabaya,
+T058,2024-01-03,103,35,1303,,,,,,Taylor-James,matthew71@example.org,665-338-2005,"Unit 4166 Box 7346
+DPO AA 20787",Tech,Surabaya,
+T058,2024-01-04,544,40,2465,,,,,,Taylor-James,matthew71@example.org,665-338-2005,"Unit 4166 Box 7346
+DPO AA 20787",Tech,Surabaya,
+T058,2024-01-05,574,11,2883,TRX585,451361.0,6.0,Jakarta,Default,Taylor-James,matthew71@example.org,665-338-2005,"Unit 4166 Box 7346
+DPO AA 20787",Tech,Surabaya,156.559486645855
+T059,2024-01-01,466,85,3456,,,,,,Lewis-Jefferson,thomaskelley@example.net,(392)955-1848x815,"45339 Sharp Green Apt. 956
+Stephanietown, IN 59742",Utilities,Surabaya,
+T059,2024-01-02,441,18,2376,,,,,,Lewis-Jefferson,thomaskelley@example.net,(392)955-1848x815,"45339 Sharp Green Apt. 956
+Stephanietown, IN 59742",Utilities,Surabaya,
+T059,2024-01-03,434,49,1298,,,,,,Lewis-Jefferson,thomaskelley@example.net,(392)955-1848x815,"45339 Sharp Green Apt. 956
+Stephanietown, IN 59742",Utilities,Surabaya,
+T059,2024-01-04,457,76,1899,,,,,,Lewis-Jefferson,thomaskelley@example.net,(392)955-1848x815,"45339 Sharp Green Apt. 956
+Stephanietown, IN 59742",Utilities,Surabaya,
+T059,2024-01-05,611,48,4708,TRX595,179076.0,12.0,Cikarang,Default,Lewis-Jefferson,thomaskelley@example.net,(392)955-1848x815,"45339 Sharp Green Apt. 956
+Stephanietown, IN 59742",Utilities,Surabaya,38.03653355989805
+T060,2024-01-01,637,18,1673,,,,,,Shah-Wilson,kelly02@example.org,+1-531-285-8035x265,"457 Sabrina Squares
+Laurenside, HI 35264",Utilities,Jakarta,
+T060,2024-01-02,711,52,1839,,,,,,Shah-Wilson,kelly02@example.org,+1-531-285-8035x265,"457 Sabrina Squares
+Laurenside, HI 35264",Utilities,Jakarta,
+T060,2024-01-03,267,65,1783,,,,,,Shah-Wilson,kelly02@example.org,+1-531-285-8035x265,"457 Sabrina Squares
+Laurenside, HI 35264",Utilities,Jakarta,
+T060,2024-01-04,521,68,4311,,,,,,Shah-Wilson,kelly02@example.org,+1-531-285-8035x265,"457 Sabrina Squares
+Laurenside, HI 35264",Utilities,Jakarta,
+T060,2024-01-05,797,71,2789,TRX605,380658.0,12.0,Surabaya,Default,Shah-Wilson,kelly02@example.org,+1-531-285-8035x265,"457 Sabrina Squares
+Laurenside, HI 35264",Utilities,Jakarta,136.48547866618858
+T061,2024-01-01,93,28,1497,,,,,,Barrett LLC,maryhancock@example.org,510-304-0181x898,"6835 Carr Haven Apt. 379
+Bradleyville, MN 22837",FMCG,Jakarta,
+T061,2024-01-02,557,84,2285,,,,,,Barrett LLC,maryhancock@example.org,510-304-0181x898,"6835 Carr Haven Apt. 379
+Bradleyville, MN 22837",FMCG,Jakarta,
+T061,2024-01-03,160,81,881,,,,,,Barrett LLC,maryhancock@example.org,510-304-0181x898,"6835 Carr Haven Apt. 379
+Bradleyville, MN 22837",FMCG,Jakarta,
+T061,2024-01-04,336,47,4854,,,,,,Barrett LLC,maryhancock@example.org,510-304-0181x898,"6835 Carr Haven Apt. 379
+Bradleyville, MN 22837",FMCG,Jakarta,
+T061,2024-01-05,85,69,4141,TRX615,356527.0,3.0,Surabaya,Default,Barrett LLC,maryhancock@example.org,510-304-0181x898,"6835 Carr Haven Apt. 379
+Bradleyville, MN 22837",FMCG,Jakarta,86.09683651291958
+T062,2024-01-01,100,91,4284,,,,,,Cline PLC,zwalters@example.net,001-852-308-5232x80528,"6361 Sullivan Ramp Suite 265
+West Kristyhaven, OR 61712",Tech,Bandung,
+T062,2024-01-02,974,15,1584,,,,,,Cline PLC,zwalters@example.net,001-852-308-5232x80528,"6361 Sullivan Ramp Suite 265
+West Kristyhaven, OR 61712",Tech,Bandung,
+T062,2024-01-03,715,96,2093,,,,,,Cline PLC,zwalters@example.net,001-852-308-5232x80528,"6361 Sullivan Ramp Suite 265
+West Kristyhaven, OR 61712",Tech,Bandung,
+T062,2024-01-04,831,86,568,,,,,,Cline PLC,zwalters@example.net,001-852-308-5232x80528,"6361 Sullivan Ramp Suite 265
+West Kristyhaven, OR 61712",Tech,Bandung,
+T062,2024-01-05,189,77,2202,TRX625,114149.0,6.0,Cikarang,No-Default,Cline PLC,zwalters@example.net,001-852-308-5232x80528,"6361 Sullivan Ramp Suite 265
+West Kristyhaven, OR 61712",Tech,Bandung,51.83878292461399
+T063,2024-01-01,429,66,4836,,,,,,Chan-Alexander,kristenshaw@example.org,994-242-9631x640,"95034 Martin River
+South Garytown, DE 92754",Energy,Jakarta,
+T063,2024-01-02,921,24,1697,,,,,,Chan-Alexander,kristenshaw@example.org,994-242-9631x640,"95034 Martin River
+South Garytown, DE 92754",Energy,Jakarta,
+T063,2024-01-03,1000,89,4882,,,,,,Chan-Alexander,kristenshaw@example.org,994-242-9631x640,"95034 Martin River
+South Garytown, DE 92754",Energy,Jakarta,
+T063,2024-01-04,94,49,1493,,,,,,Chan-Alexander,kristenshaw@example.org,994-242-9631x640,"95034 Martin River
+South Garytown, DE 92754",Energy,Jakarta,
+T063,2024-01-05,587,61,1524,TRX635,168137.0,3.0,Bogor,Default,Chan-Alexander,kristenshaw@example.org,994-242-9631x640,"95034 Martin River
+South Garytown, DE 92754",Energy,Jakarta,110.3261154855643
+T064,2024-01-01,537,19,4914,,,,,,"Oconnell, Obrien and Howell",carlastevens@example.com,001-215-550-1004x607,"36716 Kemp Avenue Suite 596
+East Stephanie, AZ 94136",Tech,Bogor,
+T064,2024-01-02,892,99,2530,,,,,,"Oconnell, Obrien and Howell",carlastevens@example.com,001-215-550-1004x607,"36716 Kemp Avenue Suite 596
+East Stephanie, AZ 94136",Tech,Bogor,
+T064,2024-01-03,392,85,4469,,,,,,"Oconnell, Obrien and Howell",carlastevens@example.com,001-215-550-1004x607,"36716 Kemp Avenue Suite 596
+East Stephanie, AZ 94136",Tech,Bogor,
+T064,2024-01-04,490,17,3217,,,,,,"Oconnell, Obrien and Howell",carlastevens@example.com,001-215-550-1004x607,"36716 Kemp Avenue Suite 596
+East Stephanie, AZ 94136",Tech,Bogor,
+T064,2024-01-05,170,17,972,TRX645,193416.0,6.0,Cikarang,No-Default,"Oconnell, Obrien and Howell",carlastevens@example.com,001-215-550-1004x607,"36716 Kemp Avenue Suite 596
+East Stephanie, AZ 94136",Tech,Bogor,198.98765432098764
+T065,2024-01-01,339,13,4095,,,,,,"Walters, Perkins and Duffy",xross@example.com,666-942-7496x6463,"4010 Jamie Land
+South Gloriaport, AZ 50224",Utilities,Jakarta,
+T065,2024-01-02,875,51,1003,,,,,,"Walters, Perkins and Duffy",xross@example.com,666-942-7496x6463,"4010 Jamie Land
+South Gloriaport, AZ 50224",Utilities,Jakarta,
+T065,2024-01-03,908,81,1741,,,,,,"Walters, Perkins and Duffy",xross@example.com,666-942-7496x6463,"4010 Jamie Land
+South Gloriaport, AZ 50224",Utilities,Jakarta,
+T065,2024-01-04,226,31,3207,,,,,,"Walters, Perkins and Duffy",xross@example.com,666-942-7496x6463,"4010 Jamie Land
+South Gloriaport, AZ 50224",Utilities,Jakarta,
+T065,2024-01-05,10,94,4593,TRX655,116824.0,12.0,Bandung,No-Default,"Walters, Perkins and Duffy",xross@example.com,666-942-7496x6463,"4010 Jamie Land
+South Gloriaport, AZ 50224",Utilities,Jakarta,25.435227520139343
+T066,2024-01-01,32,17,2072,,,,,,Stewart-Harrison,dperry@example.net,527-773-0667,"466 Alejandra Run Suite 122
+Sarahland, NM 58860",Energy,Bogor,
+T066,2024-01-02,721,38,4736,,,,,,Stewart-Harrison,dperry@example.net,527-773-0667,"466 Alejandra Run Suite 122
+Sarahland, NM 58860",Energy,Bogor,
+T066,2024-01-03,968,11,2547,,,,,,Stewart-Harrison,dperry@example.net,527-773-0667,"466 Alejandra Run Suite 122
+Sarahland, NM 58860",Energy,Bogor,
+T066,2024-01-04,347,91,2144,,,,,,Stewart-Harrison,dperry@example.net,527-773-0667,"466 Alejandra Run Suite 122
+Sarahland, NM 58860",Energy,Bogor,
+T066,2024-01-05,577,54,550,TRX665,63849.0,3.0,Surabaya,No-Default,Stewart-Harrison,dperry@example.net,527-773-0667,"466 Alejandra Run Suite 122
+Sarahland, NM 58860",Energy,Bogor,116.08909090909091
+T067,2024-01-01,114,91,2759,,,,,,Barnett and Sons,jill55@example.com,789-739-5998,"07396 Jeffrey Hills Suite 849
+Port Richard, TX 66176",FMCG,Bandung,
+T067,2024-01-02,378,78,2772,,,,,,Barnett and Sons,jill55@example.com,789-739-5998,"07396 Jeffrey Hills Suite 849
+Port Richard, TX 66176",FMCG,Bandung,
+T067,2024-01-03,111,41,3236,,,,,,Barnett and Sons,jill55@example.com,789-739-5998,"07396 Jeffrey Hills Suite 849
+Port Richard, TX 66176",FMCG,Bandung,
+T067,2024-01-04,299,55,2145,,,,,,Barnett and Sons,jill55@example.com,789-739-5998,"07396 Jeffrey Hills Suite 849
+Port Richard, TX 66176",FMCG,Bandung,
+T067,2024-01-05,563,80,1538,TRX675,275818.0,3.0,Cikarang,Default,Barnett and Sons,jill55@example.com,789-739-5998,"07396 Jeffrey Hills Suite 849
+Port Richard, TX 66176",FMCG,Bandung,179.33550065019506
+T068,2024-01-01,606,86,3652,,,,,,Brown PLC,gonzalesthomas@example.com,(691)236-3668,"58782 Martin Rapids Suite 039
+Ritterland, PR 22852",Utilities,Bandung,
+T068,2024-01-02,645,78,4989,,,,,,Brown PLC,gonzalesthomas@example.com,(691)236-3668,"58782 Martin Rapids Suite 039
+Ritterland, PR 22852",Utilities,Bandung,
+T068,2024-01-03,686,76,3531,,,,,,Brown PLC,gonzalesthomas@example.com,(691)236-3668,"58782 Martin Rapids Suite 039
+Ritterland, PR 22852",Utilities,Bandung,
+T068,2024-01-04,108,93,1816,,,,,,Brown PLC,gonzalesthomas@example.com,(691)236-3668,"58782 Martin Rapids Suite 039
+Ritterland, PR 22852",Utilities,Bandung,
+T068,2024-01-05,823,79,2777,TRX685,222521.0,6.0,Bandung,No-Default,Brown PLC,gonzalesthomas@example.com,(691)236-3668,"58782 Martin Rapids Suite 039
+Ritterland, PR 22852",Utilities,Bandung,80.12999639899172
+T069,2024-01-01,595,23,636,,,,,,"Johnson, Cruz and Petersen",xwarren@example.net,+1-456-838-1246x21604,"304 Gibson Villages
+Johnsonbury, TN 83004",Tech,Bandung,
+T069,2024-01-02,70,67,3073,,,,,,"Johnson, Cruz and Petersen",xwarren@example.net,+1-456-838-1246x21604,"304 Gibson Villages
+Johnsonbury, TN 83004",Tech,Bandung,
+T069,2024-01-03,916,47,2312,,,,,,"Johnson, Cruz and Petersen",xwarren@example.net,+1-456-838-1246x21604,"304 Gibson Villages
+Johnsonbury, TN 83004",Tech,Bandung,
+T069,2024-01-04,344,14,3984,,,,,,"Johnson, Cruz and Petersen",xwarren@example.net,+1-456-838-1246x21604,"304 Gibson Villages
+Johnsonbury, TN 83004",Tech,Bandung,
+T069,2024-01-05,285,17,3704,TRX695,304633.0,12.0,Cikarang,Default,"Johnson, Cruz and Petersen",xwarren@example.net,+1-456-838-1246x21604,"304 Gibson Villages
+Johnsonbury, TN 83004",Tech,Bandung,82.24433045356372
+T070,2024-01-01,453,63,990,,,,,,"Davis, Rodriguez and Martinez",catherine50@example.org,(300)501-8584x932,"23391 Dickson Ville
+South Jose, HI 65034",FMCG,Surabaya,
+T070,2024-01-02,361,14,2749,,,,,,"Davis, Rodriguez and Martinez",catherine50@example.org,(300)501-8584x932,"23391 Dickson Ville
+South Jose, HI 65034",FMCG,Surabaya,
+T070,2024-01-03,441,92,2043,,,,,,"Davis, Rodriguez and Martinez",catherine50@example.org,(300)501-8584x932,"23391 Dickson Ville
+South Jose, HI 65034",FMCG,Surabaya,
+T070,2024-01-04,850,25,1147,,,,,,"Davis, Rodriguez and Martinez",catherine50@example.org,(300)501-8584x932,"23391 Dickson Ville
+South Jose, HI 65034",FMCG,Surabaya,
+T070,2024-01-05,440,72,1625,TRX705,43229.0,12.0,Bogor,Default,"Davis, Rodriguez and Martinez",catherine50@example.org,(300)501-8584x932,"23391 Dickson Ville
+South Jose, HI 65034",FMCG,Surabaya,26.60246153846154
+T071,2024-01-01,938,77,2074,,,,,,Schmidt-Tucker,cjohnson@example.net,(449)804-2906x8400,"9484 Victor Fort Suite 187
+Susanmouth, NM 17969",Utilities,Cikarang,
+T071,2024-01-02,330,52,2356,,,,,,Schmidt-Tucker,cjohnson@example.net,(449)804-2906x8400,"9484 Victor Fort Suite 187
+Susanmouth, NM 17969",Utilities,Cikarang,
+T071,2024-01-03,471,48,4779,,,,,,Schmidt-Tucker,cjohnson@example.net,(449)804-2906x8400,"9484 Victor Fort Suite 187
+Susanmouth, NM 17969",Utilities,Cikarang,
+T071,2024-01-04,494,47,1214,,,,,,Schmidt-Tucker,cjohnson@example.net,(449)804-2906x8400,"9484 Victor Fort Suite 187
+Susanmouth, NM 17969",Utilities,Cikarang,
+T071,2024-01-05,419,45,3531,TRX715,190566.0,6.0,Cikarang,No-Default,Schmidt-Tucker,cjohnson@example.net,(449)804-2906x8400,"9484 Victor Fort Suite 187
+Susanmouth, NM 17969",Utilities,Cikarang,53.96941376380629
+T072,2024-01-01,274,34,4847,,,,,,Contreras-Booker,gnelson@example.net,977.478.1785x6928,"47253 Kelly Orchard
+North Jon, CA 42168",Tech,Jakarta,
+T072,2024-01-02,819,14,3986,,,,,,Contreras-Booker,gnelson@example.net,977.478.1785x6928,"47253 Kelly Orchard
+North Jon, CA 42168",Tech,Jakarta,
+T072,2024-01-03,718,45,4417,,,,,,Contreras-Booker,gnelson@example.net,977.478.1785x6928,"47253 Kelly Orchard
+North Jon, CA 42168",Tech,Jakarta,
+T072,2024-01-04,849,37,2553,,,,,,Contreras-Booker,gnelson@example.net,977.478.1785x6928,"47253 Kelly Orchard
+North Jon, CA 42168",Tech,Jakarta,
+T072,2024-01-05,591,67,2746,TRX725,421296.0,6.0,Bogor,No-Default,Contreras-Booker,gnelson@example.net,977.478.1785x6928,"47253 Kelly Orchard
+North Jon, CA 42168",Tech,Jakarta,153.4217042971595
+T073,2024-01-01,11,55,4057,,,,,,Ward-Bridges,rebecca57@example.com,8833609785,"5100 Hernandez Place Apt. 700
+Lake Josephmouth, IN 65886",FMCG,Jakarta,
+T073,2024-01-02,798,48,4126,,,,,,Ward-Bridges,rebecca57@example.com,8833609785,"5100 Hernandez Place Apt. 700
+Lake Josephmouth, IN 65886",FMCG,Jakarta,
+T073,2024-01-03,471,86,4802,,,,,,Ward-Bridges,rebecca57@example.com,8833609785,"5100 Hernandez Place Apt. 700
+Lake Josephmouth, IN 65886",FMCG,Jakarta,
+T073,2024-01-04,463,23,2595,,,,,,Ward-Bridges,rebecca57@example.com,8833609785,"5100 Hernandez Place Apt. 700
+Lake Josephmouth, IN 65886",FMCG,Jakarta,
+T073,2024-01-05,764,54,1847,TRX735,116794.0,12.0,Cikarang,Default,Ward-Bridges,rebecca57@example.com,8833609785,"5100 Hernandez Place Apt. 700
+Lake Josephmouth, IN 65886",FMCG,Jakarta,63.23443421765025
+T074,2024-01-01,60,25,2949,,,,,,Harrison-Young,ebarker@example.net,(235)557-4168x52832,"261 Villarreal Loop Apt. 197
+Lake Tammy, IA 37956",Manufacturing,Bandung,
+T074,2024-01-02,265,27,951,,,,,,Harrison-Young,ebarker@example.net,(235)557-4168x52832,"261 Villarreal Loop Apt. 197
+Lake Tammy, IA 37956",Manufacturing,Bandung,
+T074,2024-01-03,225,69,2695,,,,,,Harrison-Young,ebarker@example.net,(235)557-4168x52832,"261 Villarreal Loop Apt. 197
+Lake Tammy, IA 37956",Manufacturing,Bandung,
+T074,2024-01-04,557,37,3798,,,,,,Harrison-Young,ebarker@example.net,(235)557-4168x52832,"261 Villarreal Loop Apt. 197
+Lake Tammy, IA 37956",Manufacturing,Bandung,
+T074,2024-01-05,225,75,1194,TRX745,292215.0,3.0,Bandung,Default,Harrison-Young,ebarker@example.net,(235)557-4168x52832,"261 Villarreal Loop Apt. 197
+Lake Tammy, IA 37956",Manufacturing,Bandung,244.73618090452263
+T075,2024-01-01,971,16,4434,,,,,,"Odonnell, Henry and Hall",johnnichols@example.com,+1-251-868-9119x21197,"754 Abigail Camp
+Smithview, CO 36307",Energy,Cikarang,
+T075,2024-01-02,326,97,3364,,,,,,"Odonnell, Henry and Hall",johnnichols@example.com,+1-251-868-9119x21197,"754 Abigail Camp
+Smithview, CO 36307",Energy,Cikarang,
+T075,2024-01-03,298,80,693,,,,,,"Odonnell, Henry and Hall",johnnichols@example.com,+1-251-868-9119x21197,"754 Abigail Camp
+Smithview, CO 36307",Energy,Cikarang,
+T075,2024-01-04,820,86,763,,,,,,"Odonnell, Henry and Hall",johnnichols@example.com,+1-251-868-9119x21197,"754 Abigail Camp
+Smithview, CO 36307",Energy,Cikarang,
+T075,2024-01-05,880,53,4561,TRX755,414797.0,6.0,Bandung,Default,"Odonnell, Henry and Hall",johnnichols@example.com,+1-251-868-9119x21197,"754 Abigail Camp
+Smithview, CO 36307",Energy,Cikarang,90.94431045823285
+T076,2024-01-01,247,24,2167,,,,,,"Fletcher, Black and Christian",timothy20@example.org,001-960-927-3889,"173 Ramos Avenue Suite 474
+Edwardston, VT 97009",Manufacturing,Cikarang,
+T076,2024-01-02,802,72,3487,,,,,,"Fletcher, Black and Christian",timothy20@example.org,001-960-927-3889,"173 Ramos Avenue Suite 474
+Edwardston, VT 97009",Manufacturing,Cikarang,
+T076,2024-01-03,159,67,4873,,,,,,"Fletcher, Black and Christian",timothy20@example.org,001-960-927-3889,"173 Ramos Avenue Suite 474
+Edwardston, VT 97009",Manufacturing,Cikarang,
+T076,2024-01-04,522,57,1950,,,,,,"Fletcher, Black and Christian",timothy20@example.org,001-960-927-3889,"173 Ramos Avenue Suite 474
+Edwardston, VT 97009",Manufacturing,Cikarang,
+T076,2024-01-05,405,31,4107,TRX765,183047.0,3.0,Cikarang,Default,"Fletcher, Black and Christian",timothy20@example.org,001-960-927-3889,"173 Ramos Avenue Suite 474
+Edwardston, VT 97009",Manufacturing,Cikarang,44.569515461407356
+T077,2024-01-01,373,24,1573,,,,,,"Berry, Crosby and Daniel",sarah77@example.net,553-229-3558,"4421 Christensen Key Suite 159
+Garciashire, NE 22298",Energy,Surabaya,
+T077,2024-01-02,887,56,1466,,,,,,"Berry, Crosby and Daniel",sarah77@example.net,553-229-3558,"4421 Christensen Key Suite 159
+Garciashire, NE 22298",Energy,Surabaya,
+T077,2024-01-03,810,91,543,,,,,,"Berry, Crosby and Daniel",sarah77@example.net,553-229-3558,"4421 Christensen Key Suite 159
+Garciashire, NE 22298",Energy,Surabaya,
+T077,2024-01-04,443,37,3157,,,,,,"Berry, Crosby and Daniel",sarah77@example.net,553-229-3558,"4421 Christensen Key Suite 159
+Garciashire, NE 22298",Energy,Surabaya,
+T077,2024-01-05,895,89,751,TRX775,177848.0,12.0,Jakarta,Default,"Berry, Crosby and Daniel",sarah77@example.net,553-229-3558,"4421 Christensen Key Suite 159
+Garciashire, NE 22298",Energy,Surabaya,236.814913448735
+T078,2024-01-01,792,10,1700,,,,,,"Brown, Sullivan and Miller",twilliams@example.com,677-455-7906x333,"5190 Christopher Viaduct Suite 341
+Joelland, IL 62159",Utilities,Bandung,
+T078,2024-01-02,173,39,3599,,,,,,"Brown, Sullivan and Miller",twilliams@example.com,677-455-7906x333,"5190 Christopher Viaduct Suite 341
+Joelland, IL 62159",Utilities,Bandung,
+T078,2024-01-03,951,39,4154,,,,,,"Brown, Sullivan and Miller",twilliams@example.com,677-455-7906x333,"5190 Christopher Viaduct Suite 341
+Joelland, IL 62159",Utilities,Bandung,
+T078,2024-01-04,234,69,3817,,,,,,"Brown, Sullivan and Miller",twilliams@example.com,677-455-7906x333,"5190 Christopher Viaduct Suite 341
+Joelland, IL 62159",Utilities,Bandung,
+T078,2024-01-05,31,69,4833,TRX785,216018.0,12.0,Jakarta,Default,"Brown, Sullivan and Miller",twilliams@example.com,677-455-7906x333,"5190 Christopher Viaduct Suite 341
+Joelland, IL 62159",Utilities,Bandung,44.696461824953445
+T079,2024-01-01,527,11,3800,,,,,,"Reynolds, Larsen and Wilson",larrychang@example.org,(590)930-9457x5692,"927 Marissa Points
+New Josephmouth, PA 41037",Manufacturing,Bandung,
+T079,2024-01-02,260,28,1180,,,,,,"Reynolds, Larsen and Wilson",larrychang@example.org,(590)930-9457x5692,"927 Marissa Points
+New Josephmouth, PA 41037",Manufacturing,Bandung,
+T079,2024-01-03,297,70,537,,,,,,"Reynolds, Larsen and Wilson",larrychang@example.org,(590)930-9457x5692,"927 Marissa Points
+New Josephmouth, PA 41037",Manufacturing,Bandung,
+T079,2024-01-04,191,30,3599,,,,,,"Reynolds, Larsen and Wilson",larrychang@example.org,(590)930-9457x5692,"927 Marissa Points
+New Josephmouth, PA 41037",Manufacturing,Bandung,
+T079,2024-01-05,448,70,1634,TRX795,406660.0,3.0,Bogor,Default,"Reynolds, Larsen and Wilson",larrychang@example.org,(590)930-9457x5692,"927 Marissa Points
+New Josephmouth, PA 41037",Manufacturing,Bandung,248.87392900856793
+T080,2024-01-01,274,32,3893,,,,,,Brooks-Morgan,kelleywilliam@example.com,001-844-420-6134x3841,"22703 Barbara Ports Suite 572
+Pennybury, DC 44690",Manufacturing,Surabaya,
+T080,2024-01-02,729,15,1462,,,,,,Brooks-Morgan,kelleywilliam@example.com,001-844-420-6134x3841,"22703 Barbara Ports Suite 572
+Pennybury, DC 44690",Manufacturing,Surabaya,
+T080,2024-01-03,719,11,4498,,,,,,Brooks-Morgan,kelleywilliam@example.com,001-844-420-6134x3841,"22703 Barbara Ports Suite 572
+Pennybury, DC 44690",Manufacturing,Surabaya,
+T080,2024-01-04,664,18,1760,,,,,,Brooks-Morgan,kelleywilliam@example.com,001-844-420-6134x3841,"22703 Barbara Ports Suite 572
+Pennybury, DC 44690",Manufacturing,Surabaya,
+T080,2024-01-05,491,44,1274,TRX805,60969.0,3.0,Bandung,No-Default,Brooks-Morgan,kelleywilliam@example.com,001-844-420-6134x3841,"22703 Barbara Ports Suite 572
+Pennybury, DC 44690",Manufacturing,Surabaya,47.8563579277865
+T081,2024-01-01,431,70,909,,,,,,Horn and Sons,mccoyjennifer@example.com,(452)262-1444,"68441 Kathy Dale
+North Jonathan, TX 79962",FMCG,Bogor,
+T081,2024-01-02,984,76,2030,,,,,,Horn and Sons,mccoyjennifer@example.com,(452)262-1444,"68441 Kathy Dale
+North Jonathan, TX 79962",FMCG,Bogor,
+T081,2024-01-03,82,34,4254,,,,,,Horn and Sons,mccoyjennifer@example.com,(452)262-1444,"68441 Kathy Dale
+North Jonathan, TX 79962",FMCG,Bogor,
+T081,2024-01-04,745,31,3752,,,,,,Horn and Sons,mccoyjennifer@example.com,(452)262-1444,"68441 Kathy Dale
+North Jonathan, TX 79962",FMCG,Bogor,
+T081,2024-01-05,612,73,808,TRX815,249959.0,6.0,Surabaya,No-Default,Horn and Sons,mccoyjennifer@example.com,(452)262-1444,"68441 Kathy Dale
+North Jonathan, TX 79962",FMCG,Bogor,309.355198019802
+T082,2024-01-01,907,82,526,,,,,,Wolfe Group,matthew34@example.com,(448)819-5272x60846,"25682 Jones Groves
+Josephport, MA 25505",Tech,Surabaya,
+T082,2024-01-02,776,97,4933,,,,,,Wolfe Group,matthew34@example.com,(448)819-5272x60846,"25682 Jones Groves
+Josephport, MA 25505",Tech,Surabaya,
+T082,2024-01-03,987,36,2391,,,,,,Wolfe Group,matthew34@example.com,(448)819-5272x60846,"25682 Jones Groves
+Josephport, MA 25505",Tech,Surabaya,
+T082,2024-01-04,600,12,711,,,,,,Wolfe Group,matthew34@example.com,(448)819-5272x60846,"25682 Jones Groves
+Josephport, MA 25505",Tech,Surabaya,
+T082,2024-01-05,754,37,2559,TRX825,12178.0,12.0,Jakarta,Default,Wolfe Group,matthew34@example.com,(448)819-5272x60846,"25682 Jones Groves
+Josephport, MA 25505",Tech,Surabaya,4.758890191481047
+T083,2024-01-01,93,49,2287,,,,,,Stephenson-Thomas,michelle17@example.com,995-974-3101x18096,"USNS Roberts
+FPO AP 01837",Utilities,Jakarta,
+T083,2024-01-02,735,60,2229,,,,,,Stephenson-Thomas,michelle17@example.com,995-974-3101x18096,"USNS Roberts
+FPO AP 01837",Utilities,Jakarta,
+T083,2024-01-03,598,94,1728,,,,,,Stephenson-Thomas,michelle17@example.com,995-974-3101x18096,"USNS Roberts
+FPO AP 01837",Utilities,Jakarta,
+T083,2024-01-04,205,39,2914,,,,,,Stephenson-Thomas,michelle17@example.com,995-974-3101x18096,"USNS Roberts
+FPO AP 01837",Utilities,Jakarta,
+T083,2024-01-05,467,78,2779,TRX835,430567.0,12.0,Jakarta,Default,Stephenson-Thomas,michelle17@example.com,995-974-3101x18096,"USNS Roberts
+FPO AP 01837",Utilities,Jakarta,154.93594818279956
+T084,2024-01-01,795,91,3202,,,,,,King PLC,denise12@example.net,+1-579-237-3341x399,"39071 Curtis Fords Apt. 923
+Jeffreyshire, NM 42798",Utilities,Cikarang,
+T084,2024-01-02,891,31,1981,,,,,,King PLC,denise12@example.net,+1-579-237-3341x399,"39071 Curtis Fords Apt. 923
+Jeffreyshire, NM 42798",Utilities,Cikarang,
+T084,2024-01-03,12,36,1128,,,,,,King PLC,denise12@example.net,+1-579-237-3341x399,"39071 Curtis Fords Apt. 923
+Jeffreyshire, NM 42798",Utilities,Cikarang,
+T084,2024-01-04,36,63,1711,,,,,,King PLC,denise12@example.net,+1-579-237-3341x399,"39071 Curtis Fords Apt. 923
+Jeffreyshire, NM 42798",Utilities,Cikarang,
+T084,2024-01-05,650,87,4458,TRX845,465972.0,3.0,Bandung,Default,King PLC,denise12@example.net,+1-579-237-3341x399,"39071 Curtis Fords Apt. 923
+Jeffreyshire, NM 42798",Utilities,Cikarang,104.52489905787348
+T085,2024-01-01,284,43,508,,,,,,"Schneider, Gross and Gilbert",mcguiretamara@example.net,7589887532,"251 Karen Underpass Apt. 702
+South Danaside, UT 30842",Manufacturing,Bogor,
+T085,2024-01-02,127,60,3842,,,,,,"Schneider, Gross and Gilbert",mcguiretamara@example.net,7589887532,"251 Karen Underpass Apt. 702
+South Danaside, UT 30842",Manufacturing,Bogor,
+T085,2024-01-03,335,45,3902,,,,,,"Schneider, Gross and Gilbert",mcguiretamara@example.net,7589887532,"251 Karen Underpass Apt. 702
+South Danaside, UT 30842",Manufacturing,Bogor,
+T085,2024-01-04,430,14,1526,,,,,,"Schneider, Gross and Gilbert",mcguiretamara@example.net,7589887532,"251 Karen Underpass Apt. 702
+South Danaside, UT 30842",Manufacturing,Bogor,
+T085,2024-01-05,300,27,2808,TRX855,157048.0,12.0,Bandung,Default,"Schneider, Gross and Gilbert",mcguiretamara@example.net,7589887532,"251 Karen Underpass Apt. 702
+South Danaside, UT 30842",Manufacturing,Bogor,55.92877492877493
+T086,2024-01-01,800,66,2816,,,,,,"Harper, House and George",michaelholmes@example.net,+1-486-246-1510x9212,"550 Martin Skyway Suite 448
+Scotthaven, NH 66238",Energy,Jakarta,
+T086,2024-01-02,660,49,1690,,,,,,"Harper, House and George",michaelholmes@example.net,+1-486-246-1510x9212,"550 Martin Skyway Suite 448
+Scotthaven, NH 66238",Energy,Jakarta,
+T086,2024-01-03,683,92,922,,,,,,"Harper, House and George",michaelholmes@example.net,+1-486-246-1510x9212,"550 Martin Skyway Suite 448
+Scotthaven, NH 66238",Energy,Jakarta,
+T086,2024-01-04,623,23,4904,,,,,,"Harper, House and George",michaelholmes@example.net,+1-486-246-1510x9212,"550 Martin Skyway Suite 448
+Scotthaven, NH 66238",Energy,Jakarta,
+T086,2024-01-05,972,35,544,TRX865,427900.0,12.0,Surabaya,Default,"Harper, House and George",michaelholmes@example.net,+1-486-246-1510x9212,"550 Martin Skyway Suite 448
+Scotthaven, NH 66238",Energy,Jakarta,786.5808823529412
+T087,2024-01-01,775,96,1805,,,,,,Glover-Hunter,amber92@example.com,(714)338-0916,"81461 Thompson Isle Apt. 650
+Spencerburgh, MP 83965",Energy,Jakarta,
+T087,2024-01-02,52,80,2565,,,,,,Glover-Hunter,amber92@example.com,(714)338-0916,"81461 Thompson Isle Apt. 650
+Spencerburgh, MP 83965",Energy,Jakarta,
+T087,2024-01-03,770,60,3930,,,,,,Glover-Hunter,amber92@example.com,(714)338-0916,"81461 Thompson Isle Apt. 650
+Spencerburgh, MP 83965",Energy,Jakarta,
+T087,2024-01-04,106,28,2595,,,,,,Glover-Hunter,amber92@example.com,(714)338-0916,"81461 Thompson Isle Apt. 650
+Spencerburgh, MP 83965",Energy,Jakarta,
+T087,2024-01-05,268,42,508,TRX875,26482.0,6.0,Bogor,Default,Glover-Hunter,amber92@example.com,(714)338-0916,"81461 Thompson Isle Apt. 650
+Spencerburgh, MP 83965",Energy,Jakarta,52.12992125984252
+T088,2024-01-01,642,81,3217,,,,,,"Schultz, Elliott and Copeland",weaverdaniel@example.org,001-323-493-6935,"911 Michael Mountain
+Lake Michael, TX 35288",Tech,Bogor,
+T088,2024-01-02,851,27,3826,,,,,,"Schultz, Elliott and Copeland",weaverdaniel@example.org,001-323-493-6935,"911 Michael Mountain
+Lake Michael, TX 35288",Tech,Bogor,
+T088,2024-01-03,603,92,3952,,,,,,"Schultz, Elliott and Copeland",weaverdaniel@example.org,001-323-493-6935,"911 Michael Mountain
+Lake Michael, TX 35288",Tech,Bogor,
+T088,2024-01-04,938,75,2098,,,,,,"Schultz, Elliott and Copeland",weaverdaniel@example.org,001-323-493-6935,"911 Michael Mountain
+Lake Michael, TX 35288",Tech,Bogor,
+T088,2024-01-05,781,98,1571,TRX885,107669.0,6.0,Surabaya,Default,"Schultz, Elliott and Copeland",weaverdaniel@example.org,001-323-493-6935,"911 Michael Mountain
+Lake Michael, TX 35288",Tech,Bogor,68.53532781667728
+T089,2024-01-01,153,10,4354,,,,,,Johnson and Sons,tinaherrera@example.net,(335)358-7306x1972,"36109 George Forges Apt. 400
+Bakerburgh, AS 27827",Utilities,Bogor,
+T089,2024-01-02,683,29,1975,,,,,,Johnson and Sons,tinaherrera@example.net,(335)358-7306x1972,"36109 George Forges Apt. 400
+Bakerburgh, AS 27827",Utilities,Bogor,
+T089,2024-01-03,417,64,3816,,,,,,Johnson and Sons,tinaherrera@example.net,(335)358-7306x1972,"36109 George Forges Apt. 400
+Bakerburgh, AS 27827",Utilities,Bogor,
+T089,2024-01-04,796,14,633,,,,,,Johnson and Sons,tinaherrera@example.net,(335)358-7306x1972,"36109 George Forges Apt. 400
+Bakerburgh, AS 27827",Utilities,Bogor,
+T089,2024-01-05,647,82,1529,TRX895,335077.0,3.0,Bandung,Default,Johnson and Sons,tinaherrera@example.net,(335)358-7306x1972,"36109 George Forges Apt. 400
+Bakerburgh, AS 27827",Utilities,Bogor,219.14780902550686
+T090,2024-01-01,983,36,2319,,,,,,Price-Henry,laurie20@example.com,466.618.7594x56366,"89469 Mario Locks Apt. 893
+West Stacy, OH 86430",Manufacturing,Surabaya,
+T090,2024-01-02,976,25,2408,,,,,,Price-Henry,laurie20@example.com,466.618.7594x56366,"89469 Mario Locks Apt. 893
+West Stacy, OH 86430",Manufacturing,Surabaya,
+T090,2024-01-03,919,15,2146,,,,,,Price-Henry,laurie20@example.com,466.618.7594x56366,"89469 Mario Locks Apt. 893
+West Stacy, OH 86430",Manufacturing,Surabaya,
+T090,2024-01-04,728,19,3936,,,,,,Price-Henry,laurie20@example.com,466.618.7594x56366,"89469 Mario Locks Apt. 893
+West Stacy, OH 86430",Manufacturing,Surabaya,
+T090,2024-01-05,604,27,785,TRX905,491949.0,3.0,Surabaya,Default,Price-Henry,laurie20@example.com,466.618.7594x56366,"89469 Mario Locks Apt. 893
+West Stacy, OH 86430",Manufacturing,Surabaya,626.6866242038217
+T091,2024-01-01,632,89,4075,,,,,,Johnston-Lee,emma93@example.org,+1-225-444-0286x20378,"8555 Anthony Mill Apt. 255
+Chasechester, AZ 45872",FMCG,Cikarang,
+T091,2024-01-02,734,52,3592,,,,,,Johnston-Lee,emma93@example.org,+1-225-444-0286x20378,"8555 Anthony Mill Apt. 255
+Chasechester, AZ 45872",FMCG,Cikarang,
+T091,2024-01-03,241,21,2822,,,,,,Johnston-Lee,emma93@example.org,+1-225-444-0286x20378,"8555 Anthony Mill Apt. 255
+Chasechester, AZ 45872",FMCG,Cikarang,
+T091,2024-01-04,321,17,1585,,,,,,Johnston-Lee,emma93@example.org,+1-225-444-0286x20378,"8555 Anthony Mill Apt. 255
+Chasechester, AZ 45872",FMCG,Cikarang,
+T091,2024-01-05,26,24,4650,TRX915,380787.0,3.0,Surabaya,Default,Johnston-Lee,emma93@example.org,+1-225-444-0286x20378,"8555 Anthony Mill Apt. 255
+Chasechester, AZ 45872",FMCG,Cikarang,81.88967741935484
+T092,2024-01-01,339,94,2308,,,,,,Bell-Newman,megan39@example.net,001-860-807-4949x16339,"0975 Foster Neck
+Brandiview, ID 99308",Energy,Jakarta,
+T092,2024-01-02,158,26,738,,,,,,Bell-Newman,megan39@example.net,001-860-807-4949x16339,"0975 Foster Neck
+Brandiview, ID 99308",Energy,Jakarta,
+T092,2024-01-03,954,51,3691,,,,,,Bell-Newman,megan39@example.net,001-860-807-4949x16339,"0975 Foster Neck
+Brandiview, ID 99308",Energy,Jakarta,
+T092,2024-01-04,562,45,4005,,,,,,Bell-Newman,megan39@example.net,001-860-807-4949x16339,"0975 Foster Neck
+Brandiview, ID 99308",Energy,Jakarta,
+T092,2024-01-05,701,75,1709,TRX925,184073.0,6.0,Cikarang,Default,Bell-Newman,megan39@example.net,001-860-807-4949x16339,"0975 Foster Neck
+Brandiview, ID 99308",Energy,Jakarta,107.70801638385021
+T093,2024-01-01,414,43,3353,,,,,,Garcia-Stark,franklinjason@example.org,246.407.6995x9081,"51210 Jimenez Camp
+New Sarah, NC 42518",Energy,Jakarta,
+T093,2024-01-02,868,61,1606,,,,,,Garcia-Stark,franklinjason@example.org,246.407.6995x9081,"51210 Jimenez Camp
+New Sarah, NC 42518",Energy,Jakarta,
+T093,2024-01-03,388,29,679,,,,,,Garcia-Stark,franklinjason@example.org,246.407.6995x9081,"51210 Jimenez Camp
+New Sarah, NC 42518",Energy,Jakarta,
+T093,2024-01-04,70,98,1547,,,,,,Garcia-Stark,franklinjason@example.org,246.407.6995x9081,"51210 Jimenez Camp
+New Sarah, NC 42518",Energy,Jakarta,
+T093,2024-01-05,553,10,2205,TRX935,140241.0,3.0,Bandung,Default,Garcia-Stark,franklinjason@example.org,246.407.6995x9081,"51210 Jimenez Camp
+New Sarah, NC 42518",Energy,Jakarta,63.601360544217684
+T094,2024-01-01,311,18,1651,,,,,,Long-Wright,tanneranthony@example.org,+1-256-625-2692x1948,"2648 Paul Causeway Apt. 434
+Lake John, IN 54051",Utilities,Surabaya,
+T094,2024-01-02,270,71,4673,,,,,,Long-Wright,tanneranthony@example.org,+1-256-625-2692x1948,"2648 Paul Causeway Apt. 434
+Lake John, IN 54051",Utilities,Surabaya,
+T094,2024-01-03,179,57,3695,,,,,,Long-Wright,tanneranthony@example.org,+1-256-625-2692x1948,"2648 Paul Causeway Apt. 434
+Lake John, IN 54051",Utilities,Surabaya,
+T094,2024-01-04,121,52,1662,,,,,,Long-Wright,tanneranthony@example.org,+1-256-625-2692x1948,"2648 Paul Causeway Apt. 434
+Lake John, IN 54051",Utilities,Surabaya,
+T094,2024-01-05,244,16,4935,TRX945,70102.0,3.0,Surabaya,Default,Long-Wright,tanneranthony@example.org,+1-256-625-2692x1948,"2648 Paul Causeway Apt. 434
+Lake John, IN 54051",Utilities,Surabaya,14.205065856129686
+T095,2024-01-01,26,62,2920,,,,,,"Melendez, Simmons and Schmidt",jason66@example.org,430-828-2282,"9347 Lee Mews Apt. 260
+South Natalie, LA 83707",Tech,Surabaya,
+T095,2024-01-02,422,60,895,,,,,,"Melendez, Simmons and Schmidt",jason66@example.org,430-828-2282,"9347 Lee Mews Apt. 260
+South Natalie, LA 83707",Tech,Surabaya,
+T095,2024-01-03,932,21,2774,,,,,,"Melendez, Simmons and Schmidt",jason66@example.org,430-828-2282,"9347 Lee Mews Apt. 260
+South Natalie, LA 83707",Tech,Surabaya,
+T095,2024-01-04,493,31,2849,,,,,,"Melendez, Simmons and Schmidt",jason66@example.org,430-828-2282,"9347 Lee Mews Apt. 260
+South Natalie, LA 83707",Tech,Surabaya,
+T095,2024-01-05,650,65,4631,TRX955,268409.0,12.0,Cikarang,Default,"Melendez, Simmons and Schmidt",jason66@example.org,430-828-2282,"9347 Lee Mews Apt. 260
+South Natalie, LA 83707",Tech,Surabaya,57.959188080328225
+T096,2024-01-01,43,23,1378,,,,,,Young LLC,heather67@example.com,268-488-7996,"46324 Reynolds Green
+Andrewtown, MA 68429",Energy,Bogor,
+T096,2024-01-02,509,10,3806,,,,,,Young LLC,heather67@example.com,268-488-7996,"46324 Reynolds Green
+Andrewtown, MA 68429",Energy,Bogor,
+T096,2024-01-03,941,73,4059,,,,,,Young LLC,heather67@example.com,268-488-7996,"46324 Reynolds Green
+Andrewtown, MA 68429",Energy,Bogor,
+T096,2024-01-04,762,43,3745,,,,,,Young LLC,heather67@example.com,268-488-7996,"46324 Reynolds Green
+Andrewtown, MA 68429",Energy,Bogor,
+T096,2024-01-05,945,81,4871,TRX965,439173.0,6.0,Cikarang,Default,Young LLC,heather67@example.com,268-488-7996,"46324 Reynolds Green
+Andrewtown, MA 68429",Energy,Bogor,90.16074727981933
+T097,2024-01-01,34,50,4026,,,,,,Chen LLC,jenniferdominguez@example.org,324.452.1750x06087,"59878 Stephanie Well
+Port Amberchester, AK 38258",FMCG,Bandung,
+T097,2024-01-02,155,75,3249,,,,,,Chen LLC,jenniferdominguez@example.org,324.452.1750x06087,"59878 Stephanie Well
+Port Amberchester, AK 38258",FMCG,Bandung,
+T097,2024-01-03,999,82,920,,,,,,Chen LLC,jenniferdominguez@example.org,324.452.1750x06087,"59878 Stephanie Well
+Port Amberchester, AK 38258",FMCG,Bandung,
+T097,2024-01-04,444,90,2816,,,,,,Chen LLC,jenniferdominguez@example.org,324.452.1750x06087,"59878 Stephanie Well
+Port Amberchester, AK 38258",FMCG,Bandung,
+T097,2024-01-05,21,18,4661,TRX975,402412.0,12.0,Surabaya,Default,Chen LLC,jenniferdominguez@example.org,324.452.1750x06087,"59878 Stephanie Well
+Port Amberchester, AK 38258",FMCG,Bandung,86.33597940356147
+T098,2024-01-01,219,73,4765,,,,,,Hall-Lynn,mark07@example.com,210-725-3396x41452,"97302 Ray Villages Suite 242
+Haleystad, VT 57093",Tech,Cikarang,
+T098,2024-01-02,417,53,1052,,,,,,Hall-Lynn,mark07@example.com,210-725-3396x41452,"97302 Ray Villages Suite 242
+Haleystad, VT 57093",Tech,Cikarang,
+T098,2024-01-03,408,66,975,,,,,,Hall-Lynn,mark07@example.com,210-725-3396x41452,"97302 Ray Villages Suite 242
+Haleystad, VT 57093",Tech,Cikarang,
+T098,2024-01-04,292,20,2812,,,,,,Hall-Lynn,mark07@example.com,210-725-3396x41452,"97302 Ray Villages Suite 242
+Haleystad, VT 57093",Tech,Cikarang,
+T098,2024-01-05,475,76,941,TRX985,440729.0,6.0,Bandung,No-Default,Hall-Lynn,mark07@example.com,210-725-3396x41452,"97302 Ray Villages Suite 242
+Haleystad, VT 57093",Tech,Cikarang,468.3623804463337
+T099,2024-01-01,243,53,3275,,,,,,"Campos, Blake and Lewis",xwood@example.com,+1-299-521-8459x78390,"0748 Lisa Overpass Suite 375
+West Charlesberg, MT 92037",Manufacturing,Bogor,
+T099,2024-01-02,774,77,3152,,,,,,"Campos, Blake and Lewis",xwood@example.com,+1-299-521-8459x78390,"0748 Lisa Overpass Suite 375
+West Charlesberg, MT 92037",Manufacturing,Bogor,
+T099,2024-01-03,998,67,1031,,,,,,"Campos, Blake and Lewis",xwood@example.com,+1-299-521-8459x78390,"0748 Lisa Overpass Suite 375
+West Charlesberg, MT 92037",Manufacturing,Bogor,
+T099,2024-01-04,367,33,4599,,,,,,"Campos, Blake and Lewis",xwood@example.com,+1-299-521-8459x78390,"0748 Lisa Overpass Suite 375
+West Charlesberg, MT 92037",Manufacturing,Bogor,
+T099,2024-01-05,304,42,854,TRX995,422453.0,3.0,Bandung,No-Default,"Campos, Blake and Lewis",xwood@example.com,+1-299-521-8459x78390,"0748 Lisa Overpass Suite 375
+West Charlesberg, MT 92037",Manufacturing,Bogor,494.675644028103
+T100,2024-01-01,162,42,2986,,,,,,Maldonado-Howard,jonathanmiller@example.org,001-690-273-1450x4423,"578 Johnson Pine Suite 541
+Amberland, TX 86322",Manufacturing,Jakarta,
+T100,2024-01-02,863,98,2850,,,,,,Maldonado-Howard,jonathanmiller@example.org,001-690-273-1450x4423,"578 Johnson Pine Suite 541
+Amberland, TX 86322",Manufacturing,Jakarta,
+T100,2024-01-03,880,55,1765,,,,,,Maldonado-Howard,jonathanmiller@example.org,001-690-273-1450x4423,"578 Johnson Pine Suite 541
+Amberland, TX 86322",Manufacturing,Jakarta,
+T100,2024-01-04,70,52,3315,,,,,,Maldonado-Howard,jonathanmiller@example.org,001-690-273-1450x4423,"578 Johnson Pine Suite 541
+Amberland, TX 86322",Manufacturing,Jakarta,
+T100,2024-01-05,845,37,1512,TRX1005,60886.0,6.0,Jakarta,No-Default,Maldonado-Howard,jonathanmiller@example.org,001-690-273-1450x4423,"578 Johnson Pine Suite 541
+Amberland, TX 86322",Manufacturing,Jakarta,40.26851851851852
+T101,2024-01-01,90,84,4327,,,,,,Jimenez Ltd,tthompson@example.org,+1-453-966-5159x242,"245 Arthur Shore
+South Nathanielfort, FL 74792",FMCG,Bandung,
+T101,2024-01-02,486,93,2918,,,,,,Jimenez Ltd,tthompson@example.org,+1-453-966-5159x242,"245 Arthur Shore
+South Nathanielfort, FL 74792",FMCG,Bandung,
+T101,2024-01-03,138,50,3243,,,,,,Jimenez Ltd,tthompson@example.org,+1-453-966-5159x242,"245 Arthur Shore
+South Nathanielfort, FL 74792",FMCG,Bandung,
+T101,2024-01-04,661,83,4887,,,,,,Jimenez Ltd,tthompson@example.org,+1-453-966-5159x242,"245 Arthur Shore
+South Nathanielfort, FL 74792",FMCG,Bandung,
+T101,2024-01-05,162,79,649,TRX1015,431601.0,6.0,Surabaya,Default,Jimenez Ltd,tthompson@example.org,+1-453-966-5159x242,"245 Arthur Shore
+South Nathanielfort, FL 74792",FMCG,Bandung,665.0246533127889
+T102,2024-01-01,463,47,1031,,,,,,Johnson and Sons,imoody@example.com,+1-510-432-3753x628,"41968 Steven Inlet Suite 744
+West Christopherstad, IA 38942",Utilities,Cikarang,
+T102,2024-01-02,510,54,1258,,,,,,Johnson and Sons,imoody@example.com,+1-510-432-3753x628,"41968 Steven Inlet Suite 744
+West Christopherstad, IA 38942",Utilities,Cikarang,
+T102,2024-01-03,883,34,4057,,,,,,Johnson and Sons,imoody@example.com,+1-510-432-3753x628,"41968 Steven Inlet Suite 744
+West Christopherstad, IA 38942",Utilities,Cikarang,
+T102,2024-01-04,16,79,1205,,,,,,Johnson and Sons,imoody@example.com,+1-510-432-3753x628,"41968 Steven Inlet Suite 744
+West Christopherstad, IA 38942",Utilities,Cikarang,
+T102,2024-01-05,965,92,834,TRX1025,197624.0,12.0,Jakarta,No-Default,Johnson and Sons,imoody@example.com,+1-510-432-3753x628,"41968 Steven Inlet Suite 744
+West Christopherstad, IA 38942",Utilities,Cikarang,236.95923261390888
+T103,2024-01-01,897,95,4402,,,,,,"Grimes, Smith and Estes",dennis60@example.net,621-255-9607,"031 Cantu Village
+Paynefort, MI 66682",Utilities,Jakarta,
+T103,2024-01-02,789,71,4901,,,,,,"Grimes, Smith and Estes",dennis60@example.net,621-255-9607,"031 Cantu Village
+Paynefort, MI 66682",Utilities,Jakarta,
+T103,2024-01-03,726,49,2473,,,,,,"Grimes, Smith and Estes",dennis60@example.net,621-255-9607,"031 Cantu Village
+Paynefort, MI 66682",Utilities,Jakarta,
+T103,2024-01-04,562,62,4054,,,,,,"Grimes, Smith and Estes",dennis60@example.net,621-255-9607,"031 Cantu Village
+Paynefort, MI 66682",Utilities,Jakarta,
+T103,2024-01-05,860,52,3772,TRX1035,331389.0,3.0,Bandung,Default,"Grimes, Smith and Estes",dennis60@example.net,621-255-9607,"031 Cantu Village
+Paynefort, MI 66682",Utilities,Jakarta,87.85498409331919
+T104,2024-01-01,146,34,3065,,,,,,"Jackson, Harris and Moody",brittneyrobinson@example.net,483-637-0829x732,"160 Stephen Street
+North Carlosfurt, AL 29594",Energy,Jakarta,
+T104,2024-01-02,752,90,3412,,,,,,"Jackson, Harris and Moody",brittneyrobinson@example.net,483-637-0829x732,"160 Stephen Street
+North Carlosfurt, AL 29594",Energy,Jakarta,
+T104,2024-01-03,832,25,4206,,,,,,"Jackson, Harris and Moody",brittneyrobinson@example.net,483-637-0829x732,"160 Stephen Street
+North Carlosfurt, AL 29594",Energy,Jakarta,
+T104,2024-01-04,173,57,3020,,,,,,"Jackson, Harris and Moody",brittneyrobinson@example.net,483-637-0829x732,"160 Stephen Street
+North Carlosfurt, AL 29594",Energy,Jakarta,
+T104,2024-01-05,43,12,1161,TRX1045,59378.0,6.0,Cikarang,Default,"Jackson, Harris and Moody",brittneyrobinson@example.net,483-637-0829x732,"160 Stephen Street
+North Carlosfurt, AL 29594",Energy,Jakarta,51.14384151593454
+T105,2024-01-01,397,74,3937,,,,,,Brock LLC,ray27@example.com,+1-352-604-7700x6690,"992 Albert Pass Apt. 836
+West Mary, FL 91084",Utilities,Surabaya,
+T105,2024-01-02,560,78,1459,,,,,,Brock LLC,ray27@example.com,+1-352-604-7700x6690,"992 Albert Pass Apt. 836
+West Mary, FL 91084",Utilities,Surabaya,
+T105,2024-01-03,95,12,4887,,,,,,Brock LLC,ray27@example.com,+1-352-604-7700x6690,"992 Albert Pass Apt. 836
+West Mary, FL 91084",Utilities,Surabaya,
+T105,2024-01-04,207,61,2637,,,,,,Brock LLC,ray27@example.com,+1-352-604-7700x6690,"992 Albert Pass Apt. 836
+West Mary, FL 91084",Utilities,Surabaya,
+T105,2024-01-05,142,92,4684,TRX1055,163021.0,6.0,Cikarang,Default,Brock LLC,ray27@example.com,+1-352-604-7700x6690,"992 Albert Pass Apt. 836
+West Mary, FL 91084",Utilities,Surabaya,34.80380017079419
+T106,2024-01-01,40,40,3869,,,,,,"Carter, Williams and Valencia",joshua28@example.net,7386174351,"3293 James Isle
+West Adrienne, GU 80977",FMCG,Bogor,
+T106,2024-01-02,967,71,4548,,,,,,"Carter, Williams and Valencia",joshua28@example.net,7386174351,"3293 James Isle
+West Adrienne, GU 80977",FMCG,Bogor,
+T106,2024-01-03,132,12,1700,,,,,,"Carter, Williams and Valencia",joshua28@example.net,7386174351,"3293 James Isle
+West Adrienne, GU 80977",FMCG,Bogor,
+T106,2024-01-04,734,93,1536,,,,,,"Carter, Williams and Valencia",joshua28@example.net,7386174351,"3293 James Isle
+West Adrienne, GU 80977",FMCG,Bogor,
+T106,2024-01-05,831,16,1795,TRX1065,461267.0,12.0,Jakarta,Default,"Carter, Williams and Valencia",joshua28@example.net,7386174351,"3293 James Isle
+West Adrienne, GU 80977",FMCG,Bogor,256.9732590529248
+T107,2024-01-01,484,82,1011,,,,,,"King, Perry and Farrell",sandra44@example.org,275.582.8888x4081,"4635 Mitchell Prairie Apt. 900
+Kimberlyfort, NC 55964",Manufacturing,Surabaya,
+T107,2024-01-02,782,39,1602,,,,,,"King, Perry and Farrell",sandra44@example.org,275.582.8888x4081,"4635 Mitchell Prairie Apt. 900
+Kimberlyfort, NC 55964",Manufacturing,Surabaya,
+T107,2024-01-03,517,24,1439,,,,,,"King, Perry and Farrell",sandra44@example.org,275.582.8888x4081,"4635 Mitchell Prairie Apt. 900
+Kimberlyfort, NC 55964",Manufacturing,Surabaya,
+T107,2024-01-04,624,49,4125,,,,,,"King, Perry and Farrell",sandra44@example.org,275.582.8888x4081,"4635 Mitchell Prairie Apt. 900
+Kimberlyfort, NC 55964",Manufacturing,Surabaya,
+T107,2024-01-05,258,44,4979,TRX1075,406341.0,6.0,Surabaya,No-Default,"King, Perry and Farrell",sandra44@example.org,275.582.8888x4081,"4635 Mitchell Prairie Apt. 900
+Kimberlyfort, NC 55964",Manufacturing,Surabaya,81.61096605744126
+T108,2024-01-01,759,59,4118,,,,,,"Ward, Edwards and Reyes",sawyermichele@example.org,001-957-316-2514x283,"05439 Small Tunnel
+Markville, KS 33587",Energy,Jakarta,
+T108,2024-01-02,231,85,4053,,,,,,"Ward, Edwards and Reyes",sawyermichele@example.org,001-957-316-2514x283,"05439 Small Tunnel
+Markville, KS 33587",Energy,Jakarta,
+T108,2024-01-03,249,58,1797,,,,,,"Ward, Edwards and Reyes",sawyermichele@example.org,001-957-316-2514x283,"05439 Small Tunnel
+Markville, KS 33587",Energy,Jakarta,
+T108,2024-01-04,230,53,1278,,,,,,"Ward, Edwards and Reyes",sawyermichele@example.org,001-957-316-2514x283,"05439 Small Tunnel
+Markville, KS 33587",Energy,Jakarta,
+T108,2024-01-05,53,57,832,TRX1085,490481.0,12.0,Bandung,Default,"Ward, Edwards and Reyes",sawyermichele@example.org,001-957-316-2514x283,"05439 Small Tunnel
+Markville, KS 33587",Energy,Jakarta,589.5204326923077
+T109,2024-01-01,122,40,1287,,,,,,Patterson Inc,whitneymullins@example.net,(824)215-6051x1687,"71147 Alvarez Plains Suite 803
+East Samanthashire, KY 89766",Manufacturing,Jakarta,
+T109,2024-01-02,925,71,1670,,,,,,Patterson Inc,whitneymullins@example.net,(824)215-6051x1687,"71147 Alvarez Plains Suite 803
+East Samanthashire, KY 89766",Manufacturing,Jakarta,
+T109,2024-01-03,290,97,3870,,,,,,Patterson Inc,whitneymullins@example.net,(824)215-6051x1687,"71147 Alvarez Plains Suite 803
+East Samanthashire, KY 89766",Manufacturing,Jakarta,
+T109,2024-01-04,975,93,1335,,,,,,Patterson Inc,whitneymullins@example.net,(824)215-6051x1687,"71147 Alvarez Plains Suite 803
+East Samanthashire, KY 89766",Manufacturing,Jakarta,
+T109,2024-01-05,647,59,4587,TRX1095,152065.0,6.0,Bandung,No-Default,Patterson Inc,whitneymullins@example.net,(824)215-6051x1687,"71147 Alvarez Plains Suite 803
+East Samanthashire, KY 89766",Manufacturing,Jakarta,33.1512971441029
+T110,2024-01-01,110,69,3899,,,,,,Fox Inc,matthew30@example.com,001-255-977-7652x00602,"1580 King Ridge
+Port Lauren, SC 95806",FMCG,Cikarang,
+T110,2024-01-02,743,21,920,,,,,,Fox Inc,matthew30@example.com,001-255-977-7652x00602,"1580 King Ridge
+Port Lauren, SC 95806",FMCG,Cikarang,
+T110,2024-01-03,775,38,3706,,,,,,Fox Inc,matthew30@example.com,001-255-977-7652x00602,"1580 King Ridge
+Port Lauren, SC 95806",FMCG,Cikarang,
+T110,2024-01-04,386,30,1287,,,,,,Fox Inc,matthew30@example.com,001-255-977-7652x00602,"1580 King Ridge
+Port Lauren, SC 95806",FMCG,Cikarang,
+T110,2024-01-05,256,42,1258,TRX1105,139787.0,3.0,Surabaya,No-Default,Fox Inc,matthew30@example.com,001-255-977-7652x00602,"1580 King Ridge
+Port Lauren, SC 95806",FMCG,Cikarang,111.11844197138315
+T111,2024-01-01,528,56,4320,,,,,,"Cobb, Haynes and Sandoval",jilliannewton@example.org,+1-669-397-1565x21157,"04619 Moreno Cliff
+Port Reginaldport, OK 40944",Energy,Cikarang,
+T111,2024-01-02,145,96,4252,,,,,,"Cobb, Haynes and Sandoval",jilliannewton@example.org,+1-669-397-1565x21157,"04619 Moreno Cliff
+Port Reginaldport, OK 40944",Energy,Cikarang,
+T111,2024-01-03,793,78,3465,,,,,,"Cobb, Haynes and Sandoval",jilliannewton@example.org,+1-669-397-1565x21157,"04619 Moreno Cliff
+Port Reginaldport, OK 40944",Energy,Cikarang,
+T111,2024-01-04,709,80,1463,,,,,,"Cobb, Haynes and Sandoval",jilliannewton@example.org,+1-669-397-1565x21157,"04619 Moreno Cliff
+Port Reginaldport, OK 40944",Energy,Cikarang,
+T111,2024-01-05,878,18,3486,TRX1115,419677.0,6.0,Jakarta,No-Default,"Cobb, Haynes and Sandoval",jilliannewton@example.org,+1-669-397-1565x21157,"04619 Moreno Cliff
+Port Reginaldport, OK 40944",Energy,Cikarang,120.38927137119909
+T112,2024-01-01,127,93,3742,,,,,,Howard-Nunez,michaelodonnell@example.org,+1-735-232-2616x54150,"70267 Bates Square
+Mckinneyfort, MH 11911",Utilities,Bandung,
+T112,2024-01-02,914,59,1916,,,,,,Howard-Nunez,michaelodonnell@example.org,+1-735-232-2616x54150,"70267 Bates Square
+Mckinneyfort, MH 11911",Utilities,Bandung,
+T112,2024-01-03,594,42,2036,,,,,,Howard-Nunez,michaelodonnell@example.org,+1-735-232-2616x54150,"70267 Bates Square
+Mckinneyfort, MH 11911",Utilities,Bandung,
+T112,2024-01-04,248,78,1500,,,,,,Howard-Nunez,michaelodonnell@example.org,+1-735-232-2616x54150,"70267 Bates Square
+Mckinneyfort, MH 11911",Utilities,Bandung,
+T112,2024-01-05,222,61,1312,TRX1125,262359.0,6.0,Jakarta,No-Default,Howard-Nunez,michaelodonnell@example.org,+1-735-232-2616x54150,"70267 Bates Square
+Mckinneyfort, MH 11911",Utilities,Bandung,199.96875
+T113,2024-01-01,351,18,4680,,,,,,Mata-Turner,michael91@example.net,629.379.5418,"1700 Smith Club
+East Tammie, ME 55639",Utilities,Cikarang,
+T113,2024-01-02,476,34,1506,,,,,,Mata-Turner,michael91@example.net,629.379.5418,"1700 Smith Club
+East Tammie, ME 55639",Utilities,Cikarang,
+T113,2024-01-03,723,23,3386,,,,,,Mata-Turner,michael91@example.net,629.379.5418,"1700 Smith Club
+East Tammie, ME 55639",Utilities,Cikarang,
+T113,2024-01-04,300,19,2161,,,,,,Mata-Turner,michael91@example.net,629.379.5418,"1700 Smith Club
+East Tammie, ME 55639",Utilities,Cikarang,
+T113,2024-01-05,442,97,3676,TRX1135,26285.0,3.0,Surabaya,No-Default,Mata-Turner,michael91@example.net,629.379.5418,"1700 Smith Club
+East Tammie, ME 55639",Utilities,Cikarang,7.150435255712731
+T114,2024-01-01,712,63,4413,,,,,,Ramsey-Villa,djordan@example.com,842-672-4215x1057,"28425 Steele Road
+Marymouth, WA 65892",FMCG,Surabaya,
+T114,2024-01-02,949,43,4742,,,,,,Ramsey-Villa,djordan@example.com,842-672-4215x1057,"28425 Steele Road
+Marymouth, WA 65892",FMCG,Surabaya,
+T114,2024-01-03,499,91,1135,,,,,,Ramsey-Villa,djordan@example.com,842-672-4215x1057,"28425 Steele Road
+Marymouth, WA 65892",FMCG,Surabaya,
+T114,2024-01-04,873,33,2240,,,,,,Ramsey-Villa,djordan@example.com,842-672-4215x1057,"28425 Steele Road
+Marymouth, WA 65892",FMCG,Surabaya,
+T114,2024-01-05,274,53,2409,TRX1145,496920.0,12.0,Bogor,No-Default,Ramsey-Villa,djordan@example.com,842-672-4215x1057,"28425 Steele Road
+Marymouth, WA 65892",FMCG,Surabaya,206.27646326276462
+T115,2024-01-01,657,35,2314,,,,,,Brown Ltd,jennifer47@example.org,+1-484-228-5984x193,"273 Catherine Brooks
+Hernandezshire, SD 72928",Manufacturing,Cikarang,
+T115,2024-01-02,16,73,4346,,,,,,Brown Ltd,jennifer47@example.org,+1-484-228-5984x193,"273 Catherine Brooks
+Hernandezshire, SD 72928",Manufacturing,Cikarang,
+T115,2024-01-03,165,72,2680,,,,,,Brown Ltd,jennifer47@example.org,+1-484-228-5984x193,"273 Catherine Brooks
+Hernandezshire, SD 72928",Manufacturing,Cikarang,
+T115,2024-01-04,965,37,2766,,,,,,Brown Ltd,jennifer47@example.org,+1-484-228-5984x193,"273 Catherine Brooks
+Hernandezshire, SD 72928",Manufacturing,Cikarang,
+T115,2024-01-05,783,13,4165,TRX1155,278405.0,3.0,Bogor,No-Default,Brown Ltd,jennifer47@example.org,+1-484-228-5984x193,"273 Catherine Brooks
+Hernandezshire, SD 72928",Manufacturing,Cikarang,66.84393757503001
+T116,2024-01-01,426,82,3223,,,,,,Cooper-Ashley,brownsarah@example.org,9903386861,"USS Elliott
+FPO AA 04430",Tech,Cikarang,
+T116,2024-01-02,228,97,2158,,,,,,Cooper-Ashley,brownsarah@example.org,9903386861,"USS Elliott
+FPO AA 04430",Tech,Cikarang,
+T116,2024-01-03,393,83,4510,,,,,,Cooper-Ashley,brownsarah@example.org,9903386861,"USS Elliott
+FPO AA 04430",Tech,Cikarang,
+T116,2024-01-04,634,60,1545,,,,,,Cooper-Ashley,brownsarah@example.org,9903386861,"USS Elliott
+FPO AA 04430",Tech,Cikarang,
+T116,2024-01-05,735,42,2931,TRX1165,327947.0,3.0,Jakarta,No-Default,Cooper-Ashley,brownsarah@example.org,9903386861,"USS Elliott
+FPO AA 04430",Tech,Cikarang,111.88911634254521
+T117,2024-01-01,684,27,589,,,,,,Rodriguez-James,ingrambrittany@example.com,598-933-1850,"919 Jacob Ridge
+Sylviaton, MS 26854",FMCG,Cikarang,
+T117,2024-01-02,287,92,2568,,,,,,Rodriguez-James,ingrambrittany@example.com,598-933-1850,"919 Jacob Ridge
+Sylviaton, MS 26854",FMCG,Cikarang,
+T117,2024-01-03,962,83,2201,,,,,,Rodriguez-James,ingrambrittany@example.com,598-933-1850,"919 Jacob Ridge
+Sylviaton, MS 26854",FMCG,Cikarang,
+T117,2024-01-04,173,51,600,,,,,,Rodriguez-James,ingrambrittany@example.com,598-933-1850,"919 Jacob Ridge
+Sylviaton, MS 26854",FMCG,Cikarang,
+T117,2024-01-05,272,38,3560,TRX1175,288153.0,12.0,Surabaya,No-Default,Rodriguez-James,ingrambrittany@example.com,598-933-1850,"919 Jacob Ridge
+Sylviaton, MS 26854",FMCG,Cikarang,80.94185393258427
+T118,2024-01-01,567,61,2962,,,,,,Preston-Bauer,hfrey@example.org,245-340-5258x09403,"378 Jeremiah Oval
+Byrdfurt, AR 68244",Utilities,Cikarang,
+T118,2024-01-02,729,29,2020,,,,,,Preston-Bauer,hfrey@example.org,245-340-5258x09403,"378 Jeremiah Oval
+Byrdfurt, AR 68244",Utilities,Cikarang,
+T118,2024-01-03,978,44,4967,,,,,,Preston-Bauer,hfrey@example.org,245-340-5258x09403,"378 Jeremiah Oval
+Byrdfurt, AR 68244",Utilities,Cikarang,
+T118,2024-01-04,984,28,1114,,,,,,Preston-Bauer,hfrey@example.org,245-340-5258x09403,"378 Jeremiah Oval
+Byrdfurt, AR 68244",Utilities,Cikarang,
+T118,2024-01-05,741,40,1836,TRX1185,113765.0,3.0,Bandung,No-Default,Preston-Bauer,hfrey@example.org,245-340-5258x09403,"378 Jeremiah Oval
+Byrdfurt, AR 68244",Utilities,Cikarang,61.96350762527233
+T119,2024-01-01,924,62,649,,,,,,"Mitchell, Williams and Davis",dennisperez@example.org,9522816638,"5517 Fischer Track
+Emilyview, SD 20557",Utilities,Surabaya,
+T119,2024-01-02,484,82,2499,,,,,,"Mitchell, Williams and Davis",dennisperez@example.org,9522816638,"5517 Fischer Track
+Emilyview, SD 20557",Utilities,Surabaya,
+T119,2024-01-03,605,33,1292,,,,,,"Mitchell, Williams and Davis",dennisperez@example.org,9522816638,"5517 Fischer Track
+Emilyview, SD 20557",Utilities,Surabaya,
+T119,2024-01-04,310,77,1056,,,,,,"Mitchell, Williams and Davis",dennisperez@example.org,9522816638,"5517 Fischer Track
+Emilyview, SD 20557",Utilities,Surabaya,
+T119,2024-01-05,145,13,2391,TRX1195,401682.0,12.0,Bogor,No-Default,"Mitchell, Williams and Davis",dennisperez@example.org,9522816638,"5517 Fischer Track
+Emilyview, SD 20557",Utilities,Surabaya,167.99749058971142
+T120,2024-01-01,120,32,1633,,,,,,"Murphy, Taylor and Ramirez",ynoble@example.org,(345)753-9275x5070,"493 Diane Brook Apt. 169
+West Philipport, MD 98261",Utilities,Bogor,
+T120,2024-01-02,890,93,1906,,,,,,"Murphy, Taylor and Ramirez",ynoble@example.org,(345)753-9275x5070,"493 Diane Brook Apt. 169
+West Philipport, MD 98261",Utilities,Bogor,
+T120,2024-01-03,272,42,1396,,,,,,"Murphy, Taylor and Ramirez",ynoble@example.org,(345)753-9275x5070,"493 Diane Brook Apt. 169
+West Philipport, MD 98261",Utilities,Bogor,
+T120,2024-01-04,950,63,3396,,,,,,"Murphy, Taylor and Ramirez",ynoble@example.org,(345)753-9275x5070,"493 Diane Brook Apt. 169
+West Philipport, MD 98261",Utilities,Bogor,
+T120,2024-01-05,350,13,1651,TRX1205,425684.0,6.0,Bogor,Default,"Murphy, Taylor and Ramirez",ynoble@example.org,(345)753-9275x5070,"493 Diane Brook Apt. 169
+West Philipport, MD 98261",Utilities,Bogor,257.83403997577227
+T121,2024-01-01,687,43,537,,,,,,"Gonzales, Alvarez and Griffin",amandamoore@example.net,+1-626-403-4184,"526 Maurice Plaza Apt. 694
+Elizabethshire, CT 49237",Utilities,Surabaya,
+T121,2024-01-02,237,61,546,,,,,,"Gonzales, Alvarez and Griffin",amandamoore@example.net,+1-626-403-4184,"526 Maurice Plaza Apt. 694
+Elizabethshire, CT 49237",Utilities,Surabaya,
+T121,2024-01-03,335,36,2244,,,,,,"Gonzales, Alvarez and Griffin",amandamoore@example.net,+1-626-403-4184,"526 Maurice Plaza Apt. 694
+Elizabethshire, CT 49237",Utilities,Surabaya,
+T121,2024-01-04,769,54,4392,,,,,,"Gonzales, Alvarez and Griffin",amandamoore@example.net,+1-626-403-4184,"526 Maurice Plaza Apt. 694
+Elizabethshire, CT 49237",Utilities,Surabaya,
+T121,2024-01-05,55,66,4554,TRX1215,88308.0,3.0,Surabaya,No-Default,"Gonzales, Alvarez and Griffin",amandamoore@example.net,+1-626-403-4184,"526 Maurice Plaza Apt. 694
+Elizabethshire, CT 49237",Utilities,Surabaya,19.391304347826086
+T122,2024-01-01,717,58,4608,,,,,,Porter-Blake,dwarren@example.org,001-398-370-2814,"86816 Gerald Parkway
+Ericmouth, MP 48533",Energy,Cikarang,
+T122,2024-01-02,224,87,2391,,,,,,Porter-Blake,dwarren@example.org,001-398-370-2814,"86816 Gerald Parkway
+Ericmouth, MP 48533",Energy,Cikarang,
+T122,2024-01-03,457,100,3538,,,,,,Porter-Blake,dwarren@example.org,001-398-370-2814,"86816 Gerald Parkway
+Ericmouth, MP 48533",Energy,Cikarang,
+T122,2024-01-04,818,10,514,,,,,,Porter-Blake,dwarren@example.org,001-398-370-2814,"86816 Gerald Parkway
+Ericmouth, MP 48533",Energy,Cikarang,
+T122,2024-01-05,854,11,4088,TRX1225,414599.0,3.0,Jakarta,No-Default,Porter-Blake,dwarren@example.org,001-398-370-2814,"86816 Gerald Parkway
+Ericmouth, MP 48533",Energy,Cikarang,101.418542074364
+T123,2024-01-01,596,30,4953,,,,,,Oliver LLC,conwaycandace@example.com,565-913-5667x50355,"424 Anthony Cape Suite 873
+Armstrongborough, CO 46329",FMCG,Surabaya,
+T123,2024-01-02,304,84,4123,,,,,,Oliver LLC,conwaycandace@example.com,565-913-5667x50355,"424 Anthony Cape Suite 873
+Armstrongborough, CO 46329",FMCG,Surabaya,
+T123,2024-01-03,344,64,1903,,,,,,Oliver LLC,conwaycandace@example.com,565-913-5667x50355,"424 Anthony Cape Suite 873
+Armstrongborough, CO 46329",FMCG,Surabaya,
+T123,2024-01-04,764,41,1897,,,,,,Oliver LLC,conwaycandace@example.com,565-913-5667x50355,"424 Anthony Cape Suite 873
+Armstrongborough, CO 46329",FMCG,Surabaya,
+T123,2024-01-05,194,45,3961,TRX1235,56409.0,6.0,Bogor,Default,Oliver LLC,conwaycandace@example.com,565-913-5667x50355,"424 Anthony Cape Suite 873
+Armstrongborough, CO 46329",FMCG,Surabaya,14.24110073213835
+T124,2024-01-01,296,25,3125,,,,,,Lewis PLC,jasontrujillo@example.net,+1-998-601-6793x595,"21800 Chelsea Harbor
+Port Melissa, CO 70406",Tech,Cikarang,
+T124,2024-01-02,634,70,1856,,,,,,Lewis PLC,jasontrujillo@example.net,+1-998-601-6793x595,"21800 Chelsea Harbor
+Port Melissa, CO 70406",Tech,Cikarang,
+T124,2024-01-03,580,17,3652,,,,,,Lewis PLC,jasontrujillo@example.net,+1-998-601-6793x595,"21800 Chelsea Harbor
+Port Melissa, CO 70406",Tech,Cikarang,
+T124,2024-01-04,920,90,571,,,,,,Lewis PLC,jasontrujillo@example.net,+1-998-601-6793x595,"21800 Chelsea Harbor
+Port Melissa, CO 70406",Tech,Cikarang,
+T124,2024-01-05,687,99,623,TRX1245,479244.0,6.0,Bandung,Default,Lewis PLC,jasontrujillo@example.net,+1-998-601-6793x595,"21800 Chelsea Harbor
+Port Melissa, CO 70406",Tech,Cikarang,769.2520064205457
+T125,2024-01-01,855,63,642,,,,,,Wright-Cruz,xavier84@example.net,374.573.3623,"00706 Thompson Lodge
+Larsonport, HI 49822",Energy,Bandung,
+T125,2024-01-02,762,12,2100,,,,,,Wright-Cruz,xavier84@example.net,374.573.3623,"00706 Thompson Lodge
+Larsonport, HI 49822",Energy,Bandung,
+T125,2024-01-03,519,87,3347,,,,,,Wright-Cruz,xavier84@example.net,374.573.3623,"00706 Thompson Lodge
+Larsonport, HI 49822",Energy,Bandung,
+T125,2024-01-04,112,89,2469,,,,,,Wright-Cruz,xavier84@example.net,374.573.3623,"00706 Thompson Lodge
+Larsonport, HI 49822",Energy,Bandung,
+T125,2024-01-05,405,30,972,TRX1255,422072.0,12.0,Surabaya,No-Default,Wright-Cruz,xavier84@example.net,374.573.3623,"00706 Thompson Lodge
+Larsonport, HI 49822",Energy,Bandung,434.2304526748971
+T126,2024-01-01,202,87,4882,,,,,,Gibson-Le,acampbell@example.org,(732)238-6489x0469,"9048 Ryan Ridges Suite 752
+Port Kristin, PW 90978",Manufacturing,Bogor,
+T126,2024-01-02,395,68,840,,,,,,Gibson-Le,acampbell@example.org,(732)238-6489x0469,"9048 Ryan Ridges Suite 752
+Port Kristin, PW 90978",Manufacturing,Bogor,
+T126,2024-01-03,615,31,816,,,,,,Gibson-Le,acampbell@example.org,(732)238-6489x0469,"9048 Ryan Ridges Suite 752
+Port Kristin, PW 90978",Manufacturing,Bogor,
+T126,2024-01-04,363,39,3245,,,,,,Gibson-Le,acampbell@example.org,(732)238-6489x0469,"9048 Ryan Ridges Suite 752
+Port Kristin, PW 90978",Manufacturing,Bogor,
+T126,2024-01-05,193,48,1549,TRX1265,108233.0,6.0,Cikarang,No-Default,Gibson-Le,acampbell@example.org,(732)238-6489x0469,"9048 Ryan Ridges Suite 752
+Port Kristin, PW 90978",Manufacturing,Bogor,69.87282117495158
+T127,2024-01-01,677,15,1933,,,,,,Mason Ltd,sophiaray@example.net,719.501.3466x604,"82283 Steven Pine Suite 781
+East Jimville, VA 52057",FMCG,Bogor,
+T127,2024-01-02,617,15,3652,,,,,,Mason Ltd,sophiaray@example.net,719.501.3466x604,"82283 Steven Pine Suite 781
+East Jimville, VA 52057",FMCG,Bogor,
+T127,2024-01-03,750,60,1263,,,,,,Mason Ltd,sophiaray@example.net,719.501.3466x604,"82283 Steven Pine Suite 781
+East Jimville, VA 52057",FMCG,Bogor,
+T127,2024-01-04,78,68,1794,,,,,,Mason Ltd,sophiaray@example.net,719.501.3466x604,"82283 Steven Pine Suite 781
+East Jimville, VA 52057",FMCG,Bogor,
+T127,2024-01-05,201,37,2287,TRX1275,323588.0,6.0,Cikarang,No-Default,Mason Ltd,sophiaray@example.net,719.501.3466x604,"82283 Steven Pine Suite 781
+East Jimville, VA 52057",FMCG,Bogor,141.4901617839965
+T128,2024-01-01,393,36,4985,,,,,,White PLC,fsimmons@example.com,(234)259-2638,"0176 Schmidt Circles Apt. 576
+Lake Jasmin, MD 79313",Manufacturing,Cikarang,
+T128,2024-01-02,994,10,1633,,,,,,White PLC,fsimmons@example.com,(234)259-2638,"0176 Schmidt Circles Apt. 576
+Lake Jasmin, MD 79313",Manufacturing,Cikarang,
+T128,2024-01-03,515,62,2103,,,,,,White PLC,fsimmons@example.com,(234)259-2638,"0176 Schmidt Circles Apt. 576
+Lake Jasmin, MD 79313",Manufacturing,Cikarang,
+T128,2024-01-04,936,45,4498,,,,,,White PLC,fsimmons@example.com,(234)259-2638,"0176 Schmidt Circles Apt. 576
+Lake Jasmin, MD 79313",Manufacturing,Cikarang,
+T128,2024-01-05,103,83,3873,TRX1285,304406.0,6.0,Surabaya,No-Default,White PLC,fsimmons@example.com,(234)259-2638,"0176 Schmidt Circles Apt. 576
+Lake Jasmin, MD 79313",Manufacturing,Cikarang,78.59695326620191
+T129,2024-01-01,162,61,2579,,,,,,"Smith, Harris and Ellis",zwest@example.org,3598068308,"20565 Hunter Groves
+Lake Autumn, OR 02188",Tech,Cikarang,
+T129,2024-01-02,602,78,2030,,,,,,"Smith, Harris and Ellis",zwest@example.org,3598068308,"20565 Hunter Groves
+Lake Autumn, OR 02188",Tech,Cikarang,
+T129,2024-01-03,194,59,4068,,,,,,"Smith, Harris and Ellis",zwest@example.org,3598068308,"20565 Hunter Groves
+Lake Autumn, OR 02188",Tech,Cikarang,
+T129,2024-01-04,250,68,618,,,,,,"Smith, Harris and Ellis",zwest@example.org,3598068308,"20565 Hunter Groves
+Lake Autumn, OR 02188",Tech,Cikarang,
+T129,2024-01-05,584,85,4556,TRX1295,326898.0,3.0,Bogor,Default,"Smith, Harris and Ellis",zwest@example.org,3598068308,"20565 Hunter Groves
+Lake Autumn, OR 02188",Tech,Cikarang,71.75109745390694
+T130,2024-01-01,109,73,3318,,,,,,Cruz and Sons,kathy17@example.net,(217)489-6526x824,"34816 Ross Alley Suite 964
+South Jonathanstad, CA 42047",Manufacturing,Bandung,
+T130,2024-01-02,699,88,3161,,,,,,Cruz and Sons,kathy17@example.net,(217)489-6526x824,"34816 Ross Alley Suite 964
+South Jonathanstad, CA 42047",Manufacturing,Bandung,
+T130,2024-01-03,156,21,4035,,,,,,Cruz and Sons,kathy17@example.net,(217)489-6526x824,"34816 Ross Alley Suite 964
+South Jonathanstad, CA 42047",Manufacturing,Bandung,
+T130,2024-01-04,651,33,2262,,,,,,Cruz and Sons,kathy17@example.net,(217)489-6526x824,"34816 Ross Alley Suite 964
+South Jonathanstad, CA 42047",Manufacturing,Bandung,
+T130,2024-01-05,806,28,3052,TRX1305,281026.0,12.0,Surabaya,Default,Cruz and Sons,kathy17@example.net,(217)489-6526x824,"34816 Ross Alley Suite 964
+South Jonathanstad, CA 42047",Manufacturing,Bandung,92.07929226736566
+T131,2024-01-01,763,12,3286,,,,,,"Wilson, Chapman and Harris",fbryan@example.net,(642)899-6006,"335 Christopher Place
+Emilyfort, MH 26665",Energy,Bogor,
+T131,2024-01-02,150,16,3266,,,,,,"Wilson, Chapman and Harris",fbryan@example.net,(642)899-6006,"335 Christopher Place
+Emilyfort, MH 26665",Energy,Bogor,
+T131,2024-01-03,523,62,3618,,,,,,"Wilson, Chapman and Harris",fbryan@example.net,(642)899-6006,"335 Christopher Place
+Emilyfort, MH 26665",Energy,Bogor,
+T131,2024-01-04,728,46,2144,,,,,,"Wilson, Chapman and Harris",fbryan@example.net,(642)899-6006,"335 Christopher Place
+Emilyfort, MH 26665",Energy,Bogor,
+T131,2024-01-05,436,68,2524,TRX1315,358387.0,3.0,Surabaya,Default,"Wilson, Chapman and Harris",fbryan@example.net,(642)899-6006,"335 Christopher Place
+Emilyfort, MH 26665",Energy,Bogor,141.99167987321712
+T132,2024-01-01,882,37,4312,,,,,,"Smith, Davis and Lewis",zsweeney@example.org,(338)590-9377,"9200 Erika Plains Suite 631
+Masonside, NC 87006",Tech,Jakarta,
+T132,2024-01-02,10,83,1874,,,,,,"Smith, Davis and Lewis",zsweeney@example.org,(338)590-9377,"9200 Erika Plains Suite 631
+Masonside, NC 87006",Tech,Jakarta,
+T132,2024-01-03,90,61,2847,,,,,,"Smith, Davis and Lewis",zsweeney@example.org,(338)590-9377,"9200 Erika Plains Suite 631
+Masonside, NC 87006",Tech,Jakarta,
+T132,2024-01-04,999,45,3414,,,,,,"Smith, Davis and Lewis",zsweeney@example.org,(338)590-9377,"9200 Erika Plains Suite 631
+Masonside, NC 87006",Tech,Jakarta,
+T132,2024-01-05,255,38,554,TRX1325,211080.0,6.0,Cikarang,No-Default,"Smith, Davis and Lewis",zsweeney@example.org,(338)590-9377,"9200 Erika Plains Suite 631
+Masonside, NC 87006",Tech,Jakarta,381.01083032490976
+T133,2024-01-01,120,44,4045,,,,,,Green-Kelly,michaelphillips@example.com,001-929-689-9760x5512,"31428 Walter Turnpike Apt. 988
+Lake Blakebury, GA 85575",Utilities,Bandung,
+T133,2024-01-02,286,89,2662,,,,,,Green-Kelly,michaelphillips@example.com,001-929-689-9760x5512,"31428 Walter Turnpike Apt. 988
+Lake Blakebury, GA 85575",Utilities,Bandung,
+T133,2024-01-03,665,27,4091,,,,,,Green-Kelly,michaelphillips@example.com,001-929-689-9760x5512,"31428 Walter Turnpike Apt. 988
+Lake Blakebury, GA 85575",Utilities,Bandung,
+T133,2024-01-04,153,32,4871,,,,,,Green-Kelly,michaelphillips@example.com,001-929-689-9760x5512,"31428 Walter Turnpike Apt. 988
+Lake Blakebury, GA 85575",Utilities,Bandung,
+T133,2024-01-05,462,78,862,TRX1335,106983.0,6.0,Bandung,No-Default,Green-Kelly,michaelphillips@example.com,001-929-689-9760x5512,"31428 Walter Turnpike Apt. 988
+Lake Blakebury, GA 85575",Utilities,Bandung,124.11020881670534
+T134,2024-01-01,388,24,3855,,,,,,Silva-Lewis,ericgutierrez@example.net,330.801.5030,"6561 Misty Locks
+West Paulburgh, LA 69138",FMCG,Surabaya,
+T134,2024-01-02,689,82,4292,,,,,,Silva-Lewis,ericgutierrez@example.net,330.801.5030,"6561 Misty Locks
+West Paulburgh, LA 69138",FMCG,Surabaya,
+T134,2024-01-03,951,23,2623,,,,,,Silva-Lewis,ericgutierrez@example.net,330.801.5030,"6561 Misty Locks
+West Paulburgh, LA 69138",FMCG,Surabaya,
+T134,2024-01-04,707,78,1985,,,,,,Silva-Lewis,ericgutierrez@example.net,330.801.5030,"6561 Misty Locks
+West Paulburgh, LA 69138",FMCG,Surabaya,
+T134,2024-01-05,691,21,2467,TRX1345,134337.0,3.0,Bandung,Default,Silva-Lewis,ericgutierrez@example.net,330.801.5030,"6561 Misty Locks
+West Paulburgh, LA 69138",FMCG,Surabaya,54.4535873530604
+T135,2024-01-01,448,91,4290,,,,,,Smith LLC,michaelwood@example.org,416-392-3664,"30636 Bauer Stravenue
+Lake Erica, GU 12232",Tech,Jakarta,
+T135,2024-01-02,620,87,2689,,,,,,Smith LLC,michaelwood@example.org,416-392-3664,"30636 Bauer Stravenue
+Lake Erica, GU 12232",Tech,Jakarta,
+T135,2024-01-03,552,20,3378,,,,,,Smith LLC,michaelwood@example.org,416-392-3664,"30636 Bauer Stravenue
+Lake Erica, GU 12232",Tech,Jakarta,
+T135,2024-01-04,841,50,1151,,,,,,Smith LLC,michaelwood@example.org,416-392-3664,"30636 Bauer Stravenue
+Lake Erica, GU 12232",Tech,Jakarta,
+T135,2024-01-05,423,43,874,TRX1355,388503.0,6.0,Jakarta,Default,Smith LLC,michaelwood@example.org,416-392-3664,"30636 Bauer Stravenue
+Lake Erica, GU 12232",Tech,Jakarta,444.5114416475973
+T136,2024-01-01,201,14,2588,,,,,,Ray Group,scottmoore@example.org,+1-605-892-9146x75644,"98501 Kelly Mission
+Rossside, IA 83366",FMCG,Bandung,
+T136,2024-01-02,577,10,4417,,,,,,Ray Group,scottmoore@example.org,+1-605-892-9146x75644,"98501 Kelly Mission
+Rossside, IA 83366",FMCG,Bandung,
+T136,2024-01-03,907,23,777,,,,,,Ray Group,scottmoore@example.org,+1-605-892-9146x75644,"98501 Kelly Mission
+Rossside, IA 83366",FMCG,Bandung,
+T136,2024-01-04,18,80,3361,,,,,,Ray Group,scottmoore@example.org,+1-605-892-9146x75644,"98501 Kelly Mission
+Rossside, IA 83366",FMCG,Bandung,
+T136,2024-01-05,20,82,2621,TRX1365,56563.0,3.0,Jakarta,No-Default,Ray Group,scottmoore@example.org,+1-605-892-9146x75644,"98501 Kelly Mission
+Rossside, IA 83366",FMCG,Bandung,21.580694391453644
+T137,2024-01-01,648,75,3069,,,,,,Cox-Ayers,katherinebowers@example.com,339-759-6485x1891,"190 Christina Falls Suite 853
+South Amandachester, AK 42465",Manufacturing,Bandung,
+T137,2024-01-02,336,61,4818,,,,,,Cox-Ayers,katherinebowers@example.com,339-759-6485x1891,"190 Christina Falls Suite 853
+South Amandachester, AK 42465",Manufacturing,Bandung,
+T137,2024-01-03,92,78,4045,,,,,,Cox-Ayers,katherinebowers@example.com,339-759-6485x1891,"190 Christina Falls Suite 853
+South Amandachester, AK 42465",Manufacturing,Bandung,
+T137,2024-01-04,869,54,3081,,,,,,Cox-Ayers,katherinebowers@example.com,339-759-6485x1891,"190 Christina Falls Suite 853
+South Amandachester, AK 42465",Manufacturing,Bandung,
+T137,2024-01-05,474,13,1507,TRX1375,328907.0,3.0,Surabaya,No-Default,Cox-Ayers,katherinebowers@example.com,339-759-6485x1891,"190 Christina Falls Suite 853
+South Amandachester, AK 42465",Manufacturing,Bandung,218.2528201725282
+T138,2024-01-01,381,53,546,,,,,,"Rivas, Brown and Mitchell",cherylcarter@example.org,200-233-9063,"22869 Angie Crossing Apt. 268
+South Johnport, WA 81609",FMCG,Surabaya,
+T138,2024-01-02,598,26,3351,,,,,,"Rivas, Brown and Mitchell",cherylcarter@example.org,200-233-9063,"22869 Angie Crossing Apt. 268
+South Johnport, WA 81609",FMCG,Surabaya,
+T138,2024-01-03,381,96,633,,,,,,"Rivas, Brown and Mitchell",cherylcarter@example.org,200-233-9063,"22869 Angie Crossing Apt. 268
+South Johnport, WA 81609",FMCG,Surabaya,
+T138,2024-01-04,160,37,4514,,,,,,"Rivas, Brown and Mitchell",cherylcarter@example.org,200-233-9063,"22869 Angie Crossing Apt. 268
+South Johnport, WA 81609",FMCG,Surabaya,
+T138,2024-01-05,573,35,2893,TRX1385,481670.0,3.0,Cikarang,Default,"Rivas, Brown and Mitchell",cherylcarter@example.org,200-233-9063,"22869 Angie Crossing Apt. 268
+South Johnport, WA 81609",FMCG,Surabaya,166.49498790183202
+T139,2024-01-01,964,13,4160,,,,,,"Myers, Webb and Harris",thompsonerika@example.org,(706)472-6955x0091,"561 Ashley Burg
+Christinestad, DE 67494",Energy,Bandung,
+T139,2024-01-02,900,70,668,,,,,,"Myers, Webb and Harris",thompsonerika@example.org,(706)472-6955x0091,"561 Ashley Burg
+Christinestad, DE 67494",Energy,Bandung,
+T139,2024-01-03,916,73,3661,,,,,,"Myers, Webb and Harris",thompsonerika@example.org,(706)472-6955x0091,"561 Ashley Burg
+Christinestad, DE 67494",Energy,Bandung,
+T139,2024-01-04,486,41,2533,,,,,,"Myers, Webb and Harris",thompsonerika@example.org,(706)472-6955x0091,"561 Ashley Burg
+Christinestad, DE 67494",Energy,Bandung,
+T139,2024-01-05,819,95,4675,TRX1395,474342.0,12.0,Cikarang,No-Default,"Myers, Webb and Harris",thompsonerika@example.org,(706)472-6955x0091,"561 Ashley Burg
+Christinestad, DE 67494",Energy,Bandung,101.46352941176471
+T140,2024-01-01,23,50,565,,,,,,Cunningham PLC,klinestephanie@example.com,695-433-8109x32151,"3914 Scott Via Apt. 867
+West Whitney, AL 31166",Tech,Bandung,
+T140,2024-01-02,730,21,1885,,,,,,Cunningham PLC,klinestephanie@example.com,695-433-8109x32151,"3914 Scott Via Apt. 867
+West Whitney, AL 31166",Tech,Bandung,
+T140,2024-01-03,183,78,811,,,,,,Cunningham PLC,klinestephanie@example.com,695-433-8109x32151,"3914 Scott Via Apt. 867
+West Whitney, AL 31166",Tech,Bandung,
+T140,2024-01-04,718,95,3859,,,,,,Cunningham PLC,klinestephanie@example.com,695-433-8109x32151,"3914 Scott Via Apt. 867
+West Whitney, AL 31166",Tech,Bandung,
+T140,2024-01-05,323,37,4032,TRX1405,390665.0,12.0,Bandung,Default,Cunningham PLC,klinestephanie@example.com,695-433-8109x32151,"3914 Scott Via Apt. 867
+West Whitney, AL 31166",Tech,Bandung,96.89112103174604
+T141,2024-01-01,185,88,1477,,,,,,Goodman LLC,bentonstephanie@example.net,(962)219-5361,"6943 Rachel Pines
+Derrickview, WI 15437",Manufacturing,Jakarta,
+T141,2024-01-02,783,93,3483,,,,,,Goodman LLC,bentonstephanie@example.net,(962)219-5361,"6943 Rachel Pines
+Derrickview, WI 15437",Manufacturing,Jakarta,
+T141,2024-01-03,251,40,3789,,,,,,Goodman LLC,bentonstephanie@example.net,(962)219-5361,"6943 Rachel Pines
+Derrickview, WI 15437",Manufacturing,Jakarta,
+T141,2024-01-04,46,27,4257,,,,,,Goodman LLC,bentonstephanie@example.net,(962)219-5361,"6943 Rachel Pines
+Derrickview, WI 15437",Manufacturing,Jakarta,
+T141,2024-01-05,172,87,4842,TRX1415,234416.0,12.0,Bandung,No-Default,Goodman LLC,bentonstephanie@example.net,(962)219-5361,"6943 Rachel Pines
+Derrickview, WI 15437",Manufacturing,Jakarta,48.413052457662126
+T142,2024-01-01,141,63,1671,,,,,,Smith-Garcia,martinrobert@example.net,001-851-395-6450x2714,"21034 Robert Motorway Suite 373
+New Jenna, AR 72514",FMCG,Cikarang,
+T142,2024-01-02,235,26,1274,,,,,,Smith-Garcia,martinrobert@example.net,001-851-395-6450x2714,"21034 Robert Motorway Suite 373
+New Jenna, AR 72514",FMCG,Cikarang,
+T142,2024-01-03,834,62,2632,,,,,,Smith-Garcia,martinrobert@example.net,001-851-395-6450x2714,"21034 Robert Motorway Suite 373
+New Jenna, AR 72514",FMCG,Cikarang,
+T142,2024-01-04,471,65,4274,,,,,,Smith-Garcia,martinrobert@example.net,001-851-395-6450x2714,"21034 Robert Motorway Suite 373
+New Jenna, AR 72514",FMCG,Cikarang,
+T142,2024-01-05,792,92,944,TRX1425,243508.0,6.0,Jakarta,No-Default,Smith-Garcia,martinrobert@example.net,001-851-395-6450x2714,"21034 Robert Motorway Suite 373
+New Jenna, AR 72514",FMCG,Cikarang,257.95338983050846
+T143,2024-01-01,604,54,1083,,,,,,Cruz Group,amandacortez@example.net,868-248-5232,"PSC 2342, Box 8977
+APO AE 49578",Manufacturing,Surabaya,
+T143,2024-01-02,103,73,2322,,,,,,Cruz Group,amandacortez@example.net,868-248-5232,"PSC 2342, Box 8977
+APO AE 49578",Manufacturing,Surabaya,
+T143,2024-01-03,719,68,2020,,,,,,Cruz Group,amandacortez@example.net,868-248-5232,"PSC 2342, Box 8977
+APO AE 49578",Manufacturing,Surabaya,
+T143,2024-01-04,38,82,1098,,,,,,Cruz Group,amandacortez@example.net,868-248-5232,"PSC 2342, Box 8977
+APO AE 49578",Manufacturing,Surabaya,
+T143,2024-01-05,690,53,3866,TRX1435,220912.0,6.0,Cikarang,Default,Cruz Group,amandacortez@example.net,868-248-5232,"PSC 2342, Box 8977
+APO AE 49578",Manufacturing,Surabaya,57.14226590791516
+T144,2024-01-01,225,11,2444,,,,,,Medina-Williams,jeffery27@example.org,(871)710-7621x10368,"414 Timothy Garden Apt. 109
+Johnsonfort, GU 39208",FMCG,Bogor,
+T144,2024-01-02,849,59,3851,,,,,,Medina-Williams,jeffery27@example.org,(871)710-7621x10368,"414 Timothy Garden Apt. 109
+Johnsonfort, GU 39208",FMCG,Bogor,
+T144,2024-01-03,342,100,4576,,,,,,Medina-Williams,jeffery27@example.org,(871)710-7621x10368,"414 Timothy Garden Apt. 109
+Johnsonfort, GU 39208",FMCG,Bogor,
+T144,2024-01-04,375,62,2835,,,,,,Medina-Williams,jeffery27@example.org,(871)710-7621x10368,"414 Timothy Garden Apt. 109
+Johnsonfort, GU 39208",FMCG,Bogor,
+T144,2024-01-05,403,93,4377,TRX1445,492140.0,6.0,Bogor,Default,Medina-Williams,jeffery27@example.org,(871)710-7621x10368,"414 Timothy Garden Apt. 109
+Johnsonfort, GU 39208",FMCG,Bogor,112.43774274617317
+T145,2024-01-01,767,85,4810,,,,,,"Townsend, Klein and Adams",gprice@example.net,+1-696-725-8012x971,"969 Lori Walk Suite 592
+Millerbury, CT 29340",Tech,Jakarta,
+T145,2024-01-02,57,64,1820,,,,,,"Townsend, Klein and Adams",gprice@example.net,+1-696-725-8012x971,"969 Lori Walk Suite 592
+Millerbury, CT 29340",Tech,Jakarta,
+T145,2024-01-03,602,56,3066,,,,,,"Townsend, Klein and Adams",gprice@example.net,+1-696-725-8012x971,"969 Lori Walk Suite 592
+Millerbury, CT 29340",Tech,Jakarta,
+T145,2024-01-04,364,61,1795,,,,,,"Townsend, Klein and Adams",gprice@example.net,+1-696-725-8012x971,"969 Lori Walk Suite 592
+Millerbury, CT 29340",Tech,Jakarta,
+T145,2024-01-05,922,53,3975,TRX1455,342212.0,12.0,Bandung,Default,"Townsend, Klein and Adams",gprice@example.net,+1-696-725-8012x971,"969 Lori Walk Suite 592
+Millerbury, CT 29340",Tech,Jakarta,86.09106918238994
+T146,2024-01-01,809,48,1658,,,,,,"Jones, Williams and Thompson",gwendolyn00@example.org,+1-532-921-0363x78783,"0629 Alexandria Meadow
+New Brittanyborough, PW 76216",FMCG,Surabaya,
+T146,2024-01-02,738,54,1537,,,,,,"Jones, Williams and Thompson",gwendolyn00@example.org,+1-532-921-0363x78783,"0629 Alexandria Meadow
+New Brittanyborough, PW 76216",FMCG,Surabaya,
+T146,2024-01-03,38,50,2102,,,,,,"Jones, Williams and Thompson",gwendolyn00@example.org,+1-532-921-0363x78783,"0629 Alexandria Meadow
+New Brittanyborough, PW 76216",FMCG,Surabaya,
+T146,2024-01-04,863,33,2865,,,,,,"Jones, Williams and Thompson",gwendolyn00@example.org,+1-532-921-0363x78783,"0629 Alexandria Meadow
+New Brittanyborough, PW 76216",FMCG,Surabaya,
+T146,2024-01-05,97,58,1846,TRX1465,309032.0,3.0,Bogor,No-Default,"Jones, Williams and Thompson",gwendolyn00@example.org,+1-532-921-0363x78783,"0629 Alexandria Meadow
+New Brittanyborough, PW 76216",FMCG,Surabaya,167.40628385698807
+T147,2024-01-01,577,78,2199,,,,,,Fischer-Miller,bradleysmith@example.org,7527507064,"145 Erin Extension Apt. 474
+Valeriemouth, CA 38802",FMCG,Bogor,
+T147,2024-01-02,619,61,2142,,,,,,Fischer-Miller,bradleysmith@example.org,7527507064,"145 Erin Extension Apt. 474
+Valeriemouth, CA 38802",FMCG,Bogor,
+T147,2024-01-03,480,27,1592,,,,,,Fischer-Miller,bradleysmith@example.org,7527507064,"145 Erin Extension Apt. 474
+Valeriemouth, CA 38802",FMCG,Bogor,
+T147,2024-01-04,117,90,4201,,,,,,Fischer-Miller,bradleysmith@example.org,7527507064,"145 Erin Extension Apt. 474
+Valeriemouth, CA 38802",FMCG,Bogor,
+T147,2024-01-05,345,54,563,TRX1475,102577.0,6.0,Bogor,Default,Fischer-Miller,bradleysmith@example.org,7527507064,"145 Erin Extension Apt. 474
+Valeriemouth, CA 38802",FMCG,Bogor,182.19715808170514
+T148,2024-01-01,250,92,4980,,,,,,Meyer LLC,andrewrobinson@example.org,405.788.3338x4561,"719 Charles Mission
+Alvaradohaven, NY 68429",Energy,Bogor,
+T148,2024-01-02,18,49,3284,,,,,,Meyer LLC,andrewrobinson@example.org,405.788.3338x4561,"719 Charles Mission
+Alvaradohaven, NY 68429",Energy,Bogor,
+T148,2024-01-03,248,81,2351,,,,,,Meyer LLC,andrewrobinson@example.org,405.788.3338x4561,"719 Charles Mission
+Alvaradohaven, NY 68429",Energy,Bogor,
+T148,2024-01-04,202,98,4528,,,,,,Meyer LLC,andrewrobinson@example.org,405.788.3338x4561,"719 Charles Mission
+Alvaradohaven, NY 68429",Energy,Bogor,
+T148,2024-01-05,172,92,554,TRX1485,331087.0,6.0,Jakarta,Default,Meyer LLC,andrewrobinson@example.org,405.788.3338x4561,"719 Charles Mission
+Alvaradohaven, NY 68429",Energy,Bogor,597.6299638989169
+T149,2024-01-01,543,10,3869,,,,,,Cook-Smith,azhang@example.com,827-310-9771x11496,"USCGC Moon
+FPO AA 68497",Manufacturing,Cikarang,
+T149,2024-01-02,684,78,3107,,,,,,Cook-Smith,azhang@example.com,827-310-9771x11496,"USCGC Moon
+FPO AA 68497",Manufacturing,Cikarang,
+T149,2024-01-03,782,23,3232,,,,,,Cook-Smith,azhang@example.com,827-310-9771x11496,"USCGC Moon
+FPO AA 68497",Manufacturing,Cikarang,
+T149,2024-01-04,955,89,4542,,,,,,Cook-Smith,azhang@example.com,827-310-9771x11496,"USCGC Moon
+FPO AA 68497",Manufacturing,Cikarang,
+T149,2024-01-05,878,25,3116,TRX1495,452031.0,3.0,Bandung,Default,Cook-Smith,azhang@example.com,827-310-9771x11496,"USCGC Moon
+FPO AA 68497",Manufacturing,Cikarang,145.06771501925544
+T150,2024-01-01,521,16,3682,,,,,,"Mcknight, Tran and Thompson",pestrada@example.com,001-601-765-7358x4732,"PSC 3150, Box 8613
+APO AP 91307",FMCG,Bogor,
+T150,2024-01-02,834,64,1698,,,,,,"Mcknight, Tran and Thompson",pestrada@example.com,001-601-765-7358x4732,"PSC 3150, Box 8613
+APO AP 91307",FMCG,Bogor,
+T150,2024-01-03,183,69,1926,,,,,,"Mcknight, Tran and Thompson",pestrada@example.com,001-601-765-7358x4732,"PSC 3150, Box 8613
+APO AP 91307",FMCG,Bogor,
+T150,2024-01-04,150,33,1808,,,,,,"Mcknight, Tran and Thompson",pestrada@example.com,001-601-765-7358x4732,"PSC 3150, Box 8613
+APO AP 91307",FMCG,Bogor,
+T150,2024-01-05,193,64,4106,TRX1505,354414.0,3.0,Surabaya,No-Default,"Mcknight, Tran and Thompson",pestrada@example.com,001-601-765-7358x4732,"PSC 3150, Box 8613
+APO AP 91307",FMCG,Bogor,86.31612274719922
+T151,2024-01-01,530,67,3256,,,,,,Jones LLC,gregoryfloyd@example.net,001-505-390-4872,"96561 Tiffany Row Apt. 237
+West Michael, PR 79369",Tech,Bogor,
+T151,2024-01-02,107,100,2278,,,,,,Jones LLC,gregoryfloyd@example.net,001-505-390-4872,"96561 Tiffany Row Apt. 237
+West Michael, PR 79369",Tech,Bogor,
+T151,2024-01-03,562,21,582,,,,,,Jones LLC,gregoryfloyd@example.net,001-505-390-4872,"96561 Tiffany Row Apt. 237
+West Michael, PR 79369",Tech,Bogor,
+T151,2024-01-04,663,82,2287,,,,,,Jones LLC,gregoryfloyd@example.net,001-505-390-4872,"96561 Tiffany Row Apt. 237
+West Michael, PR 79369",Tech,Bogor,
+T151,2024-01-05,91,74,2316,TRX1515,494137.0,3.0,Surabaya,No-Default,Jones LLC,gregoryfloyd@example.net,001-505-390-4872,"96561 Tiffany Row Apt. 237
+West Michael, PR 79369",Tech,Bogor,213.35794473229706
+T152,2024-01-01,684,57,4135,,,,,,"Martinez, Jones and Torres",mccallcheryl@example.net,+1-258-430-8873x064,"USS Robinson
+FPO AE 86854",Manufacturing,Surabaya,
+T152,2024-01-02,141,83,2520,,,,,,"Martinez, Jones and Torres",mccallcheryl@example.net,+1-258-430-8873x064,"USS Robinson
+FPO AE 86854",Manufacturing,Surabaya,
+T152,2024-01-03,146,92,3286,,,,,,"Martinez, Jones and Torres",mccallcheryl@example.net,+1-258-430-8873x064,"USS Robinson
+FPO AE 86854",Manufacturing,Surabaya,
+T152,2024-01-04,880,97,4110,,,,,,"Martinez, Jones and Torres",mccallcheryl@example.net,+1-258-430-8873x064,"USS Robinson
+FPO AE 86854",Manufacturing,Surabaya,
+T152,2024-01-05,649,61,3305,TRX1525,160953.0,12.0,Bogor,Default,"Martinez, Jones and Torres",mccallcheryl@example.net,+1-258-430-8873x064,"USS Robinson
+FPO AE 86854",Manufacturing,Surabaya,48.69984871406959
+T153,2024-01-01,326,28,3443,,,,,,"Williams, Edwards and Ibarra",wattskimberly@example.com,(811)665-7817,"9516 Vaughn Road
+Port Danielside, DC 89710",FMCG,Cikarang,
+T153,2024-01-02,622,60,3966,,,,,,"Williams, Edwards and Ibarra",wattskimberly@example.com,(811)665-7817,"9516 Vaughn Road
+Port Danielside, DC 89710",FMCG,Cikarang,
+T153,2024-01-03,581,38,4299,,,,,,"Williams, Edwards and Ibarra",wattskimberly@example.com,(811)665-7817,"9516 Vaughn Road
+Port Danielside, DC 89710",FMCG,Cikarang,
+T153,2024-01-04,588,77,4501,,,,,,"Williams, Edwards and Ibarra",wattskimberly@example.com,(811)665-7817,"9516 Vaughn Road
+Port Danielside, DC 89710",FMCG,Cikarang,
+T153,2024-01-05,197,73,2818,TRX1535,319582.0,12.0,Jakarta,Default,"Williams, Edwards and Ibarra",wattskimberly@example.com,(811)665-7817,"9516 Vaughn Road
+Port Danielside, DC 89710",FMCG,Cikarang,113.40738112136268
+T154,2024-01-01,283,100,1022,,,,,,"Myers, Baldwin and Guerrero",moconnor@example.org,7995657602,"3547 Judith Mall Suite 065
+Benjamintown, LA 05892",Utilities,Bandung,
+T154,2024-01-02,680,20,3891,,,,,,"Myers, Baldwin and Guerrero",moconnor@example.org,7995657602,"3547 Judith Mall Suite 065
+Benjamintown, LA 05892",Utilities,Bandung,
+T154,2024-01-03,910,90,2902,,,,,,"Myers, Baldwin and Guerrero",moconnor@example.org,7995657602,"3547 Judith Mall Suite 065
+Benjamintown, LA 05892",Utilities,Bandung,
+T154,2024-01-04,59,84,2092,,,,,,"Myers, Baldwin and Guerrero",moconnor@example.org,7995657602,"3547 Judith Mall Suite 065
+Benjamintown, LA 05892",Utilities,Bandung,
+T154,2024-01-05,214,41,867,TRX1545,373791.0,12.0,Jakarta,No-Default,"Myers, Baldwin and Guerrero",moconnor@example.org,7995657602,"3547 Judith Mall Suite 065
+Benjamintown, LA 05892",Utilities,Bandung,431.13148788927333
+T155,2024-01-01,973,51,3854,,,,,,"Garrett, Burgess and Morgan",gregoryspencer@example.com,284-520-8628x3519,"5495 Marcia Park Apt. 220
+Anthonystad, NY 86797",Tech,Jakarta,
+T155,2024-01-02,473,76,4376,,,,,,"Garrett, Burgess and Morgan",gregoryspencer@example.com,284-520-8628x3519,"5495 Marcia Park Apt. 220
+Anthonystad, NY 86797",Tech,Jakarta,
+T155,2024-01-03,160,15,4353,,,,,,"Garrett, Burgess and Morgan",gregoryspencer@example.com,284-520-8628x3519,"5495 Marcia Park Apt. 220
+Anthonystad, NY 86797",Tech,Jakarta,
+T155,2024-01-04,909,35,4049,,,,,,"Garrett, Burgess and Morgan",gregoryspencer@example.com,284-520-8628x3519,"5495 Marcia Park Apt. 220
+Anthonystad, NY 86797",Tech,Jakarta,
+T155,2024-01-05,828,93,1933,TRX1555,463033.0,6.0,Bandung,Default,"Garrett, Burgess and Morgan",gregoryspencer@example.com,284-520-8628x3519,"5495 Marcia Park Apt. 220
+Anthonystad, NY 86797",Tech,Jakarta,239.54112778065183
+T156,2024-01-01,701,43,4470,,,,,,Harris and Sons,hoganjustin@example.com,001-894-351-6001x4245,"6044 Miller Ports Suite 288
+Edwardston, MA 02637",Tech,Surabaya,
+T156,2024-01-02,520,26,3669,,,,,,Harris and Sons,hoganjustin@example.com,001-894-351-6001x4245,"6044 Miller Ports Suite 288
+Edwardston, MA 02637",Tech,Surabaya,
+T156,2024-01-03,225,99,4396,,,,,,Harris and Sons,hoganjustin@example.com,001-894-351-6001x4245,"6044 Miller Ports Suite 288
+Edwardston, MA 02637",Tech,Surabaya,
+T156,2024-01-04,985,54,2706,,,,,,Harris and Sons,hoganjustin@example.com,001-894-351-6001x4245,"6044 Miller Ports Suite 288
+Edwardston, MA 02637",Tech,Surabaya,
+T156,2024-01-05,136,79,4679,TRX1565,133656.0,6.0,Cikarang,No-Default,Harris and Sons,hoganjustin@example.com,001-894-351-6001x4245,"6044 Miller Ports Suite 288
+Edwardston, MA 02637",Tech,Surabaya,28.565078008121393
+T157,2024-01-01,698,74,1222,,,,,,Newman-Carroll,jameschristensen@example.net,(716)475-0076,"1394 Banks Mountains Apt. 177
+Amberfurt, CO 77518",Utilities,Bandung,
+T157,2024-01-02,271,30,4058,,,,,,Newman-Carroll,jameschristensen@example.net,(716)475-0076,"1394 Banks Mountains Apt. 177
+Amberfurt, CO 77518",Utilities,Bandung,
+T157,2024-01-03,14,11,1596,,,,,,Newman-Carroll,jameschristensen@example.net,(716)475-0076,"1394 Banks Mountains Apt. 177
+Amberfurt, CO 77518",Utilities,Bandung,
+T157,2024-01-04,769,49,2083,,,,,,Newman-Carroll,jameschristensen@example.net,(716)475-0076,"1394 Banks Mountains Apt. 177
+Amberfurt, CO 77518",Utilities,Bandung,
+T157,2024-01-05,276,34,1596,TRX1575,33479.0,12.0,Surabaya,Default,Newman-Carroll,jameschristensen@example.net,(716)475-0076,"1394 Banks Mountains Apt. 177
+Amberfurt, CO 77518",Utilities,Bandung,20.976817042606516
+T158,2024-01-01,239,12,1079,,,,,,"Howell, Rodriguez and Bradford",rebecca74@example.com,887-649-7178x40675,"000 Molly Canyon
+New Jeremy, PW 40586",Utilities,Bandung,
+T158,2024-01-02,190,29,599,,,,,,"Howell, Rodriguez and Bradford",rebecca74@example.com,887-649-7178x40675,"000 Molly Canyon
+New Jeremy, PW 40586",Utilities,Bandung,
+T158,2024-01-03,623,46,3880,,,,,,"Howell, Rodriguez and Bradford",rebecca74@example.com,887-649-7178x40675,"000 Molly Canyon
+New Jeremy, PW 40586",Utilities,Bandung,
+T158,2024-01-04,334,47,1573,,,,,,"Howell, Rodriguez and Bradford",rebecca74@example.com,887-649-7178x40675,"000 Molly Canyon
+New Jeremy, PW 40586",Utilities,Bandung,
+T158,2024-01-05,136,91,656,TRX1585,157647.0,6.0,Bandung,Default,"Howell, Rodriguez and Bradford",rebecca74@example.com,887-649-7178x40675,"000 Molly Canyon
+New Jeremy, PW 40586",Utilities,Bandung,240.3155487804878
+T159,2024-01-01,562,12,3175,,,,,,"Jones, Phillips and Gardner",lhaynes@example.com,+1-584-649-6532x4513,"237 Howard Knolls
+Christianchester, WA 50166",Utilities,Bogor,
+T159,2024-01-02,905,47,2309,,,,,,"Jones, Phillips and Gardner",lhaynes@example.com,+1-584-649-6532x4513,"237 Howard Knolls
+Christianchester, WA 50166",Utilities,Bogor,
+T159,2024-01-03,631,31,3685,,,,,,"Jones, Phillips and Gardner",lhaynes@example.com,+1-584-649-6532x4513,"237 Howard Knolls
+Christianchester, WA 50166",Utilities,Bogor,
+T159,2024-01-04,689,36,1133,,,,,,"Jones, Phillips and Gardner",lhaynes@example.com,+1-584-649-6532x4513,"237 Howard Knolls
+Christianchester, WA 50166",Utilities,Bogor,
+T159,2024-01-05,153,100,1045,TRX1595,341487.0,3.0,Jakarta,No-Default,"Jones, Phillips and Gardner",lhaynes@example.com,+1-584-649-6532x4513,"237 Howard Knolls
+Christianchester, WA 50166",Utilities,Bogor,326.7818181818182
+T160,2024-01-01,78,16,945,,,,,,Lynch Inc,vthompson@example.com,2498936203,"4025 Sarah Drives Apt. 072
+Patriciastad, ID 06174",FMCG,Jakarta,
+T160,2024-01-02,580,18,3117,,,,,,Lynch Inc,vthompson@example.com,2498936203,"4025 Sarah Drives Apt. 072
+Patriciastad, ID 06174",FMCG,Jakarta,
+T160,2024-01-03,327,45,2051,,,,,,Lynch Inc,vthompson@example.com,2498936203,"4025 Sarah Drives Apt. 072
+Patriciastad, ID 06174",FMCG,Jakarta,
+T160,2024-01-04,667,86,2441,,,,,,Lynch Inc,vthompson@example.com,2498936203,"4025 Sarah Drives Apt. 072
+Patriciastad, ID 06174",FMCG,Jakarta,
+T160,2024-01-05,728,41,3394,TRX1605,218561.0,12.0,Bandung,No-Default,Lynch Inc,vthompson@example.com,2498936203,"4025 Sarah Drives Apt. 072
+Patriciastad, ID 06174",FMCG,Jakarta,64.39628756629345
+T161,2024-01-01,918,85,3717,,,,,,Hernandez-Thompson,michael95@example.com,+1-706-833-5059x9722,"76470 Kelli Roads
+South Johnchester, VT 41692",FMCG,Cikarang,
+T161,2024-01-02,922,36,1411,,,,,,Hernandez-Thompson,michael95@example.com,+1-706-833-5059x9722,"76470 Kelli Roads
+South Johnchester, VT 41692",FMCG,Cikarang,
+T161,2024-01-03,192,48,3304,,,,,,Hernandez-Thompson,michael95@example.com,+1-706-833-5059x9722,"76470 Kelli Roads
+South Johnchester, VT 41692",FMCG,Cikarang,
+T161,2024-01-04,311,35,1829,,,,,,Hernandez-Thompson,michael95@example.com,+1-706-833-5059x9722,"76470 Kelli Roads
+South Johnchester, VT 41692",FMCG,Cikarang,
+T161,2024-01-05,25,86,1285,TRX1615,189642.0,6.0,Jakarta,No-Default,Hernandez-Thompson,michael95@example.com,+1-706-833-5059x9722,"76470 Kelli Roads
+South Johnchester, VT 41692",FMCG,Cikarang,147.58132295719844
+T162,2024-01-01,709,11,3321,,,,,,Allen Ltd,theresa61@example.net,001-575-312-5124x7818,"21176 Deborah Cliff
+Doyletown, PR 70707",Energy,Bogor,
+T162,2024-01-02,469,86,1193,,,,,,Allen Ltd,theresa61@example.net,001-575-312-5124x7818,"21176 Deborah Cliff
+Doyletown, PR 70707",Energy,Bogor,
+T162,2024-01-03,318,95,2279,,,,,,Allen Ltd,theresa61@example.net,001-575-312-5124x7818,"21176 Deborah Cliff
+Doyletown, PR 70707",Energy,Bogor,
+T162,2024-01-04,246,82,3224,,,,,,Allen Ltd,theresa61@example.net,001-575-312-5124x7818,"21176 Deborah Cliff
+Doyletown, PR 70707",Energy,Bogor,
+T162,2024-01-05,355,56,1132,TRX1625,398297.0,12.0,Bandung,No-Default,Allen Ltd,theresa61@example.net,001-575-312-5124x7818,"21176 Deborah Cliff
+Doyletown, PR 70707",Energy,Bogor,351.8524734982332
+T163,2024-01-01,11,69,977,,,,,,"Salinas, Sims and Stone",halvarado@example.org,558-873-4131,"1589 Patricia Freeway
+New Julieville, MP 22333",Utilities,Bogor,
+T163,2024-01-02,53,87,2782,,,,,,"Salinas, Sims and Stone",halvarado@example.org,558-873-4131,"1589 Patricia Freeway
+New Julieville, MP 22333",Utilities,Bogor,
+T163,2024-01-03,185,60,1812,,,,,,"Salinas, Sims and Stone",halvarado@example.org,558-873-4131,"1589 Patricia Freeway
+New Julieville, MP 22333",Utilities,Bogor,
+T163,2024-01-04,403,86,4311,,,,,,"Salinas, Sims and Stone",halvarado@example.org,558-873-4131,"1589 Patricia Freeway
+New Julieville, MP 22333",Utilities,Bogor,
+T163,2024-01-05,920,98,4571,TRX1635,29373.0,3.0,Bandung,Default,"Salinas, Sims and Stone",halvarado@example.org,558-873-4131,"1589 Patricia Freeway
+New Julieville, MP 22333",Utilities,Bogor,6.425946182454605
+T164,2024-01-01,601,41,1056,,,,,,Wise-Jennings,jennifer69@example.net,001-975-734-8738x1495,"663 Hernandez Garden
+South Frankfurt, VT 15153",Utilities,Cikarang,
+T164,2024-01-02,834,75,4353,,,,,,Wise-Jennings,jennifer69@example.net,001-975-734-8738x1495,"663 Hernandez Garden
+South Frankfurt, VT 15153",Utilities,Cikarang,
+T164,2024-01-03,34,28,1638,,,,,,Wise-Jennings,jennifer69@example.net,001-975-734-8738x1495,"663 Hernandez Garden
+South Frankfurt, VT 15153",Utilities,Cikarang,
+T164,2024-01-04,357,12,3323,,,,,,Wise-Jennings,jennifer69@example.net,001-975-734-8738x1495,"663 Hernandez Garden
+South Frankfurt, VT 15153",Utilities,Cikarang,
+T164,2024-01-05,83,29,1600,TRX1645,209442.0,6.0,Cikarang,No-Default,Wise-Jennings,jennifer69@example.net,001-975-734-8738x1495,"663 Hernandez Garden
+South Frankfurt, VT 15153",Utilities,Cikarang,130.90125
+T165,2024-01-01,847,40,4403,,,,,,"Nunez, Davis and Finley",robertcruz@example.org,2043781050,"1082 Steven Hill
+Lake Vincentmouth, AL 48617",FMCG,Jakarta,
+T165,2024-01-02,358,76,1329,,,,,,"Nunez, Davis and Finley",robertcruz@example.org,2043781050,"1082 Steven Hill
+Lake Vincentmouth, AL 48617",FMCG,Jakarta,
+T165,2024-01-03,920,77,4611,,,,,,"Nunez, Davis and Finley",robertcruz@example.org,2043781050,"1082 Steven Hill
+Lake Vincentmouth, AL 48617",FMCG,Jakarta,
+T165,2024-01-04,85,75,1851,,,,,,"Nunez, Davis and Finley",robertcruz@example.org,2043781050,"1082 Steven Hill
+Lake Vincentmouth, AL 48617",FMCG,Jakarta,
+T165,2024-01-05,162,30,1574,TRX1655,28099.0,3.0,Bogor,Default,"Nunez, Davis and Finley",robertcruz@example.org,2043781050,"1082 Steven Hill
+Lake Vincentmouth, AL 48617",FMCG,Jakarta,17.85196950444727
+T166,2024-01-01,244,15,875,,,,,,Stanley PLC,williamsshannon@example.org,+1-318-907-8362x6453,"37185 Harrison Expressway Apt. 653
+Howardborough, KY 69711",FMCG,Bandung,
+T166,2024-01-02,644,86,4410,,,,,,Stanley PLC,williamsshannon@example.org,+1-318-907-8362x6453,"37185 Harrison Expressway Apt. 653
+Howardborough, KY 69711",FMCG,Bandung,
+T166,2024-01-03,40,46,3498,,,,,,Stanley PLC,williamsshannon@example.org,+1-318-907-8362x6453,"37185 Harrison Expressway Apt. 653
+Howardborough, KY 69711",FMCG,Bandung,
+T166,2024-01-04,772,94,2391,,,,,,Stanley PLC,williamsshannon@example.org,+1-318-907-8362x6453,"37185 Harrison Expressway Apt. 653
+Howardborough, KY 69711",FMCG,Bandung,
+T166,2024-01-05,526,43,3240,TRX1665,62729.0,12.0,Surabaya,No-Default,Stanley PLC,williamsshannon@example.org,+1-318-907-8362x6453,"37185 Harrison Expressway Apt. 653
+Howardborough, KY 69711",FMCG,Bandung,19.360802469135802
+T167,2024-01-01,233,22,4459,,,,,,Garcia Group,stevensjeffrey@example.org,(906)433-3164,"381 Fernandez Streets Apt. 573
+Vincenthaven, CO 08490",FMCG,Cikarang,
+T167,2024-01-02,266,11,3012,,,,,,Garcia Group,stevensjeffrey@example.org,(906)433-3164,"381 Fernandez Streets Apt. 573
+Vincenthaven, CO 08490",FMCG,Cikarang,
+T167,2024-01-03,743,57,729,,,,,,Garcia Group,stevensjeffrey@example.org,(906)433-3164,"381 Fernandez Streets Apt. 573
+Vincenthaven, CO 08490",FMCG,Cikarang,
+T167,2024-01-04,315,77,3819,,,,,,Garcia Group,stevensjeffrey@example.org,(906)433-3164,"381 Fernandez Streets Apt. 573
+Vincenthaven, CO 08490",FMCG,Cikarang,
+T167,2024-01-05,606,27,4696,TRX1675,139498.0,3.0,Bandung,No-Default,Garcia Group,stevensjeffrey@example.org,(906)433-3164,"381 Fernandez Streets Apt. 573
+Vincenthaven, CO 08490",FMCG,Cikarang,29.705706984667803
+T168,2024-01-01,462,63,1456,,,,,,Marshall PLC,katherineestrada@example.net,(985)547-9824,"Unit 3543 Box 2126
+DPO AA 05041",Energy,Jakarta,
+T168,2024-01-02,985,39,1586,,,,,,Marshall PLC,katherineestrada@example.net,(985)547-9824,"Unit 3543 Box 2126
+DPO AA 05041",Energy,Jakarta,
+T168,2024-01-03,225,35,1664,,,,,,Marshall PLC,katherineestrada@example.net,(985)547-9824,"Unit 3543 Box 2126
+DPO AA 05041",Energy,Jakarta,
+T168,2024-01-04,971,93,749,,,,,,Marshall PLC,katherineestrada@example.net,(985)547-9824,"Unit 3543 Box 2126
+DPO AA 05041",Energy,Jakarta,
+T168,2024-01-05,518,80,4913,TRX1685,482936.0,6.0,Bogor,No-Default,Marshall PLC,katherineestrada@example.net,(985)547-9824,"Unit 3543 Box 2126
+DPO AA 05041",Energy,Jakarta,98.29757785467127
+T169,2024-01-01,650,54,1108,,,,,,Velazquez-Owen,brandonbuckley@example.com,+1-254-207-1254x4740,"709 Williams Unions
+North Jacksonchester, WV 29930",Tech,Bogor,
+T169,2024-01-02,321,80,1926,,,,,,Velazquez-Owen,brandonbuckley@example.com,+1-254-207-1254x4740,"709 Williams Unions
+North Jacksonchester, WV 29930",Tech,Bogor,
+T169,2024-01-03,910,29,1072,,,,,,Velazquez-Owen,brandonbuckley@example.com,+1-254-207-1254x4740,"709 Williams Unions
+North Jacksonchester, WV 29930",Tech,Bogor,
+T169,2024-01-04,125,46,4938,,,,,,Velazquez-Owen,brandonbuckley@example.com,+1-254-207-1254x4740,"709 Williams Unions
+North Jacksonchester, WV 29930",Tech,Bogor,
+T169,2024-01-05,591,24,1678,TRX1695,395816.0,6.0,Bandung,No-Default,Velazquez-Owen,brandonbuckley@example.com,+1-254-207-1254x4740,"709 Williams Unions
+North Jacksonchester, WV 29930",Tech,Bogor,235.8855780691299
+T170,2024-01-01,619,100,721,,,,,,Small-Henderson,hallmark@example.net,+1-715-692-5758x235,"057 Heidi Hills
+Chelseabury, OR 87348",FMCG,Bogor,
+T170,2024-01-02,178,85,4075,,,,,,Small-Henderson,hallmark@example.net,+1-715-692-5758x235,"057 Heidi Hills
+Chelseabury, OR 87348",FMCG,Bogor,
+T170,2024-01-03,329,57,1423,,,,,,Small-Henderson,hallmark@example.net,+1-715-692-5758x235,"057 Heidi Hills
+Chelseabury, OR 87348",FMCG,Bogor,
+T170,2024-01-04,567,62,3160,,,,,,Small-Henderson,hallmark@example.net,+1-715-692-5758x235,"057 Heidi Hills
+Chelseabury, OR 87348",FMCG,Bogor,
+T170,2024-01-05,532,57,3743,TRX1705,481762.0,12.0,Bandung,No-Default,Small-Henderson,hallmark@example.net,+1-715-692-5758x235,"057 Heidi Hills
+Chelseabury, OR 87348",FMCG,Bogor,128.71012556772644
+T171,2024-01-01,821,66,2795,,,,,,Huff Inc,ywagner@example.com,(870)734-4489,"3097 Bradshaw Circle
+Simmonsstad, MP 46017",FMCG,Surabaya,
+T171,2024-01-02,85,38,1205,,,,,,Huff Inc,ywagner@example.com,(870)734-4489,"3097 Bradshaw Circle
+Simmonsstad, MP 46017",FMCG,Surabaya,
+T171,2024-01-03,826,52,748,,,,,,Huff Inc,ywagner@example.com,(870)734-4489,"3097 Bradshaw Circle
+Simmonsstad, MP 46017",FMCG,Surabaya,
+T171,2024-01-04,725,93,1895,,,,,,Huff Inc,ywagner@example.com,(870)734-4489,"3097 Bradshaw Circle
+Simmonsstad, MP 46017",FMCG,Surabaya,
+T171,2024-01-05,249,74,2255,TRX1715,271717.0,12.0,Bogor,No-Default,Huff Inc,ywagner@example.com,(870)734-4489,"3097 Bradshaw Circle
+Simmonsstad, MP 46017",FMCG,Surabaya,120.49534368070954
+T172,2024-01-01,448,24,3545,,,,,,Anderson-Kline,kcoleman@example.net,001-717-235-5291x401,"7605 Moore Drive
+East John, MN 35616",Manufacturing,Jakarta,
+T172,2024-01-02,66,21,4554,,,,,,Anderson-Kline,kcoleman@example.net,001-717-235-5291x401,"7605 Moore Drive
+East John, MN 35616",Manufacturing,Jakarta,
+T172,2024-01-03,21,79,2313,,,,,,Anderson-Kline,kcoleman@example.net,001-717-235-5291x401,"7605 Moore Drive
+East John, MN 35616",Manufacturing,Jakarta,
+T172,2024-01-04,606,84,3643,,,,,,Anderson-Kline,kcoleman@example.net,001-717-235-5291x401,"7605 Moore Drive
+East John, MN 35616",Manufacturing,Jakarta,
+T172,2024-01-05,797,96,2305,TRX1725,340953.0,6.0,Jakarta,No-Default,Anderson-Kline,kcoleman@example.net,001-717-235-5291x401,"7605 Moore Drive
+East John, MN 35616",Manufacturing,Jakarta,147.91887201735358
+T173,2024-01-01,709,73,1189,,,,,,Montes Group,armstronglaura@example.org,+1-879-890-1088,"370 Burns Estates
+Port Jasonfort, TX 20839",FMCG,Cikarang,
+T173,2024-01-02,902,48,3323,,,,,,Montes Group,armstronglaura@example.org,+1-879-890-1088,"370 Burns Estates
+Port Jasonfort, TX 20839",FMCG,Cikarang,
+T173,2024-01-03,672,48,618,,,,,,Montes Group,armstronglaura@example.org,+1-879-890-1088,"370 Burns Estates
+Port Jasonfort, TX 20839",FMCG,Cikarang,
+T173,2024-01-04,764,60,2727,,,,,,Montes Group,armstronglaura@example.org,+1-879-890-1088,"370 Burns Estates
+Port Jasonfort, TX 20839",FMCG,Cikarang,
+T173,2024-01-05,206,73,1610,TRX1735,80937.0,3.0,Surabaya,No-Default,Montes Group,armstronglaura@example.org,+1-879-890-1088,"370 Burns Estates
+Port Jasonfort, TX 20839",FMCG,Cikarang,50.27142857142857
+T174,2024-01-01,464,29,2856,,,,,,Page-Allen,fespinoza@example.net,+1-875-735-9232x361,"0077 Jason Wall Suite 724
+Paulbury, RI 93501",Manufacturing,Surabaya,
+T174,2024-01-02,932,21,3829,,,,,,Page-Allen,fespinoza@example.net,+1-875-735-9232x361,"0077 Jason Wall Suite 724
+Paulbury, RI 93501",Manufacturing,Surabaya,
+T174,2024-01-03,672,100,4049,,,,,,Page-Allen,fespinoza@example.net,+1-875-735-9232x361,"0077 Jason Wall Suite 724
+Paulbury, RI 93501",Manufacturing,Surabaya,
+T174,2024-01-04,636,26,892,,,,,,Page-Allen,fespinoza@example.net,+1-875-735-9232x361,"0077 Jason Wall Suite 724
+Paulbury, RI 93501",Manufacturing,Surabaya,
+T174,2024-01-05,549,93,3288,TRX1745,288763.0,12.0,Surabaya,Default,Page-Allen,fespinoza@example.net,+1-875-735-9232x361,"0077 Jason Wall Suite 724
+Paulbury, RI 93501",Manufacturing,Surabaya,87.82329683698296
+T175,2024-01-01,123,71,3220,,,,,,Lowe-Ortiz,tyler58@example.net,001-432-679-5493x3006,"540 Jason Ports
+Markfort, DC 45178",Energy,Surabaya,
+T175,2024-01-02,661,54,4451,,,,,,Lowe-Ortiz,tyler58@example.net,001-432-679-5493x3006,"540 Jason Ports
+Markfort, DC 45178",Energy,Surabaya,
+T175,2024-01-03,340,57,3720,,,,,,Lowe-Ortiz,tyler58@example.net,001-432-679-5493x3006,"540 Jason Ports
+Markfort, DC 45178",Energy,Surabaya,
+T175,2024-01-04,500,97,2898,,,,,,Lowe-Ortiz,tyler58@example.net,001-432-679-5493x3006,"540 Jason Ports
+Markfort, DC 45178",Energy,Surabaya,
+T175,2024-01-05,432,26,3789,TRX1755,409096.0,6.0,Bandung,Default,Lowe-Ortiz,tyler58@example.net,001-432-679-5493x3006,"540 Jason Ports
+Markfort, DC 45178",Energy,Surabaya,107.96938506202164
+T176,2024-01-01,694,72,3723,,,,,,"Williams, Barnes and Guerrero",robertsonjennifer@example.net,+1-209-615-2111x682,"5049 Nelson Station Apt. 638
+Palmerbury, MN 46874",Tech,Jakarta,
+T176,2024-01-02,403,58,1903,,,,,,"Williams, Barnes and Guerrero",robertsonjennifer@example.net,+1-209-615-2111x682,"5049 Nelson Station Apt. 638
+Palmerbury, MN 46874",Tech,Jakarta,
+T176,2024-01-03,930,53,643,,,,,,"Williams, Barnes and Guerrero",robertsonjennifer@example.net,+1-209-615-2111x682,"5049 Nelson Station Apt. 638
+Palmerbury, MN 46874",Tech,Jakarta,
+T176,2024-01-04,894,74,1936,,,,,,"Williams, Barnes and Guerrero",robertsonjennifer@example.net,+1-209-615-2111x682,"5049 Nelson Station Apt. 638
+Palmerbury, MN 46874",Tech,Jakarta,
+T176,2024-01-05,968,85,1480,TRX1765,125836.0,6.0,Bogor,No-Default,"Williams, Barnes and Guerrero",robertsonjennifer@example.net,+1-209-615-2111x682,"5049 Nelson Station Apt. 638
+Palmerbury, MN 46874",Tech,Jakarta,85.02432432432433
+T177,2024-01-01,903,60,3671,,,,,,Craig-Morris,coxdavid@example.org,6996253069,"643 Thomas Wall Suite 514
+West Maryville, CA 79794",Energy,Bogor,
+T177,2024-01-02,953,84,4126,,,,,,Craig-Morris,coxdavid@example.org,6996253069,"643 Thomas Wall Suite 514
+West Maryville, CA 79794",Energy,Bogor,
+T177,2024-01-03,478,54,3271,,,,,,Craig-Morris,coxdavid@example.org,6996253069,"643 Thomas Wall Suite 514
+West Maryville, CA 79794",Energy,Bogor,
+T177,2024-01-04,55,95,1323,,,,,,Craig-Morris,coxdavid@example.org,6996253069,"643 Thomas Wall Suite 514
+West Maryville, CA 79794",Energy,Bogor,
+T177,2024-01-05,765,20,1938,TRX1775,82527.0,6.0,Bandung,Default,Craig-Morris,coxdavid@example.org,6996253069,"643 Thomas Wall Suite 514
+West Maryville, CA 79794",Energy,Bogor,42.583591331269346
+T178,2024-01-01,656,91,845,,,,,,"Clark, Morton and Ramsey",burnspamela@example.org,528-884-4530,"11630 Ashley Curve
+North Royburgh, AK 30908",FMCG,Surabaya,
+T178,2024-01-02,590,82,2632,,,,,,"Clark, Morton and Ramsey",burnspamela@example.org,528-884-4530,"11630 Ashley Curve
+North Royburgh, AK 30908",FMCG,Surabaya,
+T178,2024-01-03,71,50,2667,,,,,,"Clark, Morton and Ramsey",burnspamela@example.org,528-884-4530,"11630 Ashley Curve
+North Royburgh, AK 30908",FMCG,Surabaya,
+T178,2024-01-04,109,53,2094,,,,,,"Clark, Morton and Ramsey",burnspamela@example.org,528-884-4530,"11630 Ashley Curve
+North Royburgh, AK 30908",FMCG,Surabaya,
+T178,2024-01-05,126,94,4503,TRX1785,345151.0,12.0,Bandung,Default,"Clark, Morton and Ramsey",burnspamela@example.org,528-884-4530,"11630 Ashley Curve
+North Royburgh, AK 30908",FMCG,Surabaya,76.64912280701755
+T179,2024-01-01,524,37,2312,,,,,,Johnson and Sons,kyletaylor@example.org,+1-321-519-1928x0868,"57381 Calhoun Loaf
+West Katherine, PW 91462",Manufacturing,Bogor,
+T179,2024-01-02,866,48,1714,,,,,,Johnson and Sons,kyletaylor@example.org,+1-321-519-1928x0868,"57381 Calhoun Loaf
+West Katherine, PW 91462",Manufacturing,Bogor,
+T179,2024-01-03,73,76,2346,,,,,,Johnson and Sons,kyletaylor@example.org,+1-321-519-1928x0868,"57381 Calhoun Loaf
+West Katherine, PW 91462",Manufacturing,Bogor,
+T179,2024-01-04,290,30,3160,,,,,,Johnson and Sons,kyletaylor@example.org,+1-321-519-1928x0868,"57381 Calhoun Loaf
+West Katherine, PW 91462",Manufacturing,Bogor,
+T179,2024-01-05,22,71,1355,TRX1795,229546.0,6.0,Bogor,No-Default,Johnson and Sons,kyletaylor@example.org,+1-321-519-1928x0868,"57381 Calhoun Loaf
+West Katherine, PW 91462",Manufacturing,Bogor,169.40664206642066
+T180,2024-01-01,849,98,4400,,,,,,"Hubbard, Young and Cortez",jason38@example.com,(873)920-9446x99107,"6227 Paul Route Apt. 110
+North Dean, OK 67013",Manufacturing,Cikarang,
+T180,2024-01-02,339,70,712,,,,,,"Hubbard, Young and Cortez",jason38@example.com,(873)920-9446x99107,"6227 Paul Route Apt. 110
+North Dean, OK 67013",Manufacturing,Cikarang,
+T180,2024-01-03,749,33,4572,,,,,,"Hubbard, Young and Cortez",jason38@example.com,(873)920-9446x99107,"6227 Paul Route Apt. 110
+North Dean, OK 67013",Manufacturing,Cikarang,
+T180,2024-01-04,17,81,2286,,,,,,"Hubbard, Young and Cortez",jason38@example.com,(873)920-9446x99107,"6227 Paul Route Apt. 110
+North Dean, OK 67013",Manufacturing,Cikarang,
+T180,2024-01-05,71,99,4841,TRX1805,48310.0,3.0,Bogor,No-Default,"Hubbard, Young and Cortez",jason38@example.com,(873)920-9446x99107,"6227 Paul Route Apt. 110
+North Dean, OK 67013",Manufacturing,Cikarang,9.979343110927495
+T181,2024-01-01,186,19,4299,,,,,,Schultz Group,vgibson@example.net,+1-636-721-4258x96738,"57078 William Walks Apt. 344
+Lake Christine, VT 46109",Utilities,Cikarang,
+T181,2024-01-02,506,58,4800,,,,,,Schultz Group,vgibson@example.net,+1-636-721-4258x96738,"57078 William Walks Apt. 344
+Lake Christine, VT 46109",Utilities,Cikarang,
+T181,2024-01-03,996,83,2568,,,,,,Schultz Group,vgibson@example.net,+1-636-721-4258x96738,"57078 William Walks Apt. 344
+Lake Christine, VT 46109",Utilities,Cikarang,
+T181,2024-01-04,818,53,623,,,,,,Schultz Group,vgibson@example.net,+1-636-721-4258x96738,"57078 William Walks Apt. 344
+Lake Christine, VT 46109",Utilities,Cikarang,
+T181,2024-01-05,464,66,2912,TRX1815,93506.0,3.0,Bogor,Default,Schultz Group,vgibson@example.net,+1-636-721-4258x96738,"57078 William Walks Apt. 344
+Lake Christine, VT 46109",Utilities,Cikarang,32.11057692307692
+T182,2024-01-01,869,80,3619,,,,,,Bauer-Everett,ellismelissa@example.org,(669)933-3639,"81581 Combs Freeway Suite 399
+South Elizabethmouth, SC 11037",Tech,Cikarang,
+T182,2024-01-02,480,45,2901,,,,,,Bauer-Everett,ellismelissa@example.org,(669)933-3639,"81581 Combs Freeway Suite 399
+South Elizabethmouth, SC 11037",Tech,Cikarang,
+T182,2024-01-03,877,17,1614,,,,,,Bauer-Everett,ellismelissa@example.org,(669)933-3639,"81581 Combs Freeway Suite 399
+South Elizabethmouth, SC 11037",Tech,Cikarang,
+T182,2024-01-04,281,26,961,,,,,,Bauer-Everett,ellismelissa@example.org,(669)933-3639,"81581 Combs Freeway Suite 399
+South Elizabethmouth, SC 11037",Tech,Cikarang,
+T182,2024-01-05,259,61,2693,TRX1825,447413.0,12.0,Surabaya,Default,Bauer-Everett,ellismelissa@example.org,(669)933-3639,"81581 Combs Freeway Suite 399
+South Elizabethmouth, SC 11037",Tech,Cikarang,166.13924990716671
+T183,2024-01-01,253,11,3394,,,,,,Thomas-Wilson,moconnor@example.net,5297734530,"79842 Krueger Trace
+Krystalhaven, AR 67026",FMCG,Surabaya,
+T183,2024-01-02,129,30,4970,,,,,,Thomas-Wilson,moconnor@example.net,5297734530,"79842 Krueger Trace
+Krystalhaven, AR 67026",FMCG,Surabaya,
+T183,2024-01-03,711,88,3874,,,,,,Thomas-Wilson,moconnor@example.net,5297734530,"79842 Krueger Trace
+Krystalhaven, AR 67026",FMCG,Surabaya,
+T183,2024-01-04,971,93,3619,,,,,,Thomas-Wilson,moconnor@example.net,5297734530,"79842 Krueger Trace
+Krystalhaven, AR 67026",FMCG,Surabaya,
+T183,2024-01-05,920,70,4650,TRX1835,433279.0,3.0,Bandung,Default,Thomas-Wilson,moconnor@example.net,5297734530,"79842 Krueger Trace
+Krystalhaven, AR 67026",FMCG,Surabaya,93.17827956989247
+T184,2024-01-01,439,82,4290,,,,,,Stephens LLC,natalie77@example.com,240.335.0473x69684,"83777 Tran Extension
+Mcclurefurt, PA 78628",Utilities,Bogor,
+T184,2024-01-02,921,79,2759,,,,,,Stephens LLC,natalie77@example.com,240.335.0473x69684,"83777 Tran Extension
+Mcclurefurt, PA 78628",Utilities,Bogor,
+T184,2024-01-03,243,62,4635,,,,,,Stephens LLC,natalie77@example.com,240.335.0473x69684,"83777 Tran Extension
+Mcclurefurt, PA 78628",Utilities,Bogor,
+T184,2024-01-04,187,10,4424,,,,,,Stephens LLC,natalie77@example.com,240.335.0473x69684,"83777 Tran Extension
+Mcclurefurt, PA 78628",Utilities,Bogor,
+T184,2024-01-05,140,98,4690,TRX1845,267368.0,3.0,Bogor,No-Default,Stephens LLC,natalie77@example.com,240.335.0473x69684,"83777 Tran Extension
+Mcclurefurt, PA 78628",Utilities,Bogor,57.00810234541578
+T185,2024-01-01,449,90,3720,,,,,,Swanson-Gutierrez,joel74@example.org,723.824.3299,"78654 Jones Villages
+Port Joseph, CT 57406",Manufacturing,Cikarang,
+T185,2024-01-02,860,41,2335,,,,,,Swanson-Gutierrez,joel74@example.org,723.824.3299,"78654 Jones Villages
+Port Joseph, CT 57406",Manufacturing,Cikarang,
+T185,2024-01-03,304,88,2499,,,,,,Swanson-Gutierrez,joel74@example.org,723.824.3299,"78654 Jones Villages
+Port Joseph, CT 57406",Manufacturing,Cikarang,
+T185,2024-01-04,262,85,4578,,,,,,Swanson-Gutierrez,joel74@example.org,723.824.3299,"78654 Jones Villages
+Port Joseph, CT 57406",Manufacturing,Cikarang,
+T185,2024-01-05,332,80,2961,TRX1855,482008.0,6.0,Bandung,No-Default,Swanson-Gutierrez,joel74@example.org,723.824.3299,"78654 Jones Villages
+Port Joseph, CT 57406",Manufacturing,Cikarang,162.7855454238433
+T186,2024-01-01,200,76,2833,,,,,,"Galloway, Jackson and Strickland",charlespowell@example.net,(535)758-2842x950,"6090 Christian Glens Apt. 302
+Garciaberg, AL 36886",Manufacturing,Cikarang,
+T186,2024-01-02,215,29,2112,,,,,,"Galloway, Jackson and Strickland",charlespowell@example.net,(535)758-2842x950,"6090 Christian Glens Apt. 302
+Garciaberg, AL 36886",Manufacturing,Cikarang,
+T186,2024-01-03,15,58,2790,,,,,,"Galloway, Jackson and Strickland",charlespowell@example.net,(535)758-2842x950,"6090 Christian Glens Apt. 302
+Garciaberg, AL 36886",Manufacturing,Cikarang,
+T186,2024-01-04,248,50,515,,,,,,"Galloway, Jackson and Strickland",charlespowell@example.net,(535)758-2842x950,"6090 Christian Glens Apt. 302
+Garciaberg, AL 36886",Manufacturing,Cikarang,
+T186,2024-01-05,730,94,1024,TRX1865,453463.0,3.0,Bandung,Default,"Galloway, Jackson and Strickland",charlespowell@example.net,(535)758-2842x950,"6090 Christian Glens Apt. 302
+Garciaberg, AL 36886",Manufacturing,Cikarang,442.8349609375
+T187,2024-01-01,96,44,2088,,,,,,"Fields, Patel and Santiago",dorothy67@example.com,929.407.1144,"780 Warren Inlet Apt. 551
+Lake Richardview, LA 43372",Manufacturing,Bogor,
+T187,2024-01-02,182,75,2046,,,,,,"Fields, Patel and Santiago",dorothy67@example.com,929.407.1144,"780 Warren Inlet Apt. 551
+Lake Richardview, LA 43372",Manufacturing,Bogor,
+T187,2024-01-03,444,51,2923,,,,,,"Fields, Patel and Santiago",dorothy67@example.com,929.407.1144,"780 Warren Inlet Apt. 551
+Lake Richardview, LA 43372",Manufacturing,Bogor,
+T187,2024-01-04,119,34,3314,,,,,,"Fields, Patel and Santiago",dorothy67@example.com,929.407.1144,"780 Warren Inlet Apt. 551
+Lake Richardview, LA 43372",Manufacturing,Bogor,
+T187,2024-01-05,852,56,1132,TRX1875,65733.0,12.0,Bogor,Default,"Fields, Patel and Santiago",dorothy67@example.com,929.407.1144,"780 Warren Inlet Apt. 551
+Lake Richardview, LA 43372",Manufacturing,Bogor,58.06802120141343
+T188,2024-01-01,57,49,1819,,,,,,Sims-Flores,michaellucas@example.net,(614)292-6032x3856,"PSC 8894, Box 1529
+APO AE 72519",FMCG,Jakarta,
+T188,2024-01-02,913,30,2869,,,,,,Sims-Flores,michaellucas@example.net,(614)292-6032x3856,"PSC 8894, Box 1529
+APO AE 72519",FMCG,Jakarta,
+T188,2024-01-03,15,27,4662,,,,,,Sims-Flores,michaellucas@example.net,(614)292-6032x3856,"PSC 8894, Box 1529
+APO AE 72519",FMCG,Jakarta,
+T188,2024-01-04,183,42,3705,,,,,,Sims-Flores,michaellucas@example.net,(614)292-6032x3856,"PSC 8894, Box 1529
+APO AE 72519",FMCG,Jakarta,
+T188,2024-01-05,992,65,2764,TRX1885,371485.0,6.0,Cikarang,No-Default,Sims-Flores,michaellucas@example.net,(614)292-6032x3856,"PSC 8894, Box 1529
+APO AE 72519",FMCG,Jakarta,134.40123010130247
+T189,2024-01-01,508,30,515,,,,,,Lewis-Mccarty,harringtondanielle@example.org,+1-211-576-1028x7396,"2089 William Plains Suite 566
+Katherinechester, OK 54390",Tech,Jakarta,
+T189,2024-01-02,795,78,1340,,,,,,Lewis-Mccarty,harringtondanielle@example.org,+1-211-576-1028x7396,"2089 William Plains Suite 566
+Katherinechester, OK 54390",Tech,Jakarta,
+T189,2024-01-03,605,29,3613,,,,,,Lewis-Mccarty,harringtondanielle@example.org,+1-211-576-1028x7396,"2089 William Plains Suite 566
+Katherinechester, OK 54390",Tech,Jakarta,
+T189,2024-01-04,484,52,4483,,,,,,Lewis-Mccarty,harringtondanielle@example.org,+1-211-576-1028x7396,"2089 William Plains Suite 566
+Katherinechester, OK 54390",Tech,Jakarta,
+T189,2024-01-05,859,92,2131,TRX1895,39246.0,3.0,Cikarang,Default,Lewis-Mccarty,harringtondanielle@example.org,+1-211-576-1028x7396,"2089 William Plains Suite 566
+Katherinechester, OK 54390",Tech,Jakarta,18.41670577193806
+T190,2024-01-01,449,58,2981,,,,,,Munoz-Ward,osanchez@example.com,451-473-0700,"Unit 2492 Box 1343
+DPO AE 36628",Tech,Bogor,
+T190,2024-01-02,964,17,682,,,,,,Munoz-Ward,osanchez@example.com,451-473-0700,"Unit 2492 Box 1343
+DPO AE 36628",Tech,Bogor,
+T190,2024-01-03,650,95,1372,,,,,,Munoz-Ward,osanchez@example.com,451-473-0700,"Unit 2492 Box 1343
+DPO AE 36628",Tech,Bogor,
+T190,2024-01-04,628,63,3622,,,,,,Munoz-Ward,osanchez@example.com,451-473-0700,"Unit 2492 Box 1343
+DPO AE 36628",Tech,Bogor,
+T190,2024-01-05,895,12,2877,TRX1905,202022.0,12.0,Jakarta,No-Default,Munoz-Ward,osanchez@example.com,451-473-0700,"Unit 2492 Box 1343
+DPO AE 36628",Tech,Bogor,70.21967327076815
+T191,2024-01-01,21,34,4122,,,,,,Maynard-Hudson,bill10@example.net,753-727-2404x604,"314 Ashley Passage
+Lake Danielleside, ID 28349",Manufacturing,Cikarang,
+T191,2024-01-02,445,76,1861,,,,,,Maynard-Hudson,bill10@example.net,753-727-2404x604,"314 Ashley Passage
+Lake Danielleside, ID 28349",Manufacturing,Cikarang,
+T191,2024-01-03,685,75,3553,,,,,,Maynard-Hudson,bill10@example.net,753-727-2404x604,"314 Ashley Passage
+Lake Danielleside, ID 28349",Manufacturing,Cikarang,
+T191,2024-01-04,330,53,2166,,,,,,Maynard-Hudson,bill10@example.net,753-727-2404x604,"314 Ashley Passage
+Lake Danielleside, ID 28349",Manufacturing,Cikarang,
+T191,2024-01-05,955,42,1696,TRX1915,70451.0,6.0,Bandung,Default,Maynard-Hudson,bill10@example.net,753-727-2404x604,"314 Ashley Passage
+Lake Danielleside, ID 28349",Manufacturing,Cikarang,41.539504716981135
+T192,2024-01-01,417,86,2630,,,,,,"Mcmahon, Cole and Morgan",daniel16@example.net,722.814.8502x67178,"467 Perkins Station Apt. 899
+Lake William, MA 18746",Tech,Surabaya,
+T192,2024-01-02,883,86,1744,,,,,,"Mcmahon, Cole and Morgan",daniel16@example.net,722.814.8502x67178,"467 Perkins Station Apt. 899
+Lake William, MA 18746",Tech,Surabaya,
+T192,2024-01-03,203,22,684,,,,,,"Mcmahon, Cole and Morgan",daniel16@example.net,722.814.8502x67178,"467 Perkins Station Apt. 899
+Lake William, MA 18746",Tech,Surabaya,
+T192,2024-01-04,136,29,2264,,,,,,"Mcmahon, Cole and Morgan",daniel16@example.net,722.814.8502x67178,"467 Perkins Station Apt. 899
+Lake William, MA 18746",Tech,Surabaya,
+T192,2024-01-05,17,48,822,TRX1925,125179.0,6.0,Cikarang,No-Default,"Mcmahon, Cole and Morgan",daniel16@example.net,722.814.8502x67178,"467 Perkins Station Apt. 899
+Lake William, MA 18746",Tech,Surabaya,152.28588807785889
+T193,2024-01-01,664,74,4693,,,,,,Kelly Ltd,mcdowellkenneth@example.net,(723)854-4573x8579,"9221 Teresa Club Apt. 195
+Port Lisastad, TN 48114",Manufacturing,Bandung,
+T193,2024-01-02,412,23,1572,,,,,,Kelly Ltd,mcdowellkenneth@example.net,(723)854-4573x8579,"9221 Teresa Club Apt. 195
+Port Lisastad, TN 48114",Manufacturing,Bandung,
+T193,2024-01-03,260,43,1568,,,,,,Kelly Ltd,mcdowellkenneth@example.net,(723)854-4573x8579,"9221 Teresa Club Apt. 195
+Port Lisastad, TN 48114",Manufacturing,Bandung,
+T193,2024-01-04,214,95,562,,,,,,Kelly Ltd,mcdowellkenneth@example.net,(723)854-4573x8579,"9221 Teresa Club Apt. 195
+Port Lisastad, TN 48114",Manufacturing,Bandung,
+T193,2024-01-05,572,38,3187,TRX1935,272002.0,12.0,Bandung,Default,Kelly Ltd,mcdowellkenneth@example.net,(723)854-4573x8579,"9221 Teresa Club Apt. 195
+Port Lisastad, TN 48114",Manufacturing,Bandung,85.34734860370254
+T194,2024-01-01,830,33,4945,,,,,,King-Fuentes,iwashington@example.com,958-967-5245,"968 Mcconnell Vista
+Garciaside, MD 39591",Manufacturing,Bandung,
+T194,2024-01-02,966,17,1925,,,,,,King-Fuentes,iwashington@example.com,958-967-5245,"968 Mcconnell Vista
+Garciaside, MD 39591",Manufacturing,Bandung,
+T194,2024-01-03,773,57,3491,,,,,,King-Fuentes,iwashington@example.com,958-967-5245,"968 Mcconnell Vista
+Garciaside, MD 39591",Manufacturing,Bandung,
+T194,2024-01-04,633,65,610,,,,,,King-Fuentes,iwashington@example.com,958-967-5245,"968 Mcconnell Vista
+Garciaside, MD 39591",Manufacturing,Bandung,
+T194,2024-01-05,527,50,933,TRX1945,415970.0,12.0,Cikarang,Default,King-Fuentes,iwashington@example.com,958-967-5245,"968 Mcconnell Vista
+Garciaside, MD 39591",Manufacturing,Bandung,445.84137191854234
+T195,2024-01-01,414,42,2704,,,,,,"Smith, Guzman and Murphy",chasesandoval@example.net,(575)625-8070,"118 Nelson Ramp Suite 342
+Stephenchester, LA 33322",Energy,Jakarta,
+T195,2024-01-02,466,69,901,,,,,,"Smith, Guzman and Murphy",chasesandoval@example.net,(575)625-8070,"118 Nelson Ramp Suite 342
+Stephenchester, LA 33322",Energy,Jakarta,
+T195,2024-01-03,433,72,1138,,,,,,"Smith, Guzman and Murphy",chasesandoval@example.net,(575)625-8070,"118 Nelson Ramp Suite 342
+Stephenchester, LA 33322",Energy,Jakarta,
+T195,2024-01-04,124,56,1318,,,,,,"Smith, Guzman and Murphy",chasesandoval@example.net,(575)625-8070,"118 Nelson Ramp Suite 342
+Stephenchester, LA 33322",Energy,Jakarta,
+T195,2024-01-05,644,43,624,TRX1955,313869.0,6.0,Bogor,No-Default,"Smith, Guzman and Murphy",chasesandoval@example.net,(575)625-8070,"118 Nelson Ramp Suite 342
+Stephenchester, LA 33322",Energy,Jakarta,502.9951923076923
+T196,2024-01-01,611,45,1073,,,,,,Mooney-Smith,wholt@example.net,(638)363-0589,"USCGC Johnson
+FPO AE 34998",Utilities,Surabaya,
+T196,2024-01-02,262,85,4909,,,,,,Mooney-Smith,wholt@example.net,(638)363-0589,"USCGC Johnson
+FPO AE 34998",Utilities,Surabaya,
+T196,2024-01-03,505,27,3776,,,,,,Mooney-Smith,wholt@example.net,(638)363-0589,"USCGC Johnson
+FPO AE 34998",Utilities,Surabaya,
+T196,2024-01-04,187,43,2231,,,,,,Mooney-Smith,wholt@example.net,(638)363-0589,"USCGC Johnson
+FPO AE 34998",Utilities,Surabaya,
+T196,2024-01-05,559,36,3789,TRX1965,433750.0,12.0,Bogor,No-Default,Mooney-Smith,wholt@example.net,(638)363-0589,"USCGC Johnson
+FPO AE 34998",Utilities,Surabaya,114.4761150699393
+T197,2024-01-01,41,54,2564,,,,,,Heath Group,jacksonamy@example.com,(908)596-5330,"88467 Tracy Avenue
+Vazquezview, SC 14646",Utilities,Bogor,
+T197,2024-01-02,738,51,3713,,,,,,Heath Group,jacksonamy@example.com,(908)596-5330,"88467 Tracy Avenue
+Vazquezview, SC 14646",Utilities,Bogor,
+T197,2024-01-03,506,60,4867,,,,,,Heath Group,jacksonamy@example.com,(908)596-5330,"88467 Tracy Avenue
+Vazquezview, SC 14646",Utilities,Bogor,
+T197,2024-01-04,21,74,3842,,,,,,Heath Group,jacksonamy@example.com,(908)596-5330,"88467 Tracy Avenue
+Vazquezview, SC 14646",Utilities,Bogor,
+T197,2024-01-05,972,20,3486,TRX1975,432071.0,12.0,Bogor,Default,Heath Group,jacksonamy@example.com,(908)596-5330,"88467 Tracy Avenue
+Vazquezview, SC 14646",Utilities,Bogor,123.94463568559954
+T198,2024-01-01,469,33,3330,,,,,,Anderson-Bautista,juliejefferson@example.org,001-607-778-6292x0079,"USCGC Lindsey
+FPO AA 71621",Manufacturing,Cikarang,
+T198,2024-01-02,965,39,1640,,,,,,Anderson-Bautista,juliejefferson@example.org,001-607-778-6292x0079,"USCGC Lindsey
+FPO AA 71621",Manufacturing,Cikarang,
+T198,2024-01-03,293,12,1064,,,,,,Anderson-Bautista,juliejefferson@example.org,001-607-778-6292x0079,"USCGC Lindsey
+FPO AA 71621",Manufacturing,Cikarang,
+T198,2024-01-04,213,27,613,,,,,,Anderson-Bautista,juliejefferson@example.org,001-607-778-6292x0079,"USCGC Lindsey
+FPO AA 71621",Manufacturing,Cikarang,
+T198,2024-01-05,114,81,2185,TRX1985,428229.0,6.0,Surabaya,No-Default,Anderson-Bautista,juliejefferson@example.org,001-607-778-6292x0079,"USCGC Lindsey
+FPO AA 71621",Manufacturing,Cikarang,195.9858123569794
+T199,2024-01-01,869,38,1773,,,,,,Wallace-Spears,jonesronald@example.com,589.785.6994,"369 James Common Suite 741
+Wendyberg, TN 60419",Tech,Jakarta,
+T199,2024-01-02,1000,47,3114,,,,,,Wallace-Spears,jonesronald@example.com,589.785.6994,"369 James Common Suite 741
+Wendyberg, TN 60419",Tech,Jakarta,
+T199,2024-01-03,708,77,4366,,,,,,Wallace-Spears,jonesronald@example.com,589.785.6994,"369 James Common Suite 741
+Wendyberg, TN 60419",Tech,Jakarta,
+T199,2024-01-04,952,16,2424,,,,,,Wallace-Spears,jonesronald@example.com,589.785.6994,"369 James Common Suite 741
+Wendyberg, TN 60419",Tech,Jakarta,
+T199,2024-01-05,322,42,1120,TRX1995,130825.0,12.0,Bandung,Default,Wallace-Spears,jonesronald@example.com,589.785.6994,"369 James Common Suite 741
+Wendyberg, TN 60419",Tech,Jakarta,116.80803571428571
