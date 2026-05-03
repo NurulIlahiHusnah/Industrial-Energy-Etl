@@ -77,3 +77,41 @@ Automated ETL pipeline untuk memproses data energi industri dari 3 sumber berbed
 # WSL2 (Ubuntu 22.04)
 # PostgreSQL 14
 # Python 3.10+
+```
+
+# Clone repository
+```bash
+git clone https://github.com/NurulIlahiHusnah/industrial-energy-etl.git
+cd industrial-energy-etl
+```
+# Install Python dependencies
+```pip install -r requirements.txt```
+
+# Setup PostgreSQL
+```bash
+sudo -u postgres psql -c "CREATE DATABASE industrial_db;"
+psql -U postgres -d industrial_db -f schema.sql```
+
+# Run Python script directly
+```bash
+python3 etl/process.py```
+
+# Or run full pipeline with orchestrator
+bash scripts/ingest.sh
+
+# Add to crontab (runs daily at 1 AM)
+crontab -e
+# Add line: 0 1 * * * cd /path/to/project && bash scripts/ingest.sh
+
+-- Top 5 industries by revenue
+SELECT industry, SUM(amount) as revenue
+FROM fact_energy_usage
+GROUP BY industry
+ORDER BY revenue DESC
+LIMIT 5;
+
+   industry    |   revenue    
+---------------+--------------
+ Manufacturing | Rp45,234,567
+ Tech          | Rp32,123,456
+ Energy        | Rp28,765,432
