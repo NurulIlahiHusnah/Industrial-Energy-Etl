@@ -35,7 +35,7 @@ Automated ETL pipeline untuk memproses data energi industri dari 3 sumber berbed
 ---
 
 ## 📊 Architecture
-![Architecture] Arsitecture Diagram.png
+![Architecture] (https://github.com/NurulIlahiHusnah/Industrial-Energy-Etl/blob/main/Arsitecture%20Diagram.png)
 
 ⏰ Cron Job: Daily at 1 AM → bash scripts/ingest.sh
 
